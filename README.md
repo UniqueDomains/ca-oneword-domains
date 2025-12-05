@@ -30,21 +30,21 @@ If you want to search & filters the complete database of [.CA one word domains](
 | abatic.ca     | available | 54       | 2%     | 6      |                                 |                  |                  |
 | abbatial.ca   | available | 50       | 1%     | 8      |                                 |                  |                  |
 | abdicable.ca  | available | 50       | 1%     | 9      |                                 |                  |                  |
-| abdominal.ca  | resell    | 82       | 1%     | 9      | (Funio) - Miss Group Canada Inc | 24/01/2025 20:57 | 24/01/2026 20:57 |
+| abdominal.ca  | resell    | 82       | 5%     | 9      | (Funio) - Miss Group Canada Inc | 24/01/2025 20:57 | 24/01/2026 20:57 |
 | abdominous.ca | available | 56       | 1%     | 10     |                                 |                  |                  |
 | abducens.ca   | available | 54       | 1%     | 8      |                                 |                  |                  |
 | abducent.ca   | available | 68       | 1%     | 8      |                                 |                  |                  |
 | abducting.ca  | available | 50       | 1%     | 9      |                                 |                  |                  |
 | aberdonian.ca | available | 68       | 1%     | 10     |                                 |                  |                  |
 | abeyant.ca    | available | 56       | 2%     | 7      |                                 |                  |                  |
-| abhorrent.ca  | available | 54       | 1%     | 9      |                                 |                  |                  |
+| abhorrent.ca  | available | 54       | 3%     | 9      |                                 |                  |                  |
 | abient.ca     | available | 54       | 1%     | 6      |                                 |                  |                  |
 | abkhas.ca     | available | 68       | 1%     | 6      |                                 |                  |                  |
 | abkhasian.ca  | available | 78       | 1%     | 9      |                                 |                  |                  |
 | abkhaz.ca     | available | 82       | 2%     | 6      |                                 |                  |                  |
 | abkhazian.ca  | available | 78       | 1%     | 9      |                                 |                  |                  |
 | ablated.ca    | available | 52       | 2%     | 7      |                                 |                  |                  |
-| able.ca       | premium   | 80       | 32%    | 4      |                                 |                  |                  |
+| able.ca       | premium   | 80       | 26%    | 4      |                                 |                  |                  |
 | abnaki.ca     | available | 68       | 2%     | 6      |                                 |                  |                  |
 | abomasal.ca   | available | 50       | 1%     | 8      |                                 |                  |                  |
 | abomb.ca      | available | 102      | 2%     | 6      |                                 |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CA one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
