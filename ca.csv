@@ -1214,6 +1214,7 @@ aa42c293-b165-4fcd-9baa-0d1d81127190,buzzing.ca,resell,66,7,7,MyID.ca (Creative 
 38266a02-0bb5-4b25-b03f-7cf9c9852494,cafe.ca,resell,78,27,4,Namespro Solutions Inc.,20/10/2000 16:22,29/03/2026 04:00
 01b8540d-f75b-49ea-a5da-5ddc3f76a4a8,cairo.ca,resell,68,12,5,Namespro Solutions Inc.,22/05/2003 16:00,22/05/2026 04:00
 eaa95d21-22e2-450e-b6b0-81b23c6acc6f,calf.ca,resell,74,7,4,CENTRALNIC CANADA INC,18/11/2000 03:57,01/12/2026 05:00
+b14967d8-3595-408c-bbb1-2bb263349f52,callfor.ca,available,72,2,8,,,
 f82c5976-d0eb-4eae-a80e-6b0f7a4f41f1,calloff.ca,available,67,2,8,,,
 def7ed63-19fb-4bf8-a79c-07da185a411e,cameraman.ca,resell,77,4,9,WHC Online Solutions Inc.,17/04/2024 19:00,17/04/2026 19:00
 7b2cba2e-313f-4bc9-a57a-53754ed6cfd6,cameroon.ca,resell,81,3,8,CanSpace Solutions Inc.,18/04/2005 20:12,18/04/2026 04:00
@@ -1966,6 +1967,7 @@ d59f1c3d-dec5-4468-b16b-ef7cec8c1177,layer.ca,resell,62,23,5,Namespro Solutions 
 e1beff5f-cc78-4e1e-8340-87ee00b3c7e0,laziness.ca,available,58,2,8,,,
 0e366ce9-67f1-4433-8374-03ed26e941da,lazuline.ca,available,46,3,8,,,
 6c0fefbd-f039-455d-91e9-e13eaa29fb6e,lcd.ca,resell,76,10,3,Namespro Solutions Inc.,25/05/2007 21:04,25/05/2026 04:00
+fd5c3373-19f3-4ae6-b2e3-93802d4c0446,leaveout.ca,available,66,1,9,,,
 c6c46fdc-0d5b-4777-8f8f-dd95acab9601,lecture.ca,resell,96,7,7,Namespro Solutions Inc.,13/02/2002 17:00,13/02/2026 05:00
 40a68d5a-27ec-416b-8805-4a20d5c4c184,leg.ca,available,116,11,3,,,
 3d9a5324-bc5a-4a85-892e-fb8b71de229b,lend.ca,resell,90,15,4,Namespro Solutions Inc.,01/06/2005 18:00,01/06/2032 04:00
@@ -2091,7 +2093,7 @@ a1885bdb-023a-4650-86eb-a5b8e25959c7,monstrous.ca,available,46,6,9,,,
 25bbbb21-39c8-4dfb-8eb5-38b46da27f35,mordacious.ca,available,44,1,10,,,
 f16ee4c6-f988-4f3f-ba4f-84028eb80b1e,morethan.ca,resell,66,14,9,CENTRALNIC CANADA INC,02/02/2022 20:06,02/02/2026 20:06
 e5313d2b-180a-4259-ba53-5565fe726600,morgan.ca,available,64,26,6,,,
-e1a138da-8366-4f67-b733-305f5b210d9a,mosque.ca,resell,72,,6,MyID.ca INC.,24/01/2002 15:38,24/01/2027 05:00
+e1a138da-8366-4f67-b733-305f5b210d9a,mosque.ca,resell,72,9,6,MyID.ca INC.,24/01/2002 15:38,24/01/2027 05:00
 fe0c07f9-8967-454b-95e6-b06455025d5b,most.ca,available,118,21,4,,,
 91a560c9-d865-4111-b5f2-ca1309207869,motivate.ca,resell,81,12,8,Namespro Solutions Inc.,08/01/2003 17:07,08/01/2026 05:00
 ba81d385-b406-499f-a85b-ea52c22397bf,motivation.ca,resell,74,16,10,Namespro Solutions Inc.,19/06/2003 01:29,18/06/2026 04:00
@@ -2114,11 +2116,15 @@ dfbce219-54ee-4301-a4e6-0e428a3fcbc4,mutual.ca,resell,90,17,6,Namespro Solutions
 c5a205ec-4c83-410d-9a49-7ad8a83dbd5d,need.ca,resell,104,27,4,CENTRALNIC CANADA INC,09/03/2022 19:00,09/03/2026 19:00
 0a9434c2-f245-4218-a394-094b6bcf444c,needlelike.ca,available,50,1,10,,,
 44273fe2-7387-4582-b7b8-9691377c25da,negative.ca,resell,112,10,8,Namespro Solutions Inc.,26/10/2004 18:00,26/10/2026 04:00
+5ced6ff5-09f9-4f47-b878-df91e895f0e5,neighbor.ca,resell,66,16,8,Namespro Solutions Inc.,04/04/2004 15:59,04/04/2026 04:00
+a2440faf-a36a-44c8-a247-9aa1d5bc6f09,neighbour.ca,resell,94,8,9,Namespro Solutions Inc.,17/09/2008 19:25,17/09/2026 04:00
+343e4eec-7c4d-4d84-aac9-965a2b000bc1,nephew.ca,resell,66,4,6,WHC Online Solutions Inc.,06/04/2006 20:48,06/04/2026 04:00
 e88b0bf3-753b-4c98-9ba8-90a9ee9bf43c,nervous.ca,resell,64,8,7,CanSpace Solutions Inc.,13/06/2005 14:10,13/06/2026 04:00
 bf81db62-bc18-4bf3-9ace-a56ce3824919,net.ca,available,70,37,3,,,
 f7e42d5d-c22c-4538-92bc-0e521f6f948c,nettled.ca,available,45,1,7,,,
 b81a2a2e-7de6-4ab9-9cbd-65b1597391e1,nettlesome.ca,available,41,1,10,,,
 2b9f96b7-713f-466b-998b-1a40ee8059d5,newbie.ca,resell,68,16,6,Grape Inc.,13/09/2004 18:00,13/09/2026 04:00
+dcbdce9e-1cde-48ab-a7e7-ec7edbaac956,news.ca,resell,100,56,4,CanSpace Solutions Inc.,24/09/2000 14:31,10/10/2026 04:00
 b0f47c39-24c6-42d1-bc44-b327f24d5e94,newsmedia.ca,resell,70,8,10,BareMetal.com inc,22/02/2017 20:29,22/02/2026 20:29
 5852e0f5-bab7-4f75-aa62-e4ee8f6d2e55,newwave.ca,resell,68,17,8,Namespro Solutions Inc.,23/03/2006 00:01,22/03/2026 04:00
 f4b7c13e-e03e-45e6-afd3-6e300720d133,next.ca,available,92,43,4,,,
@@ -2136,6 +2142,7 @@ a7007bc4-d4ae-4416-9379-b916293da533,nitric.ca,available,64,3,6,,,
 3a1043d1-53c5-4d22-ae88-fb679f3c2f03,nonplused.ca,available,41,1,9,,,
 17ded74e-6dc3-4f23-a6b7-c9a2bb796063,nonplussed.ca,available,41,2,10,,,
 7b8d337b-52ce-41e6-aefa-6bfe7a63fe7a,nonsexual.ca,available,54,2,9,,,
+5f3e7b5d-6441-45ae-a444-64fdc35685dd,normality.ca,available,70,4,9,,,
 f5f094cb-9472-4232-bd73-5d6d5c371f04,normally.ca,resell,66,3,8,WHC Online Solutions Inc.,05/04/2023 19:00,05/04/2026 19:00
 176cf876-8626-4466-a822-75be46e2609e,notguilty.ca,resell,48,5,10,WHC Online Solutions Inc.,22/02/2023 19:00,22/02/2026 19:00
 229cb9ee-20fc-4dea-b651-574f3766efd4,noticeable.ca,available,68,3,10,,,
@@ -2143,6 +2150,8 @@ f5f094cb-9472-4232-bd73-5d6d5c371f04,normally.ca,resell,66,3,8,WHC Online Soluti
 24dadc63-b274-4852-83ea-f92980f05a8b,nutrient.ca,resell,92,7,8,Namespro Solutions Inc.,24/11/2000 11:54,07/04/2026 04:00
 fa13634b-8b7c-435f-805c-10a23b1c9910,nutritive.ca,resell,84,2,9,CENTRALNIC CANADA INC,11/08/2021 19:00,11/08/2026 19:00
 9d726465-8340-4e5c-80a7-d705c5df285b,nuts.ca,resell,64,16,4,Rebel.ca Corp.,24/01/2002 15:31,24/01/2026 05:00
+fc43b966-c78c-4352-8eac-c188ac42674b,oakland.ca,available,66,17,7,,,
+409dd3bc-ac2b-4d89-b349-fe93cca54624,oar.ca,resell,68,7,3,BareMetal.com inc,13/10/2003 16:00,13/10/2026 04:00
 f0aeb401-c0b9-4312-ab07-a888314a0c20,observed.ca,available,68,3,8,,,
 ac4a31c8-8ac7-4e81-8db9-fd463f3452ca,observer.ca,resell,69,15,8,Namespro Solutions Inc.,04/03/2003 17:00,04/03/2026 05:00
 685ea1c1-9a60-43cf-a3ae-4a07d433b450,occupy.ca,resell,62,7,6,"Go Daddy Domains Canada, Inc",26/10/2022 19:00,26/10/2026 19:00
@@ -2157,6 +2166,8 @@ f8b02b03-f2c6-4328-b9d8-ae8e8bb38231,oflate.ca,available,62,1,7,,,
 47247b68-f281-49b9-8efa-077e2fb2323f,ogdoad.ca,available,50,2,6,,,
 c3bb26f3-dddc-43ee-943b-33120f09608f,oklahoma.ca,premium,46,15,8,,,
 5456541d-1a27-468c-bd5a-33d5d55f39e8,older.ca,resell,66,7,5,CanSpace Solutions Inc.,18/04/2005 20:11,18/04/2026 04:00
+475c8c1b-2aad-4723-98a9-df624c865096,oldlady.ca,available,60,2,8,,,
+2a20862c-cd5c-4ca6-a896-6e293872c582,oldschool.ca,resell,70,18,10,BareMetal.com inc,26/03/2025 19:00,26/03/2027 19:00
 22b7a404-ba4c-4572-8e73-b92cce49aa94,omniscient.ca,resell,64,9,10,WHC Online Solutions Inc.,24/07/2024 19:00,24/07/2026 19:00
 b7f812d1-e879-40b2-adb3-3ec0be4d2dae,onehalf.ca,available,64,4,8,,,
 30166bda-c830-4d96-9d05-598b187f0fc0,opposable.ca,available,43,2,9,,,
@@ -2177,6 +2188,7 @@ b25470c5-a7fc-4371-8362-dc9135ea51dc,outdated.ca,available,58,6,8,,,
 97c1e538-46a9-4a9c-8e12-1d179cf91fa9,outing.ca,resell,77,5,6,MyID.ca INC.,05/11/2005 00:49,04/11/2026 04:00
 d512efda-b0e7-4775-88b5-4f5c0d3a328f,outlook.ca,available,95,20,7,,,
 91232b4a-aa9f-4264-bfe3-67258b3add99,over.ca,resell,80,21,4,Namespro Solutions Inc.,23/02/2003 17:07,23/02/2026 05:00
+5ddd8ff1-6721-40e4-84c1-e7d6ae817e64,overlook.ca,resell,86,9,8,Network Solutions Canada ULC,26/11/2020 17:16,26/11/2026 17:16
 4c82fa6d-e4e4-4000-b302-c58cbfb0d962,overseas.ca,resell,68,10,8,MyID.ca INC.,09/05/2018 19:38,09/05/2027 19:38
 7b1b8f1f-d579-483c-a49a-1037f189bd16,own.ca,resell,122,25,3,Namespro Solutions Inc.,02/09/2005 12:52,02/09/2026 04:00
 9fbc401f-6dff-4a3d-b2a6-0f0117cb852d,painful.ca,resell,58,4,7,"Go Daddy Domains Canada, Inc",30/03/2022 19:00,30/03/2026 19:00
@@ -2187,6 +2199,7 @@ d512efda-b0e7-4775-88b5-4f5c0d3a328f,outlook.ca,available,95,20,7,,,
 2e529bab-e6f9-4d68-ad3d-a93587a2e81d,pamper.ca,resell,101,6,6,BareMetal.com inc,25/11/2000 02:12,01/12/2026 05:00
 79616a21-2da7-4277-be43-ffb818d5baf0,panoplied.ca,available,50,1,9,,,
 279dcf16-0000-4ddb-aa03-b233636402a4,panther.ca,resell,62,19,7,CENTRALNIC CANADA INC,09/03/2022 19:00,09/03/2026 19:00
+9d169770-8fc6-4a7b-91b1-96a6ae1c4a6c,paper.ca,resell,108,34,5,Grape Inc.,09/06/2003 16:00,09/06/2026 04:00
 655a07bb-24ec-4d9a-a1ae-92f434aa745f,paperback.ca,resell,104,5,9,MyID.ca INC.,18/03/2004 06:20,18/03/2026 04:00
 6cd6d4e2-0462-43fe-b262-8d3634243202,parody.ca,resell,92,8,6,"Go Daddy Domains Canada, Inc",18/05/2022 19:00,18/05/2026 19:00
 808b84ea-ff5e-4853-8803-a7fb5c00dde4,pass.ca,resell,84,27,4,"Go Daddy Domains Canada, Inc",01/02/2001 17:44,01/02/2027 05:00
@@ -2347,10 +2360,12 @@ f0f8bb5b-79d3-4c89-8b65-9fb8d0b887cf,remedial.ca,resell,86,6,8,BareMetal.com inc
 320d301a-8f0e-4855-9821-cfc7d47c0ac5,remove.ca,resell,100,12,6,"Go Daddy Domains Canada, Inc",19/03/2014 19:23,19/03/2026 19:23
 4a75436a-d489-4933-9723-870c45b7e500,repeat.ca,resell,96,13,6,Namespro Solutions Inc.,10/08/2004 18:00,10/08/2026 04:00
 5f187726-ab65-49f1-afaf-c1b90530215f,repeated.ca,available,64,2,8,,,
+0d8097b8-1424-4b30-9d6f-f95818a764c6,report.ca,resell,98,26,6,"Go Daddy Domains Canada, Inc",18/10/2003 16:00,18/10/2027 04:00
 21150487-e1ca-4228-b9e9-696b746238a8,reproving.ca,available,66,1,9,,,
 cf488034-444b-4ce5-a372-038a519e4fca,repugnant.ca,available,52,2,9,,,
 4c39a2b8-4eb3-45f9-8f19-87e3a8f6a73e,repulsive.ca,available,52,2,9,,,
 1090106f-d023-4b30-90e3-4b9e3978a419,requested.ca,premium,64,4,9,,,
+3c5f8ee5-13c1-49e0-b7b2-705e6f0d9e66,require.ca,resell,76,6,7,BareMetal.com inc,04/06/2025 19:00,04/06/2026 19:00
 eec0910b-4c84-4855-8c04-d4b07453afc8,resolvable.ca,available,70,2,10,,,
 350fdda5-0b7f-4d65-96ee-5ca0826ee11e,resonating.ca,available,65,3,10,,,
 8516974e-d3a1-4086-a4d7-51219c549bce,respectful.ca,resell,78,3,10,BareMetal.com inc,06/07/2022 19:00,06/07/2026 19:00
@@ -2441,6 +2456,7 @@ f9353047-8768-4bf4-a89c-26b362ef4426,setose.ca,available,46,1,6,,,
 95661946-3f20-4fc6-9cc5-817a97083400,sevener.ca,available,68,1,7,,,
 15f42997-f72d-41e1-81c7-5a6ca6373c4b,seventh.ca,resell,80,10,7,WHC Online Solutions Inc.,22/03/2002 17:01,22/03/2026 04:00
 82f5fb6f-ae7a-4de9-b620-a780a91128b2,seventieth.ca,available,72,1,10,,,
+781338e8-2a7f-4619-a4e2-9219b1878b37,sevenup.ca,available,72,2,8,,,
 2d225d1d-84e6-4d4c-89d5-c315de4d1309,severely.ca,available,51,1,8,,,
 b0016cc0-17c7-4171-be67-647fbdd47f39,sextet.ca,available,66,2,6,,,
 042de91a-ee2a-44ce-a085-a0c3b38915a1,sextuplet.ca,available,58,1,9,,,
@@ -2560,6 +2576,7 @@ bfe5de5f-15be-4dd5-8c1e-df47b62931b7,tailless.ca,available,51,2,8,,,
 fa812fd8-f579-4f18-a479-4493aa7fab4d,taipei.ca,resell,70,12,6,WHC Online Solutions Inc.,13/07/2022 19:00,13/07/2026 19:00
 5fa612e7-79ec-4d61-9b7a-80b5c02b0f56,taken.ca,resell,76,7,5,BareMetal.com inc,22/01/2025 19:00,22/01/2027 19:00
 c4753442-b4b3-4d40-965f-6ec90c39341d,talk.ca,resell,110,31,4,"Go Daddy Domains Canada, Inc",29/11/2000 05:05,01/10/2026 04:00
+9e25b997-53c9-4d7b-9676-3a3a4c916bdd,talks.ca,resell,76,18,5,WHC Online Solutions Inc.,22/04/2020 19:00,22/04/2026 19:00
 e75b457a-511d-4e21-a47e-95d81308e464,tall.ca,resell,106,11,4,Grape Inc.,31/12/2003 17:01,31/12/2026 05:00
 32fbaea5-1778-4545-ba4a-0f4f0aeabf5c,tap.ca,resell,78,32,3,NameSilo Technologies Corp.,15/01/2005 19:00,15/01/2026 05:00
 59533a59-bb39-479a-aa41-aec297377766,task.ca,resell,96,34,4,BareMetal.com inc,01/02/2001 18:14,01/02/2026 05:00
@@ -2567,6 +2584,7 @@ f5c6f66e-8cde-487b-8291-a7824fa948db,taste.ca,resell,114,24,5,Namespro Solutions
 05277baa-5f30-484c-b7d4-94453690dbeb,taxreturn.ca,resell,64,8,10,Namespro Solutions Inc.,09/05/2007 19:26,09/05/2026 04:00
 c3d9d88b-fef8-47e9-a950-c4df0f9dfc88,taylor.ca,available,58,36,6,,,
 9a23db37-8009-41ee-8d77-4943ef966dda,television.ca,resell,104,16,10,egate DOMAINS Inc.,18/10/2000 18:08,25/09/2026 04:00
+7a3c5329-fcb6-40d1-90d8-e7757975a156,tell.ca,resell,74,,4,Grape Inc.,08/01/2003 17:03,08/01/2027 05:00
 9d600609-a77a-40fd-87de-d11856d8e4b5,tempting.ca,resell,88,4,8,CENTRALNIC CANADA INC,01/05/2024 23:35,01/05/2026 23:35
 016bf20a-f9bc-49fd-8fb4-0205cf9cecdd,tenner.ca,available,66,4,6,,,
 75c2ae52-2633-423a-91c9-934888042d54,tentative.ca,resell,81,3,9,CENTRALNIC CANADA INC,22/10/2009 00:00,21/10/2026 04:00
