@@ -379,7 +379,7 @@ f6baa532-016b-4763-b258-d82cb531b4ee,aligning.ca,available,52,4,8,,,
 9c5f0ac5-9b07-4400-ae36-869511fef4e4,aliphatic.ca,available,64,1,9,,,
 982dc169-27dd-4150-889e-69b2fc4de2f6,alittle.ca,premium,62,7,8,,,
 a7aa4465-fdb1-4721-b596-fe194779e4f6,alittlebit.ca,available,64,2,12,,,
-1d6bff4d-9f8a-42a8-ae01-1243533300a4,alive.ca,resell,84,24,5,BareMetal.com inc,04/10/2005 18:00,04/10/2026 04:00
+1d6bff4d-9f8a-42a8-ae01-1243533300a4,alive.ca,resell,84,99,5,BareMetal.com inc,04/10/2005 18:00,04/10/2026 04:00
 9854020c-aa8c-491a-b222-9d7bed20cd3d,alkahestic.ca,available,46,1,10,,,
 da0a24c1-975d-4943-aeef-9b8a06a740eb,alkalic.ca,available,50,1,7,,,
 dc6ea51e-77d3-49b1-8040-065978f719fd,alkaline.ca,resell,88,97,8,WHC Online Solutions Inc.,24/03/2002 17:01,24/03/2026 04:00
@@ -467,15 +467,15 @@ ffea99b6-738b-4326-8996-4ec117c68e48,ameban.ca,available,52,2,6,,,
 201ffc7a-0d63-4d8c-aefa-7acf5a3f5b8b,amebic.ca,available,56,1,6,,,
 81640260-6f6f-42d6-8fcd-b5fcb909d72d,ameboid.ca,available,74,1,7,,,
 03d409a5-90ff-4a01-95e8-c30ad073fe88,amebous.ca,available,52,1,7,,,
-c2edb31d-2647-4d05-9f93-5be6c4de24d4,amenable.ca,available,68,1,8,,,
-025e2e99-8882-4251-849d-b60224982866,amendable.ca,available,68,1,9,,,
+c2edb31d-2647-4d05-9f93-5be6c4de24d4,amenable.ca,available,68,97,8,,,
+025e2e99-8882-4251-849d-b60224982866,amendable.ca,available,68,97,9,,,
 bf3ff807-631f-420c-936a-84126d3d05d6,amendatory.ca,available,56,1,10,,,
 389a98a6-2575-44a3-8d86-7d97e2fed139,amerciable.ca,available,54,1,10,,,
 e4c6ddb4-7c18-4dbe-8336-f8bf61d83fe7,AmericanEnglish.ca,available,76,3,16,,,
 d347f44e-35ea-481f-86e3-8194de7071af,amerind.ca,available,76,2,7,,,
 a2073ac0-908c-4fae-ad2c-697da3641539,amerindic.ca,available,54,1,9,,,
 0bf47601-b41f-4cf0-8dd1-68863f53666b,ametabolic.ca,available,50,1,10,,,
-fe9fe338-20f3-4e59-bded-a47aec02601f,amethyst.ca,available,58,17,8,,,
+fe9fe338-20f3-4e59-bded-a47aec02601f,amethyst.ca,available,58,98,8,,,
 01ebd02a-e2a7-4a18-992f-12cc0dc8ed0e,ametropic.ca,available,50,1,9,,,
 f5fa69f2-f29a-4e60-af9a-ac3997743e8a,amidships.ca,available,59,1,9,,,
 b07d02c3-0901-47ad-826e-19ac18e8a0a9,aminic.ca,available,50,1,6,,,
@@ -569,8 +569,8 @@ f71ecc8f-6370-4a3b-83c5-bfa80c606c06,anesthetic.ca,available,68,1,10,,,
 41932593-1fc6-482d-9527-5ae21ff44240,aneurismal.ca,available,50,6,10,,,
 1b3d2770-5b7a-4b92-9b83-6cf2ece8424f,aneurysmal.ca,available,50,2,10,,,
 e1926cd7-171e-4b89-a833-24eed8aa3d1e,aneyeforaneye.ca,available,46,1,17,,,
-8cee1a92-9c69-4e8d-8600-13d0518616fa,angelic.ca,resell,80,10,7,WHC Online Solutions Inc.,15/02/2023 19:00,15/02/2026 19:00
-5d3f727c-1dea-4f49-8747-3a50f258ec07,angelical.ca,available,68,1,9,,,
+8cee1a92-9c69-4e8d-8600-13d0518616fa,angelic.ca,resell,80,97,7,WHC Online Solutions Inc.,15/02/2023 19:00,15/02/2026 19:00
+5d3f727c-1dea-4f49-8747-3a50f258ec07,angelical.ca,available,68,97,9,,,
 8f279eee-2b8d-4e61-82fd-bba6b17911c1,anger.ca,resell,80,10,5,WHC Online Solutions Inc.,19/09/2012 19:50,19/09/2026 19:50
 deed2f60-16e1-4155-88b3-77ad73674a74,angered.ca,available,52,4,7,,,
 6bc8f334-c741-4dcc-8ec6-c31373562add,anginal.ca,available,54,1,7,,,
@@ -585,7 +585,7 @@ fb134d8c-7fd2-41cf-aa04-84b41902a449,anguished.ca,available,48,2,9,,,
 66d48341-dd08-4bbf-95ed-dca349ec4dbb,anicteric.ca,available,50,1,9,,,
 acef8984-0c54-4367-a719-ddf146601fe8,anile.ca,available,72,1,5,,,
 c05ff14f-9d08-476f-b225-3ed13c67087c,animals.ca,resell,64,18,7,Grape Inc.,05/01/2001 00:38,15/04/2027 04:00
-aff7a5fe-9abd-4a5b-8adc-2cbb0979ffff,animating.ca,resell,72,2,9,MyID.ca INC.,14/06/2017 19:26,14/06/2026 19:26
+aff7a5fe-9abd-4a5b-8adc-2cbb0979ffff,animating.ca,resell,72,97,9,MyID.ca INC.,14/06/2017 19:26,14/06/2026 19:26
 d1b3d96e-49f6-4c16-8c7f-217638b0d7b4,anionic.ca,available,63,1,7,,,
 3c5042cf-85b4-4e9e-a620-266d0668514d,anisogamic.ca,available,41,1,10,,,
 950aaf53-00b6-4940-ad8a-40f77df42306,ankledeep.ca,available,54,1,10,,,
@@ -597,7 +597,7 @@ dbfadfa1-158b-47fe-9271-c58b067fc728,annexal.ca,available,60,2,7,,,
 12ef72b2-c487-469f-a8c1-bfad46d2f60d,annotated.ca,available,64,3,9,,,
 1f422897-eb3e-4ee6-96a3-ad48a068a406,announce.ca,resell,76,8,8,Namespro Solutions Inc.,20/03/2019 19:00,20/03/2026 19:00
 7fe12021-1b3c-45bc-a9a7-60e7d8543d8e,annoy.ca,resell,82,4,5,CENTRALNIC CANADA INC,19/11/2023 07:50,19/11/2026 07:50
-c6ec7788-cb09-4ba9-b954-8c1621c93458,annual.ca,resell,92,6,6,CENTRALNIC CANADA INC,10/05/2017 19:33,10/05/2026 19:33
+c6ec7788-cb09-4ba9-b954-8c1621c93458,annual.ca,resell,92,97,6,CENTRALNIC CANADA INC,10/05/2017 19:33,10/05/2026 19:33
 5dbf5709-b092-411f-b09b-19ada97f08ca,annually.ca,available,68,2,8,,,
 8e7011f7-dc3f-4878-9f6b-305468e7ea3c,annulate.ca,available,68,1,8,,,
 d0338437-aeee-473e-ab7b-7d0c96d6e5da,annulated.ca,available,50,1,9,,,
@@ -617,20 +617,20 @@ a5b95579-aff0-4cf0-b3c1-a4132f781957,anosmatic.ca,available,44,1,9,,,
 2ade1bcc-ad0b-41df-aae6-b1872d933b56,anoxic.ca,available,48,2,6,,,
 e624c5df-a420-4317-a9f2-384884de41a4,anserine.ca,available,68,1,8,,,
 d661c136-88bf-44b4-9baf-d1f72440934c,answer.ca,resell,98,18,6,Namespro Solutions Inc.,31/12/2003 17:01,31/12/2026 05:00
-5f4cf9ea-d528-4f5b-ac4f-da822bf0300a,answerable.ca,available,70,2,10,,,
-07b5e6a1-a814-43d8-bafc-4edb6552a3bb,answering.ca,resell,74,4,9,Grape Inc.,05/09/2007 19:22,05/09/2026 04:00
-958f8bc4-babd-4caa-afe0-9609eeabbee9,antacid.ca,resell,88,2,7,Namespro Solutions Inc.,30/11/2011 20:49,30/11/2026 20:49
+5f4cf9ea-d528-4f5b-ac4f-da822bf0300a,answerable.ca,available,70,97,10,,,
+07b5e6a1-a814-43d8-bafc-4edb6552a3bb,answering.ca,resell,74,97,9,Grape Inc.,05/09/2007 19:22,05/09/2026 04:00
+958f8bc4-babd-4caa-afe0-9609eeabbee9,antacid.ca,resell,88,97,7,Namespro Solutions Inc.,30/11/2011 20:49,30/11/2026 20:49
 7f34984a-26f6-42b7-8349-8184fc2aa353,antarctic.ca,resell,66,8,9,Namespro Solutions Inc.,22/01/2006 22:51,22/01/2027 05:00
 28875dac-7d0f-4fe7-b3a8-66a58bb8a746,antemortem.ca,available,64,2,10,,,
-760f2ca1-51e8-4b76-92f1-eaec236ec625,antenatal.ca,available,70,2,9,,,
+760f2ca1-51e8-4b76-92f1-eaec236ec625,antenatal.ca,available,70,97,9,,,
 0d86705c-5c91-4a97-b8ca-a687ccba463d,antennal.ca,available,56,1,8,,,
 466788bd-757f-4184-8283-c12b55add637,antennary.ca,available,56,1,9,,,
-09462144-f854-4c96-a7d5-50d1c23d34a9,antepartum.ca,available,70,1,10,,,
+09462144-f854-4c96-a7d5-50d1c23d34a9,antepartum.ca,available,70,97,10,,,
 cc7d17a5-8cf0-4465-8446-aafd3ff6fd38,antepenult.ca,available,50,1,10,,,
 c1cbc7aa-7157-4407-8561-0df95a012f75,antheral.ca,available,50,1,8,,,
 33f61806-d2cf-4eef-8690-733674f15210,anthropoid.ca,available,74,3,10,,,
-8df7d553-cb4f-4451-b518-b2bb35260038,antiacid.ca,available,70,1,8,,,
-6893f2ec-cc51-41d3-867b-9a40579b95a0,antibiotic.ca,resell,88,4,10,MyID.ca INC.,21/03/2018 19:32,21/03/2026 19:32
+8df7d553-cb4f-4451-b518-b2bb35260038,antiacid.ca,available,70,97,8,,,
+6893f2ec-cc51-41d3-867b-9a40579b95a0,antibiotic.ca,resell,88,98,10,MyID.ca INC.,21/03/2018 19:32,21/03/2026 19:32
 819d7dfe-1715-4e60-b898-f99954971e09,anticipant.ca,available,60,1,10,,,
 650f1d38-7233-440b-9630-1ea44f17fa67,anticipate.ca,resell,74,8,10,Rebel.ca Corp.,08/02/2001 04:48,07/02/2026 05:00
 972f9c8f-9655-49c3-88a5-c5980634f767,anticipated.ca,available,66,2,11,,,
@@ -651,8 +651,8 @@ e1342a94-1991-48d1-b9e4-7233232446f3,antiracist.ca,available,86,3,11,,,
 4c3b5971-ff2d-437f-abf4-f6a495cd9596,antitank.ca,available,46,1,8,,,
 89de90a3-36ad-4d94-9e9f-98b78a88d7c1,antithetic.ca,available,68,1,10,,,
 b7164526-ff39-41a1-a0a3-79fe79859874,antitoxic.ca,available,46,1,9,,,
-52e32842-3403-4bea-9648-979a62c5c205,antitumor.ca,available,88,1,9,,,
-d420ff6f-2e29-41f1-8a15-e78ea9960831,antitumour.ca,available,70,1,10,,,
+52e32842-3403-4bea-9648-979a62c5c205,antitumor.ca,available,88,97,9,,,
+d420ff6f-2e29-41f1-8a15-e78ea9960831,antitumour.ca,available,70,97,10,,,
 e531b5c3-07c3-4747-b6d4-bacdb05c5147,antitypic.ca,available,46,1,9,,,
 182fa960-bef5-41c7-9c4a-2168a297b6e9,antiviral.ca,resell,76,4,9,DomainePlus.com (3612040 CANADA inc.),24/10/2012 02:43,24/10/2025 02:43
 68a95313-061d-4f28-a1f7-07344ea7e7d2,antlered.ca,available,47,1,8,,,
@@ -667,7 +667,7 @@ aaf6137e-1836-4bc1-92ec-9984d4ac2b76,anxiolytic.ca,available,80,1,10,,,
 21ad1678-3864-4314-aff6-222efde09227,anybudy.ca,available,62,1,7,,,
 e0536935-ed1d-4c13-8f2a-1f4d04dc6590,aoristic.ca,available,46,1,8,,,
 8aa2714a-ebda-4e2b-bb33-2d1baef081d8,aortal.ca,available,50,2,6,,,
-919a4e60-5952-41c7-a50c-df93198967f0,apart.ca,resell,78,10,5,Namespro Solutions Inc.,13/09/2004 18:00,13/09/2026 04:00
+919a4e60-5952-41c7-a50c-df93198967f0,apart.ca,resell,78,98,5,Namespro Solutions Inc.,13/09/2004 18:00,13/09/2026 04:00
 785f47dd-552e-4da9-972f-f52edabcacfc,ape.ca,available,64,39,3,,,
 399213c4-6a75-4f15-ac66-45a79657e410,apelike.ca,available,60,2,7,,,
 fba2d346-2581-48c7-97c8-cffb301a7a99,aperient.ca,available,64,1,8,,,
@@ -759,7 +759,7 @@ cdb10c3c-58ac-45c5-b5bb-2849f1665a31,arboriform.ca,available,52,1,10,,,
 a6c698ef-2ccc-4371-849e-8984263791a3,arborous.ca,available,52,1,8,,,
 9a0ddb37-5146-4840-bfa1-f32f8898982a,arcadian.ca,resell,76,10,8,Namespro Solutions Inc.,15/02/2012 21:13,15/02/2026 21:13
 2e95238b-79e4-41bf-915f-6c36bd504073,arcane.ca,resell,54,29,6,BareMetal.com inc,08/02/2023 19:00,08/02/2026 19:00
-bb11d8b9-7db5-4f02-953c-36ca0c82b1b8,arch.ca,available,64,27,4,,,
+bb11d8b9-7db5-4f02-953c-36ca0c82b1b8,arch.ca,available,64,98,4,,,
 9f2706f0-d12e-4004-817b-654815a7eb07,archaist.ca,available,50,1,8,,,
 2441eef8-ef91-4802-8003-afce6deda15b,archaistic.ca,available,64,1,10,,,
 0e56171c-9f69-40aa-9a92-44d8bc56b776,archducal.ca,available,45,1,9,,,
@@ -784,7 +784,7 @@ f303170a-2216-41f4-b2da-2e640dd91943,ariled.ca,available,50,1,6,,,
 4d1d3865-944b-45d2-8f8f-21b5d147c40a,ariose.ca,available,51,3,6,,,
 c4c63d63-b41d-41ca-a337-6a55d32d21d5,arm.ca,available,86,19,3,,,
 00c8fd39-1385-4a2e-bc08-792343118996,armada.ca,resell,50,21,6,BareMetal.com inc,19/04/2017 19:23,19/04/2026 19:23
-392c334a-b613-49b6-956a-72442e6e4b19,armed.ca,resell,70,8,5,Grape Inc.,28/04/2010 19:22,28/04/2026 04:00
+392c334a-b613-49b6-956a-72442e6e4b19,armed.ca,resell,70,97,5,Grape Inc.,28/04/2010 19:22,28/04/2026 04:00
 af86fccb-d40e-4492-9b70-4f387088748e,armillary.ca,available,52,3,9,,,
 fa3145ba-c26d-4e28-a5ad-3f26aa79249a,arminian.ca,available,64,1,8,,,
 9c168787-3f7c-40c7-b7eb-53879494e329,armless.ca,available,62,1,7,,,
@@ -792,9 +792,9 @@ fa3145ba-c26d-4e28-a5ad-3f26aa79249a,arminian.ca,available,64,1,8,,,
 155b3e10-5753-490f-99ea-188536c286d0,armorclad.ca,available,52,2,10,,,
 68516961-e611-4663-a308-87de6beb82b7,armorial.ca,available,68,2,8,,,
 3ea6f31c-0411-459e-9dc1-a0e3c5e30417,armoured.ca,resell,58,3,8,WHC Online Solutions Inc.,02/01/2013 20:37,02/01/2026 20:37
-24bd2d94-2f6d-45ce-a14e-4aaea4cff9dd,aromatic.ca,resell,92,5,8,BareMetal.com inc,10/05/2023 19:00,10/05/2026 19:00
+24bd2d94-2f6d-45ce-a14e-4aaea4cff9dd,aromatic.ca,resell,92,98,8,BareMetal.com inc,10/05/2023 19:00,10/05/2026 19:00
 0f5ab7e7-068f-46d7-bc6b-e149c37db329,aroused.ca,resell,68,3,7,Namespro Solutions Inc.,19/06/2020 11:23,19/06/2026 11:23
-00cc0d18-b905-46ee-91f3-2447efb35c42,arranged.ca,resell,70,5,8,BareMetal.com inc,09/11/2022 19:00,09/11/2026 19:00
+00cc0d18-b905-46ee-91f3-2447efb35c42,arranged.ca,resell,70,97,8,BareMetal.com inc,09/11/2022 19:00,09/11/2026 19:00
 1af1a6c3-0643-444b-9bfd-146d7e8cd678,arrayed.ca,available,58,3,7,,,
 eef4abde-962b-4e27-a841-f2f2d9ad9d14,arresting.ca,available,66,1,9,,,
 b2aeb0a6-3ba4-42bf-9ddc-f9ef1a169e98,arrhythmic.ca,available,50,1,10,,,
@@ -808,7 +808,7 @@ e8b7ff51-680a-458f-8367-5c02c756d481,artgallery.ca,resell,76,11,11,WHC Online So
 f5484486-d180-4166-9e48-f43d7a299195,articled.ca,available,43,2,8,,,
 6ae39f8b-b6a5-4364-8d4a-2422ba62dea9,articular.ca,available,50,4,9,,,
 94b7102e-4a74-4049-b34f-d448223d5bda,articulary.ca,available,68,1,10,,,
-4722bc8d-98fd-4256-a79c-8ced181d39ea,artificial.ca,resell,68,26,10,Grape Inc.,28/03/2012 19:24,28/03/2027 19:24
+4722bc8d-98fd-4256-a79c-8ced181d39ea,artificial.ca,resell,68,98,10,Grape Inc.,28/03/2012 19:24,28/03/2027 19:24
 e333a995-e059-4642-89c1-3b35b1bb41c6,artimitateslife.ca,available,55,1,17,,,
 23b98df3-ee68-47fa-baaa-9e320e1dc5b1,arum.ca,available,53,6,4,,,
 2f56c302-dc11-4196-b712-9331b711d351,asaconsequenceof.ca,available,54,1,19,,,
@@ -878,8 +878,8 @@ e35d069b-a2de-46ad-9042-19ed9a4f45f3,astheysay.ca,available,44,1,11,,,
 30e0c1e7-9903-4540-b730-930672af1bae,astomatal.ca,available,34,0,9,,,
 53a1d0c5-f128-4484-848b-3c57428e9342,astomatous.ca,available,34,1,10,,,
 77462a6a-678a-44e1-a8b4-dcbca9c6d520,astonied.ca,available,54,1,8,,,
-24cbedb0-cc52-49d7-8319-b05601739bb1,astonished.ca,available,68,2,10,,,
-1347fdde-1904-4ce3-a9bb-e946b799631d,astounded.ca,available,68,1,9,,,
+24cbedb0-cc52-49d7-8319-b05601739bb1,astonished.ca,available,68,97,10,,,
+1347fdde-1904-4ce3-a9bb-e946b799631d,astounded.ca,available,68,97,9,,,
 05d89b7e-145c-4d04-aae6-e9f2319eb68a,astragalar.ca,available,34,1,10,,,
 04378c35-afef-4e9e-95fa-0f9fb75fc90d,astringent.ca,available,64,1,10,,,
 405c9e6f-0dc1-44cc-b7c4-dcf0e8d444fc,astrocytic.ca,available,34,1,10,,,
@@ -1693,7 +1693,7 @@ b304a727-6607-47c0-bb0d-f99e919d108d,costly.ca,resell,66,4,6,Webnames.ca Inc.,04
 f75b4b07-88d0-4ccc-8e56-f647e6fb0a79,cotyloid.ca,available,46,1,8,,,
 7e546e24-35c1-4908-b672-f014b96bc397,cotyloidal.ca,available,44,1,10,,,
 f5c695e3-8241-4d1a-97a9-1b6ec8b35470,could.ca,resell,78,6,5,NameSilo Technologies Corp.,03/09/2017 02:39,03/09/2027 02:39
-de79ec36-fa05-414a-92fe-d042faf7da55,counter.ca,resell,76,17,7,WHC Online Solutions Inc.,12/02/2025 19:00,12/02/2026 19:00
+de79ec36-fa05-414a-92fe-d042faf7da55,counter.ca,resell,76,98,7,WHC Online Solutions Inc.,12/02/2025 19:00,12/02/2026 19:00
 ac8076e3-63d0-44f0-8755-fbbcc1fdf4e0,countries.ca,resell,56,8,9,WHC Online Solutions Inc.,08/02/2017 20:25,08/02/2026 20:25
 c4d6d699-1790-422a-ae82-784c776a49de,country.ca,resell,92,15,7,BareMetal.com inc,15/11/2000 23:33,12/02/2026 05:00
 280d1ff9-4948-4154-83bf-bf1814d83bb1,countycourt.ca,available,68,2,12,,,
@@ -1713,7 +1713,7 @@ acdbdd4c-eeab-4640-a7d9-3acb68ec6897,crazy.ca,resell,86,23,5,"Go Daddy Domains C
 f7328954-bb6c-4959-80eb-e8c34f81ff8c,creaky.ca,available,54,3,6,,,
 28ef39b3-e2e4-4664-af0d-97ecb9dce0a7,creation.ca,resell,82,18,8,"Go Daddy Domains Canada, Inc",25/08/2021 19:00,25/08/2027 19:00
 81b03b55-e46f-4b92-a734-3f0535df4131,creatively.ca,resell,66,4,10,BareMetal.com inc,01/06/2022 19:00,01/06/2026 19:00
-eb989af5-3bbd-4878-8548-5694308bd654,creature.ca,resell,68,16,8,BareMetal.com inc,24/02/2010 20:23,24/02/2026 05:00
+eb989af5-3bbd-4878-8548-5694308bd654,creature.ca,resell,68,97,8,BareMetal.com inc,24/02/2010 20:23,24/02/2026 05:00
 889f2f66-f62d-4f50-8442-d32fa0736ae6,credible.ca,resell,54,13,8,DomainePlus.com (3612040 CANADA inc.),14/02/2018 20:30,14/02/2026 20:30
 b9d1b3d9-db57-497f-af74-1ce656e935cd,cricket.ca,available,104,22,7,,,
 27850e35-0fdd-47c1-9cae-04c601a8c62b,cricketscore.ca,available,72,3,13,,,
@@ -1916,7 +1916,7 @@ b9acb6cc-d845-44a3-b178-d75b0b6700ae,doyouknow.ca,resell,46,5,11,MyID.ca INC.,02
 21e87734-255b-4d7c-9aad-ab4d43d1f6a5,drawup.ca,available,74,3,7,,,
 905a44ca-3b6b-48d1-99db-49d209feaf7d,dreamup.ca,available,78,7,8,,,
 23af9715-36be-4102-baba-861d7e915c66,dress.ca,resell,100,13,5,Grape Inc.,24/01/2002 15:02,24/01/2027 05:00
-9707e0b4-4956-400f-ac18-7b9b870e6852,dressed.ca,resell,72,5,7,WHC Online Solutions Inc.,15/04/2009 20:08,15/04/2026 04:00
+9707e0b4-4956-400f-ac18-7b9b870e6852,dressed.ca,resell,72,97,7,WHC Online Solutions Inc.,15/04/2009 20:08,15/04/2026 04:00
 9d7fe0bc-5243-4481-bf00-7a84ea2f9a61,drinking.ca,resell,66,8,8,Namespro Solutions Inc.,24/01/2002 15:05,24/01/2026 05:00
 f716a201-3683-4e86-839e-06cca0ba587c,driver.ca,resell,72,24,6,"Go Daddy Domains Canada, Inc",10/07/2005 18:00,10/07/2029 04:00
 f244af18-80ac-406d-ae23-acdc24e49799,drivinglicense.ca,resell,70,1,15,MyID.ca INC.,18/03/2004 06:20,18/03/2026 04:00
@@ -1995,7 +1995,7 @@ e21fc36d-bbe2-4a3b-85a7-bf25f2779c0f,Englishspeaking.ca,available,62,2,16,,,
 65b852db-5222-4f79-9243-7537844c53fa,engrossed.ca,available,72,1,9,,,
 993d4abf-743a-4a4a-9a82-538fcc2ed859,engrossing.ca,available,86,1,10,,,
 b424d0d7-5979-49db-9f84-4ef61e56412a,enlarged.ca,available,66,1,8,,,
-b310b9f3-fa6e-4c56-a76f-d359aba1beec,enliven.ca,resell,82,9,7,WHC Online Solutions Inc.,14/04/2021 19:00,14/04/2026 19:00
+b310b9f3-fa6e-4c56-a76f-d359aba1beec,enliven.ca,resell,82,98,7,WHC Online Solutions Inc.,14/04/2021 19:00,14/04/2026 19:00
 449a2ca1-6570-4520-9125-2f564ace5d63,enlivening.ca,available,48,2,10,,,
 2f0e6992-0793-4b91-ad6a-f29d828ece74,ennead.ca,available,68,5,6,,,
 329b86fa-a452-4e22-a6d1-40b8a00dc5c0,ensuant.ca,available,62,1,7,,,
@@ -3196,7 +3196,7 @@ c8f66605-4fd9-4b4d-a9b8-c00d86840d78,nowthat.ca,available,,1,8,,,
 0985beee-a5a7-4c5e-9e63-3873a2d06c50,nuthin.ca,available,62,3,6,,,
 24dadc63-b274-4852-83ea-f92980f05a8b,nutrient.ca,resell,92,97,8,Namespro Solutions Inc.,24/11/2000 11:54,07/04/2026 04:00
 fa13634b-8b7c-435f-805c-10a23b1c9910,nutritive.ca,resell,84,2,9,CENTRALNIC CANADA INC,11/08/2021 19:00,11/08/2026 19:00
-9d726465-8340-4e5c-80a7-d705c5df285b,nuts.ca,resell,64,15,4,Rebel.ca Corp.,24/01/2002 15:31,24/01/2026 05:00
+9d726465-8340-4e5c-80a7-d705c5df285b,nuts.ca,resell,64,98,4,Rebel.ca Corp.,24/01/2002 15:31,24/01/2026 05:00
 fc43b966-c78c-4352-8eac-c188ac42674b,oakland.ca,available,66,16,7,,,
 409dd3bc-ac2b-4d89-b349-fe93cca54624,oar.ca,resell,68,7,3,BareMetal.com inc,13/10/2003 16:00,13/10/2026 04:00
 df594c05-c12d-4a00-bb81-2e9ffb52216c,oarblade.ca,available,64,1,9,,,
@@ -3263,7 +3263,7 @@ c723baaf-ffed-437b-a8c0-b6adab0c2e52,optionally.ca,available,61,1,10,,,
 e4e29368-2b86-4d14-97b4-1d9fd2afa447,orangejuice.ca,resell,,7,12,Namespro Solutions Inc.,17/03/2005 19:00,17/03/2026 04:00
 b00a3590-1ae3-40c9-aefe-6f4cad5f8242,orangenotice.ca,available,64,1,13,,,
 a5b2ec82-d93e-4469-a1dd-56ef4246064c,orbicular.ca,available,47,2,9,,,
-9ccbe88c-c5de-454c-ac21-1d945b62193b,ordered.ca,available,72,4,7,,,
+9ccbe88c-c5de-454c-ac21-1d945b62193b,ordered.ca,available,72,97,7,,,
 4eaa4098-fc09-4aa4-a639-0cb4ae5c09af,ordinarily.ca,available,62,1,10,,,
 1888ef1d-bab3-41b6-92d5-dcce1c2599fa,ordinary.ca,resell,70,15,8,WHC Online Solutions Inc.,22/01/2014 20:41,22/01/2026 20:41
 2317ae76-1318-4125-b8cd-3c9f4447ab10,org.ca,available,54,31,3,,,
@@ -3375,7 +3375,7 @@ e176ef2e-35bc-4dbd-a581-2d19703b7a01,pinkgold.ca,available,,1,9,,,
 f9f76375-e14d-4762-a183-37a9e99cc07d,placed.ca,resell,62,5,6,easyDNS Technologies Inc.,25/10/2007 17:22,25/10/2026 04:00
 4427b6d8-56a2-4a8b-b9b5-1548086e70e3,plaguey.ca,available,39,1,7,,,
 e9c5e9c0-95cc-4267-bee7-ffec6ede38ac,plaguy.ca,available,39,1,6,,,
-31c4bb94-7bb5-4052-8bfa-02d47006a7a4,plain.ca,resell,62,19,5,Namespro Solutions Inc.,08/07/2003 16:00,08/07/2026 04:00
+31c4bb94-7bb5-4052-8bfa-02d47006a7a4,plain.ca,resell,62,98,5,Namespro Solutions Inc.,08/07/2003 16:00,08/07/2026 04:00
 2aa3cce8-3a9d-4814-b461-d3146385f561,planetarium.ca,resell,,9,11,"Go Daddy Domains Canada, Inc",04/05/2016 19:33,04/05/2026 19:33
 95f2b66a-0f24-48d2-ab5e-67359dee0340,planless.ca,available,50,2,8,,,
 ad02445f-4cda-4e50-9d85-2912c8828a80,planned.ca,resell,74,7,7,CENTRALNIC CANADA INC,14/09/2016 19:26,14/09/2026 19:26
@@ -3435,9 +3435,9 @@ a8696427-bd55-460d-8cae-c7567bf98fce,preceding.ca,available,,3,9,,,
 2b46be53-93e5-4509-9c21-061ba5490baa,prehensile.ca,available,54,1,10,,,
 28696a6a-550c-4a2c-b8ed-375bab581956,prejudice.ca,available,86,2,9,,,
 2f3ac7e9-be5f-4811-b3c8-68e3d62d9ff8,premium.ca,resell,99,31,7,Energetex Engineering (MET Engineering Inc.),07/05/2008 20:39,07/05/2026 04:00
-d807ec0d-5bf7-4b32-b37c-3f9b69b948ea,prenatal.ca,resell,88,6,8,BareMetal.com inc,27/02/2007 00:03,26/02/2026 05:00
+d807ec0d-5bf7-4b32-b37c-3f9b69b948ea,prenatal.ca,resell,88,98,8,BareMetal.com inc,27/02/2007 00:03,26/02/2026 05:00
 985457e2-281f-46d3-838a-d45c7136a2f7,prenominal.ca,available,60,1,10,,,
-9ef7689c-6618-4839-b747-798b39ef197d,prenuptial.ca,resell,88,2,10,8648255 CANADA LTD. O/A Dynadot LLC,16/06/2021 19:00,16/06/2026 19:00
+9ef7689c-6618-4839-b747-798b39ef197d,prenuptial.ca,resell,88,97,10,8648255 CANADA LTD. O/A Dynadot LLC,16/06/2021 19:00,16/06/2026 19:00
 b39c7b23-f78c-416c-9f55-5e3faa33dae8,prepacked.ca,available,64,1,9,,,
 e3d16070-f29d-4a8c-898e-666a53dda0d7,presently.ca,resell,61,5,9,CENTRALNIC CANADA INC,21/07/2009 00:45,20/07/2026 04:00
 6c3f579e-64c3-4c0b-b806-0d5da673dabb,president.ca,resell,70,21,9,Namespro Solutions Inc.,09/11/2006 23:40,09/11/2026 05:00
@@ -3463,7 +3463,7 @@ cd9592b7-3c0d-419e-ba9f-2b3d7bd1a030,primitive.ca,resell,82,11,9,WHC Online Solu
 4f157ff6-407f-454a-9d47-f075cc04c522,prince.ca,available,88,26,6,,,
 06a06f9f-6bab-4c65-bd1b-567e99e08732,principal.ca,resell,90,18,9,Namespro Solutions Inc.,21/08/2002 16:00,21/08/2026 04:00
 04850ed5-d18c-4d6f-a607-8bfa3d80b668,proclaim.ca,resell,74,8,8,BareMetal.com inc,03/03/2021 19:00,03/03/2026 19:00
-871be953-a8af-45b6-bb3f-129592cb81e0,proclaimed.ca,available,62,1,10,,,
+871be953-a8af-45b6-bb3f-129592cb81e0,proclaimed.ca,available,62,97,10,,,
 062c6f25-02d6-4da3-8fc9-4c81f08331d7,proclaiming.ca,available,70,1,11,,,
 774ef957-21a6-48cb-b675-b9b743b346b5,producing.ca,resell,,4,9,BareMetal.com inc,27/06/2007 19:53,27/06/2026 04:00
 3440690d-acff-4118-be15-8e6bb7ff088a,profession.ca,resell,70,7,10,Namespro Solutions Inc.,23/02/2003 17:01,23/02/2026 05:00
@@ -3634,7 +3634,7 @@ a122cfe8-37c7-4c70-979b-211458dc3b47,respectfully.ca,available,62,3,12,,,
 3c4a7131-81d5-45da-ac84-a6874e546998,respecting.ca,available,52,2,10,,,
 cca8bbf6-57da-4af7-9db8-4ee3c3bfbfe2,respectively.ca,available,56,1,12,,,
 ac212aee-4d42-4ab1-b5f4-2ef353b74098,respects.ca,available,76,4,8,,,
-43485eaa-b70c-4944-85df-34b6498d5bcf,responsive.ca,available,78,14,10,,,
+43485eaa-b70c-4944-85df-34b6498d5bcf,responsive.ca,available,78,98,10,,,
 8e05d93d-d195-44d1-8b92-e447ec1295d2,rested.ca,resell,73,5,6,BareMetal.com inc,24/11/2021 19:00,24/11/2026 19:00
 1948225c-f8d7-404c-801f-e1dfe50c69e0,restrain.ca,available,58,2,8,,,
 f3b79fb8-6407-4b16-b10f-8c466e8d5fcc,restrict.ca,resell,74,3,8,CENTRALNIC CANADA INC,02/05/2024 00:04,02/05/2026 00:04
