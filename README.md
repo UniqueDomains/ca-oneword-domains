@@ -82,7 +82,7 @@ print(df.head())
 | staring.ca    | available | $14.98     | —             | 64             | 7      | 7      | namecheap                    |
 | eye.ca        | resell    | —          | —             | 66             | 99     | 3      | Rebel.ca Corp.               |
 | cooldown.ca   | premium   | $14.98     | —             | 70             | 10     | 9      | namecheap                    |
-| adjusted.ca   | available | $14.98     | —             | 70             | 6      | 8      | namecheap                    |
+| confusing.ca  | available | $14.98     | —             | 61             | 7      | 9      | namecheap                    |
 | base.ca       | resell    | —          | —             | 60             | 99     | 4      | Namespro Solutions Inc.      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
