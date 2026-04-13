@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ca one-word domains from U
 
 **Public extract:** 4,627 rows · **Live catalog:** 4,628 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/ca`  
 **Best for:** founders, investors, studios
 
@@ -73,13 +73,13 @@ print(df.head())
 | xxii.ca       | available | $14.98     | —             | 66             | 8      | 4      | namecheap                    |
 | positive.ca   | resell    | —          | —             | 84             | 99     | 8      | Namespro Solutions Inc.      |
 | journalism.ca | premium   | $5,922.50  | —             | 74             | 16     | 10     | Go Daddy Domains Canada, Inc |
-| staring.ca    | available | $14.98     | —             | 64             | 8      | 7      | namecheap                    |
+| adored.ca     | available | $14.98     | —             | 70             | 7      | 6      | namecheap                    |
 | center.ca     | resell    | —          | —             | 78             | 99     | 6      | Namespro Solutions Inc.      |
 | commission.ca | premium   | $5,922.50  | —             | 70             | 15     | 10     | CanSpace Solutions Inc.      |
-| adored.ca     | available | $14.98     | —             | 70             | 7      | 6      | namecheap                    |
+| marchon.ca    | available | $14.98     | —             | 68             | 7      | 8      | namecheap                    |
 | last.ca       | resell    | —          | —             | 76             | 99     | 4      | Namespro Solutions Inc.      |
 | searching.ca  | premium   | $11,500    | $16.99        | 84             | 12     | 9      | CENTRALNIC CANADA INC        |
-| marchon.ca    | available | $14.98     | —             | 68             | 7      | 8      | namecheap                    |
+| staring.ca    | available | $14.98     | —             | 64             | 7      | 7      | namecheap                    |
 | eye.ca        | resell    | —          | —             | 66             | 99     | 3      | Rebel.ca Corp.               |
 | cooldown.ca   | premium   | $14.98     | —             | 70             | 10     | 9      | namecheap                    |
 | adjusted.ca   | available | $14.98     | —             | 70             | 6      | 8      | namecheap                    |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CA One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
