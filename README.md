@@ -1,22 +1,22 @@
-# Available .CA One-Word Domains (4,627)
+# Available .CA One-Word Domains (6,098)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-4%2C625%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C627%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C098%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .ca one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 4,625-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **4,627 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **6,098 domains** on the canonical page below.
 
-**Public extract:** 4,625 rows · **Live catalog:** 4,627 domains
+**Public extract:** 1,000 rows · **Live catalog:** 6,098 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/ca`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CA one-word domain ca
 
 ### Files
 
-- `ca.csv` — public CSV extract (4,625 rows)
-- `ca.json` — public JSON extract (4,625 rows)
+- `ca.csv` — public CSV extract (1,000 rows)
+- `ca.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                    |
-| ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
-| implied.ca    | available | $14.98     | —             | 74             | 9      | 7      | namecheap                    |
-| forgiving.ca  | resell    | $4,025     | $16.99        | 96             | 5      | 9      | Go Daddy Domains Canada, Inc |
-| recovery.ca   | premium   | $17,767.50 | —             | 83             | 32     | 8      | Webnames.ca Inc.             |
-| determined.ca | available | $14.98     | —             | 72             | 8      | 10     | namecheap                    |
-| brilliant.ca  | resell    | —          | —             | 96             | 99     | 9      | Namespro Solutions Inc.      |
-| classroom.ca  | premium   | $5,922.50  | —             | 74             | 20     | 9      | CanSpace Solutions Inc.      |
-| xxii.ca       | available | $14.98     | —             | 66             | 8      | 4      | namecheap                    |
-| positive.ca   | resell    | —          | —             | 84             | 99     | 8      | Namespro Solutions Inc.      |
-| journalism.ca | premium   | $5,922.50  | —             | 74             | 16     | 10     | Go Daddy Domains Canada, Inc |
-| adored.ca     | available | $14.98     | —             | 70             | 7      | 6      | namecheap                    |
-| center.ca     | resell    | —          | —             | 78             | 99     | 6      | Namespro Solutions Inc.      |
-| commission.ca | premium   | $5,922.50  | —             | 70             | 15     | 10     | CanSpace Solutions Inc.      |
-| marchon.ca    | available | $14.98     | —             | 68             | 7      | 8      | namecheap                    |
-| last.ca       | resell    | —          | —             | 76             | 99     | 4      | Namespro Solutions Inc.      |
-| searching.ca  | premium   | $11,500    | $16.99        | 84             | 12     | 9      | CENTRALNIC CANADA INC        |
-| staring.ca    | available | $14.98     | —             | 64             | 7      | 7      | namecheap                    |
-| eye.ca        | resell    | —          | —             | 66             | 99     | 3      | Rebel.ca Corp.               |
-| cooldown.ca   | premium   | $14.98     | —             | 70             | 10     | 9      | namecheap                    |
-| confusing.ca  | available | $14.98     | —             | 61             | 7      | 9      | namecheap                    |
-| base.ca       | resell    | —          | —             | 60             | 99     | 4      | Namespro Solutions Inc.      |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                           |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
+| IsleofMan.ca       | available | $14.98    | —             | 62             | 91     | 11     | namecheap                           |
+| nets.ca            | resell    | —         | —             | 54             | 81     | 4      | BareMetal.com inc                   |
+| classicalguitar.ca | premium   | $5,922.50 | —             | 76             | 7      | 16     | CanSpace Solutions Inc.             |
+| tapinto.ca         | available | $14.98    | —             | 68             | 11     | 8      | namecheap                           |
+| online.ca          | resell    | —         | —             | 70             | 62     | 7      | CanSpace Solutions Inc.             |
+| produced.ca        | premium   | $3,553.50 | —             | 55             | 5      | 8      | CENTRALNIC CANADA INC               |
+| Godknows.ca        | available | $14.98    | —             | 60             | 10     | 9      | namecheap                           |
+| donuts.ca          | resell    | —         | —             | 54             | 62     | 6      | CENTRALNIC CANADA INC               |
+| hairwax.ca         | premium   | $5,330.25 | —             | 76             | 3      | 8      | Grape Inc.                          |
+| feelfree.ca        | available | $14.98    | —             | 82             | 9      | 9      | namecheap                           |
+| Books.ca           | resell    | —         | —             | 52             | 49     | 5      | CanSpace Solutions Inc.             |
+| coffeegrinder.ca   | premium   | $5,922.50 | —             | 75             | 2      | 14     | CanSpace Solutions Inc.             |
+| Ipop.ca            | available | $14.98    | —             | 76             | 9      | 5      | namecheap                           |
+| robots.ca          | resell    | —         | —             | 62             | 47     | 6      | MyID.ca INC.                        |
+| whatittakes.ca     | available | $14.98    | —             | 58             | 9      | 13     | namecheap                           |
+| shortcuts.ca       | resell    | —         | —             | 48             | 41     | 10     | 8648255 CANADA LTD. O/A Dynadot LLC |
+| alternatively.ca   | available | $14.98    | —             | 58             | 9      | 13     | namecheap                           |
+| lets.ca            | resell    | —         | —             | 77             | 39     | 4      | Go Daddy Domains Canada, Inc        |
+| IsleofWight.ca     | available | $14.98    | —             | 54             | 9      | 13     | namecheap                           |
+| prompts.ca         | resell    | —         | —             | 54             | 39     | 7      | Go Daddy Domains Canada, Inc        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 4,625-row public sample | 4,627 live domains                               |
+| 1,000-row public sample | 6,098 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CA One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CA One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
