@@ -81,9 +81,9 @@ print(df.head())
 | coffeegrinder.ca   | premium   | $5,922.50 | —             | 75             | 2      | 14     | CanSpace Solutions Inc.             |
 | alternatively.ca   | available | $14.98    | —             | 58             | 9      | 13     | namecheap                           |
 | shortcuts.ca       | resell    | —         | —             | 48             | 41     | 10     | 8648255 CANADA LTD. O/A Dynadot LLC |
+| everbody.ca        | premium   | —         | —             | 62             | 3      | 8      | —                                   |
 | truer.ca           | available | $9.99     | $9.99         | 57             | 8      | 5      | namesilo                            |
 | lets.ca            | resell    | —         | —             | 77             | 39     | 4      | Go Daddy Domains Canada, Inc        |
-| lunchmoney.ca      | available | $14.98    | —             | 78             | 7      | 11     | namecheap                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
