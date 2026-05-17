@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 00127adc-ad28-4499-997b-efcb4f48b587,letoneselfgo.ca,available,14.98,,72,0,14,namecheap,,
 001daa40-364c-49b3-a86a-1fd47e87425a,comeupagainst.ca,available,9.99,9.99,38,1,15,namesilo,,
 0035378c-b5f0-4afb-aa08-dbaae30a9276,templates.ca,resell,,,54,17,9,MyID.ca INC.,05/03/2003 17:00,05/03/2027 05:00
-003a1ce1-ca4a-4e2f-92d0-822bb6578820,accountof.ca,available,14.98,,72,1,10,namecheap,,
+003a1ce1-ca4a-4e2f-92d0-822bb6578820,accountof.ca,available,14.98,,72,0,10,namecheap,,
 005396d8-69fb-43c4-bd7c-186cb5111dee,gothewholehog.ca,available,14.98,,62,1,16,namecheap,,
 0056d2f7-f0a6-4e9c-b605-a1fe345f4eaa,sockyarn.ca,available,14.98,,64,1,9,namecheap,,
 007ac1ee-912d-4065-94aa-10d6b209edbb,gingerbreadcookie.ca,available,9.99,9.99,52,1,18,namesilo,,
@@ -19,7 +19,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 01abfd1e-cef4-4ccf-bc4f-1f35a243ddde,busfare.ca,available,14.98,,70,1,8,namecheap,,
 01c07aec-5619-4a4b-a114-ada7efeeeb4d,comeonover.ca,available,14.98,,78,2,12,namecheap,,
 01cf6e1e-2fad-4be3-8049-d765f5fd97b4,CountriesinAsia.ca,available,9.99,9.99,48,1,17,namesilo,,
-01d4ca3e-2f3d-4bce-b49b-ee5717f096da,getoneselftogether.ca,available,14.98,,49,1,20,namecheap,,
+01d4ca3e-2f3d-4bce-b49b-ee5717f096da,getoneselftogether.ca,available,14.98,,49,0,20,namecheap,,
 022740d4-bfde-4ba6-bdb2-5d5b2fdd9636,practices.ca,resell,,,52,6,9,MyID.ca INC.,24/06/2009 19:34,24/06/2026 04:00
 02483399-4314-49c4-b9a7-e53ebd282e0a,razorburn.ca,available,14.98,,60,1,10,namecheap,,
 02721cb9-40fd-4153-882a-24b34ba1d136,childsafetyseats.ca,available,9.99,9.99,42,1,18,namesilo,,
@@ -28,7 +28,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 02958df7-bc20-4140-bd57-f0e00a9de456,intheeventthat.ca,available,14.98,,48,1,17,namecheap,,
 029e9b58-ffa9-4f49-8f3b-274878df42b4,blewit.ca,available,14.98,,44,2,7,namecheap,,
 02c80b19-1a64-47a1-a94c-897ea61360ba,givingbirth.ca,available,14.98,,89,2,12,namecheap,,
-02edfa3c-5140-4a80-9904-62c6514c4206,getoveroneself.ca,available,14.98,,62,1,16,namecheap,,
+02edfa3c-5140-4a80-9904-62c6514c4206,getoveroneself.ca,available,14.98,,62,0,16,namecheap,,
 03108719-54b1-44a7-be83-98ce36547968,instate.ca,available,14.98,,66,4,8,namecheap,,
 03298f44-fd97-467f-a42a-9cc26c3fb6f9,manyeyed.ca,available,14.98,,68,1,9,namecheap,,
 036aef28-aa59-4abe-ba59-01bf5a58f1da,havetheadvantage.ca,available,14.98,,46,0,18,namecheap,,
@@ -42,7 +42,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0457644e-179c-49ae-a41f-d78548296110,aunts.ca,available,14.98,,54,2,5,namecheap,,
 045c928d-cafb-4408-aa88-45e416593016,urged.ca,available,14.98,,60,3,5,namecheap,,
 04aae47c-8298-4fc7-814b-24712e425d39,noless.ca,available,14.98,,62,4,7,namecheap,,
-04c942c9-640f-4aba-9fe7-c4bc6519d8f6,letonego.ca,available,14.98,,77,1,10,namecheap,,
+04c942c9-640f-4aba-9fe7-c4bc6519d8f6,letonego.ca,available,14.98,,77,0,10,namecheap,,
 04f97503-591c-4c64-8d84-86349337e159,BigMacsauce.ca,available,14.98,,70,1,13,namecheap,,
 053912ed-572d-4252-9fa5-95845f456f0a,gonuclear.ca,available,14.98,,68,3,10,namecheap,,
 057a9b05-b804-4970-84cb-034b2a00e082,GeneralTaochicken.ca,available,14.98,,70,1,19,namecheap,,
@@ -50,12 +50,12 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 058daf34-337b-453f-9f4e-09cd477624eb,gettothebottomof.ca,available,14.98,,66,1,20,namecheap,,
 05b8032a-53ff-4121-a8d2-e4eed7358709,affirmatives.ca,available,9.99,9.99,64,1,12,namesilo,,
 05be2f38-89dc-46ed-b31f-058c5831b34f,rumcake.ca,resell,,,81,3,8,"Go Daddy Domains Canada, Inc",11/03/2009 19:30,11/03/2027 05:00
-05c73e04-af31-47f6-8b3d-0e89186651a3,makethebestof.ca,available,14.98,,72,1,16,namecheap,,
+05c73e04-af31-47f6-8b3d-0e89186651a3,makethebestof.ca,available,14.98,,72,0,16,namecheap,,
 05c7cd56-8b7f-4cd6-ace6-aaf18ee211ce,chickensalad.ca,available,14.98,,76,3,13,namecheap,,
 05ce5aa7-1f60-401c-ba97-c394330424da,scanners.ca,resell,,,53,7,8,8648255 CANADA LTD. O/A Dynadot LLC,05/06/2024 19:00,05/06/2026 19:00
 05f01b59-ff63-4b80-814a-a3356a810d56,OttomanEmpire.ca,available,14.98,,64,2,14,namecheap,,
 06219ec5-e2e7-4a4c-8e5c-a8ddce2fce78,Ineedaguide.ca,available,14.98,,50,1,14,namecheap,,
-06d0bed5-d65e-4ffd-a36c-202eac8c7dbc,backtalk.ca,available,14.98,,68,5,9,namecheap,,
+06d0bed5-d65e-4ffd-a36c-202eac8c7dbc,backtalk.ca,available,14.98,,68,4,9,namecheap,,
 0728adcf-c8e3-4f5a-b085-323cd9660446,Books.ca,resell,,,52,49,5,CanSpace Solutions Inc.,25/09/2000 15:45,24/09/2027 04:00
 0750ce2a-aa60-4e2c-95e8-b3f6c95cbcb2,aboutto.ca,available,14.98,,56,2,8,namecheap,,
 07738fd6-f57f-43f8-98e3-69d1715d9359,getonwith.ca,available,14.98,,79,1,11,namecheap,,
@@ -80,7 +80,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0a3b4d59-998b-405c-a070-1da74a60edde,victories.ca,resell,,,58,5,9,WHC Online Solutions Inc.,18/03/2009 19:54,18/03/2027 04:00
 0a58a935-1480-404a-ab51-42e33913898d,MiddleAmeri.ca,available,9.99,9.99,54,2,14,namesilo,,
 0a7ad9cf-70cc-409c-93ed-177aba679753,keepwith.ca,available,14.98,,48,2,9,namecheap,,
-0a86e25d-8931-4cbb-a4ae-2aadee476f6d,getofflightly.ca,available,14.98,,70,1,15,namecheap,,
+0a86e25d-8931-4cbb-a4ae-2aadee476f6d,getofflightly.ca,available,14.98,,70,0,15,namecheap,,
 0a922279-78bf-4ac7-bce3-eda7ac30f9f1,coffeewoman.ca,available,14.98,,80,2,11,namecheap,,
 0aa2b13c-97f2-468a-b43e-519244582eea,adds.ca,resell,,,56,9,4,Go Get Canada Domain Registrar Ltd.,15/05/2019 19:00,15/05/2027 19:00
 0ae3cba7-7c02-41a2-8507-43c0d5681fa5,decidedness.ca,available,9.99,9.99,74,1,11,namesilo,,
@@ -88,7 +88,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0b12661a-afa8-4aba-8016-7c964651d84d,HoChiMinhCity.ca,available,9.99,9.99,64,7,16,namesilo,,
 0b19cd06-0552-4bb2-b8df-4ec1d1172f4f,turnorburn.ca,available,14.98,,56,1,12,namecheap,,
 0b3ded95-ed21-499b-877a-6b17d22c0bca,muttered.ca,available,14.98,,56,1,8,namecheap,,
-0b447e2a-5750-4ed9-8263-0ad6cd37b66f,hairwax.ca,premium,5330.25,,76,3,8,Grape Inc.,21/04/2021 20:05,21/04/2027 20:05
+0b447e2a-5750-4ed9-8263-0ad6cd37b66f,hairwax.ca,premium,5330.25,,76,2,8,Grape Inc.,21/04/2021 20:05,21/04/2027 20:05
 0b6eaaf6-d192-434d-a086-445d3291f1bb,cometopower.ca,available,14.98,,66,1,13,namecheap,,
 0b7378b0-4aae-492a-a8be-ababe843865d,datadomain.ca,available,14.98,,52,4,11,namecheap,,
 0b831730-aa3b-47f2-807b-86b4aa836784,aliens.ca,resell,,,56,35,6,Grape Inc.,09/11/2000 04:05,01/12/2026 05:00
@@ -113,7 +113,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0ee1f4f1-4d00-48b3-bc90-9707602ae8a7,getunder.ca,available,14.98,,54,1,9,namecheap,,
 0f620237-9a13-46ec-ae38-dd5edb27bd17,talked.ca,resell,,,62,6,6,WHC Online Solutions Inc.,01/07/2020 22:38,01/07/2026 22:38
 0fc21f5c-d766-440d-9ad3-f3bf8ff6706f,revolvearound.ca,available,14.98,,62,1,14,namecheap,,
-0fe1c9c8-aa11-45a1-9539-d945a3982017,leavetochance.ca,available,14.98,,64,1,15,namecheap,,
+0fe1c9c8-aa11-45a1-9539-d945a3982017,leavetochance.ca,available,14.98,,64,0,15,namecheap,,
 1000fc49-9197-4df0-b12a-fbeca4adb479,reads.ca,resell,,,54,10,5,CanSpace Solutions Inc.,13/06/2005 14:10,13/06/2027 04:00
 10332185-79bb-4dca-990b-6f355c7e9fc3,regionalism.ca,available,14.98,,64,1,11,namecheap,,
 105c7c22-e219-4c46-a8bc-6d348c181bbe,comeintoplay.ca,available,14.98,,70,1,14,namecheap,,
@@ -130,7 +130,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1246a9b2-c26c-4c9c-ac23-50c97c3b1c2a,keypresses.ca,available,9.99,9.99,54,0,11,namesilo,,
 124c3df1-8a87-4600-a736-ffb8358ff63b,fires.ca,resell,,,46,10,5,CanSpace Solutions Inc.,18/04/2005 20:12,18/04/2027 04:00
 126219f9-f185-432b-bba7-15a2009e9029,genericnames.ca,available,9.99,9.99,42,2,13,namesilo,,
-128c3324-dabb-44c1-a7da-241323ab4f85,starts.ca,resell,,,54,9,6,Grape Inc.,24/02/2010 20:18,24/02/2027 05:00
+128c3324-dabb-44c1-a7da-241323ab4f85,starts.ca,resell,,,54,10,6,Grape Inc.,24/02/2010 20:18,24/02/2027 05:00
 129378a1-2f90-4fbc-b032-40ae29fe5505,playlists.ca,resell,,,60,10,9,8648255 CANADA LTD. O/A Dynadot LLC,24/04/2024 19:00,24/04/2027 19:00
 12fcbe28-dcc9-4959-bb55-4f04fc1c71b9,manycore.ca,available,14.98,,68,3,8,namecheap,,
 133ef978-451c-43c5-b615-8c92266aaa24,financeindustry.ca,available,14.98,,44,1,16,namecheap,,
@@ -147,7 +147,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 151e9ab4-ae3a-481c-98e9-0abe800fd540,gomissing.ca,available,14.98,,70,1,10,namecheap,,
 1522971a-dba1-48d2-9e45-403093dcd92f,packingtape.ca,available,14.98,,70,2,12,namecheap,,
 155b007b-b859-4b94-aa12-38414767d2fd,makesomethingof.ca,available,14.98,,70,0,17,namecheap,,
-15619891-f66b-4d6d-a7db-1de8abe39c10,cometogripswith.ca,available,14.98,,62,1,18,namecheap,,
+15619891-f66b-4d6d-a7db-1de8abe39c10,cometogripswith.ca,available,14.98,,62,0,18,namecheap,,
 1590f861-aef2-4c1a-a423-ea0c422fb1dd,Lordhavemercy.ca,available,14.98,,54,2,15,namecheap,,
 15bf41d0-af66-45a8-90f9-86cdbd015ffd,inblossom.ca,available,14.98,,56,1,10,namecheap,,
 16326786-9fa0-4790-bb88-e54c4d44a321,goalongwith.ca,available,14.98,,70,1,13,namecheap,,
@@ -186,7 +186,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1afee46d-5b24-4d62-ada3-ffae7e1b0125,throats.ca,available,9.99,9.99,44,2,7,namesilo,,
 1b27e6d2-ec7d-4b67-babe-0f109d5f3afb,goingto.ca,available,14.98,,56,6,8,namecheap,,
 1bc2ea5b-ffbb-4696-9907-72dcd62d928a,demotes.ca,available,9.99,9.99,46,1,7,namesilo,,
-1bcb4b43-d224-4b36-8afe-ef8cdb164ee6,getoffwith.ca,available,14.98,,76,1,12,namecheap,,
+1bcb4b43-d224-4b36-8afe-ef8cdb164ee6,getoffwith.ca,available,14.98,,76,0,12,namecheap,,
 1bcca22b-a516-462a-8f0e-beb3535126fb,gettheboot.ca,available,14.98,,70,1,12,namecheap,,
 1c2ef12d-bc18-457f-98d5-c87b1286d6dd,comeof.ca,available,14.98,,74,1,7,namecheap,,
 1c478874-b142-4861-8c49-23fb27345ef0,getthehint.ca,available,14.98,,74,1,12,namecheap,,
@@ -207,7 +207,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1f142be0-8d20-4a29-8bcb-7aab709bf36a,makeoneselfathome.ca,available,14.98,,72,1,20,namecheap,,
 1f3bdf4b-b79d-44b2-80e3-a16d09e73cba,rashes.ca,resell,,,40,3,6,8648255 CANADA LTD. O/A Dynadot LLC,29/08/2007 22:58,29/08/2026 04:00
 1fda6fd6-9bff-4057-a79e-25d72ebd30f7,stormed.ca,available,14.98,,50,3,7,namecheap,,
-1fdcdf4b-0890-45e7-a847-d07cea790bf1,comeoutontop.ca,available,14.98,,68,0,15,namecheap,,
+1fdcdf4b-0890-45e7-a847-d07cea790bf1,comeoutontop.ca,available,14.98,,68,1,15,namecheap,,
 1ff37b4f-0aba-423a-b1b5-4574cbc1bf27,assoonaspossible.ca,available,14.98,,50,1,19,namecheap,,
 202397d8-a0ae-468b-b752-5cd712150786,updates.ca,resell,,,54,15,7,BareMetal.com inc,25/02/2003 17:00,25/02/2027 05:00
 203558cb-4784-428d-b25c-263e22420047,CountyofSpencer.ca,available,9.99,9.99,42,1,17,namesilo,,
@@ -216,10 +216,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 20595e31-a1d1-45aa-a33a-3a6715c2dde9,proxymurder.ca,available,14.98,,36,1,12,namecheap,,
 20f3021c-5e96-45ea-a2ea-bbe9718a943f,spellingbook.ca,available,14.98,,48,1,13,namecheap,,
 211c70c5-42f2-4630-85a3-4577666f42b8,manycoloured.ca,available,14.98,,60,1,13,namecheap,,
-21236024-a48f-45b2-b10d-b040c9697304,gooutlikealight.ca,available,14.98,,62,1,19,namecheap,,
+21236024-a48f-45b2-b10d-b040c9697304,gooutlikealight.ca,available,14.98,,62,0,19,namecheap,,
 2151b3c1-8601-4e5b-9b6f-b64d39551699,restaurants.ca,resell,,,57,21,11,CanSpace Solutions Inc.,25/09/2000 15:51,24/09/2027 04:00
 2189d0c2-1423-416f-bad2-a14b9d54c5d0,makefriendswith.ca,available,9.99,9.99,58,1,17,namesilo,,
-218f2f75-3ff0-4858-868b-22d6aa769a5b,keepunder.ca,available,14.98,,66,1,10,namecheap,,
+218f2f75-3ff0-4858-868b-22d6aa769a5b,keepunder.ca,available,14.98,,66,0,10,namecheap,,
 219b78cf-e907-49fd-a291-d8bc5db6bb42,seniorcollege.ca,available,14.98,,67,1,14,namecheap,,
 2229d779-7a07-4de9-ad09-b9d3da55ac60,makeinteresting.ca,available,14.98,,72,1,16,namecheap,,
 2246781e-acde-4576-896b-91d9ee2c2a30,ontheropes.ca,available,14.98,,59,2,12,namecheap,,
@@ -237,7 +237,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 24a0381d-dde8-441f-b12b-f4b2a27a39d0,yawned.ca,available,9.99,9.99,53,2,6,namesilo,,
 24efdb23-92f8-4c25-96b2-15f2b09a355f,snowballs.ca,resell,,,59,7,9,"Go Daddy Domains Canada, Inc",24/11/2010 00:59,24/11/2026 00:59
 2525f60a-0120-4dfe-bb21-9febc2657d77,justthesame.ca,available,14.98,,46,1,13,namecheap,,
-255e047f-c163-46d1-aea0-33e16820c5c6,feelupto.ca,available,14.98,,50,1,10,namecheap,,
+255e047f-c163-46d1-aea0-33e16820c5c6,feelupto.ca,available,14.98,,50,0,10,namecheap,,
 25653469-5875-4cc8-9b24-a3291998317e,placeupon.ca,available,14.98,,48,1,10,namecheap,,
 25751d6c-3ef0-4725-be01-9d0129235c9a,allowed.ca,available,14.98,,75,6,7,namecheap,,
 2575c401-cf28-4028-9549-8d4502731de5,zoomed.ca,resell,,,60,5,6,CENTRALNIC CANADA INC,10/11/2021 19:00,10/11/2026 19:00
@@ -249,7 +249,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 25d731dc-dfb2-4a73-bdf2-3e4cd397afa7,keeptogether.ca,available,14.98,,68,1,13,namecheap,,
 25f96907-db67-4233-aef7-424b6047cb4c,havenousefor.ca,available,14.98,,56,0,15,namecheap,,
 261424c0-a401-4b79-a54d-ac7ee8350041,offerings.ca,resell,,,52,4,9,WHC Online Solutions Inc.,08/01/2026 00:53,08/01/2027 00:53
-2622124a-f267-4a14-a569-a00efb7fdada,letoneoff.ca,available,14.98,,77,1,11,namecheap,,
+2622124a-f267-4a14-a569-a00efb7fdada,letoneoff.ca,available,14.98,,77,0,11,namecheap,,
 271c0703-0731-473f-9b9d-448c61c6c362,establishes.ca,available,9.99,9.99,50,1,11,namesilo,,
 27778488-0c83-44d1-96a1-f99d25a586f7,coffeegrinder.ca,premium,5922.5,,75,2,14,CanSpace Solutions Inc.,13/06/2005 14:11,13/06/2027 04:00
 27864ef7-6472-4a16-a8cf-45de740296de,comes.ca,resell,,,70,8,5,CENTRALNIC CANADA INC,11/09/2013 19:38,11/09/2026 19:38
@@ -269,7 +269,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2a73eb3f-285c-45a6-953e-0c02037fb4b9,getontheendof.ca,available,14.98,,64,0,17,namecheap,,
 2a83c008-2e81-4b18-ad5d-1f62151f8628,IsleofThanet.ca,available,14.98,,52,2,14,namecheap,,
 2a946180-aa76-4543-b2ad-3bdf05539479,executiveprivilege.ca,available,14.98,,62,1,19,namecheap,,
-2ac8be3a-d042-4065-870b-334a6d514967,posterpaint.ca,available,14.98,,74,2,12,namecheap,,
+2ac8be3a-d042-4065-870b-334a6d514967,posterpaint.ca,available,14.98,,74,1,12,namecheap,,
 2b8abedd-5156-49fb-94ef-7d715cc1db44,complaints.ca,resell,,,40,9,10,WHC Online Solutions Inc.,09/11/2000 00:55,01/12/2026 05:00
 2b95eb67-816c-4be2-a82b-f96a5a74faf2,makeupfriend.ca,available,9.99,9.99,60,1,14,namesilo,,
 2ba666b6-323f-4aa2-9226-02dfedec6836,skirting.ca,available,9.99,9.99,64,3,8,namesilo,,
@@ -296,10 +296,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2eed3ab1-222e-4cc7-94c9-e17040237304,bandits.ca,resell,,,40,10,7,Rebel.ca Corp.,08/07/2004 17:44,08/07/2026 04:00
 2efcd248-c860-4e06-8e1d-786d5a3aa9c5,breaks.ca,resell,,,52,10,6,Rebel.ca Corp.,08/12/2010 20:23,08/12/2026 20:23
 2f4ea850-2555-4fef-865b-4d8ff7c000dc,synchronizes.ca,available,14.98,,62,1,12,namecheap,,
-2f534309-501b-4e27-a58b-bcd9bc080d5f,getoutof.ca,available,14.98,,79,2,10,namecheap,,
+2f534309-501b-4e27-a58b-bcd9bc080d5f,getoutof.ca,available,14.98,,79,1,10,namecheap,,
 3043ce8a-2a5c-4e7c-b750-4ccdd3299edb,draws.ca,resell,,,65,6,5,WHC Online Solutions Inc.,16/07/2025 19:00,16/07/2026 19:00
 30df3aa3-a8b6-4138-a159-80b21c542df4,dogsleds.ca,available,9.99,9.99,76,1,8,namesilo,,
-31216ebe-7da0-4789-bb91-98962a5b38ac,spellout.ca,available,14.98,,76,2,9,namecheap,,
+31216ebe-7da0-4789-bb91-98962a5b38ac,spellout.ca,available,14.98,,76,1,9,namecheap,,
 31371e6a-35eb-4828-9bcd-85ed7a061ec8,postponement.ca,available,14.98,,57,1,12,namecheap,,
 315d18ac-5d85-4f64-8eaa-41d64fe20d24,JapanStandardTime.ca,available,9.99,9.99,56,1,19,namesilo,,
 319b26f2-4ea5-4ee5-8f62-63d0b482d3ef,sneezed.ca,available,14.98,,47,2,7,namecheap,,
@@ -307,6 +307,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 32007b89-27f6-43ec-9cd1-befb58e0b02e,fasttracked.ca,available,9.99,9.99,56,1,12,namesilo,,
 320f4baa-6cb7-4f96-be10-adb348d2a8d5,getthemeaning.ca,available,14.98,,69,0,15,namecheap,,
 321c928a-8954-4959-b33d-6eb735ee0bbd,sanded.ca,available,14.98,,66,1,6,namecheap,,
+324c1da6-59f2-4910-9820-662089c5485e,inwriting.ca,premium,,,72,3,10,,,
 32513199-388d-4bcd-80e4-ae21a23d9c3d,sedated.ca,available,14.98,,43,2,7,namecheap,,
 32ba7457-df22-4819-b5ba-97aacec692b6,childclass.ca,available,14.98,,50,1,11,namecheap,,
 33216cf0-7be3-4c1c-8135-047ef2785fee,teenyweeny.ca,available,14.98,,78,2,11,namecheap,,
@@ -322,7 +323,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 34cbe0ed-58d7-4c2b-a87a-ce520f705997,justthejob.ca,available,14.98,,56,3,12,namecheap,,
 34ed9f2d-8a58-4be2-a67c-13460188f70b,collapses.ca,available,9.99,9.99,38,1,9,namesilo,,
 35c31e6f-1e89-4730-aef9-338e4624ba45,ChildJesus.ca,available,14.98,,56,2,11,namecheap,,
-35cfd177-445f-4e72-ac54-7ad087791e28,turninto.ca,available,14.98,,86,2,9,namecheap,,
+35cfd177-445f-4e72-ac54-7ad087791e28,turninto.ca,available,14.98,,86,3,9,namecheap,,
 35fe8640-6bc3-4e2e-a115-aaf12a8b0b21,chickenliver.ca,available,14.98,,64,1,13,namecheap,,
 3606c1d8-376f-4070-9776-e206be733b1b,brosbeforehos.ca,available,14.98,,38,1,15,namecheap,,
 361eafa6-68cc-44e8-828e-72298b1e86cf,ifyouwill.ca,available,14.98,,61,2,11,namecheap,,
@@ -334,7 +335,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 370a7ae2-4a6a-4f44-bab8-4e4a97d89857,godark.ca,available,14.98,,68,5,7,namecheap,,
 372512c3-7b32-4cec-a956-c262f3f7b6e2,suspecting.ca,available,14.98,,48,1,10,namecheap,,
 3761ea45-482d-45d0-8eb1-10cc26af31b6,slowcookers.ca,available,9.99,9.99,55,2,12,namesilo,,
-3784c7e3-0b50-4210-a87d-dd187fc48abd,mistakenidentity.ca,available,14.98,,52,2,17,namecheap,,
+3784c7e3-0b50-4210-a87d-dd187fc48abd,mistakenidentity.ca,available,14.98,,52,1,17,namecheap,,
 378a3d60-1a11-4969-bae7-bad4207f6400,defaulted.ca,available,9.99,9.99,42,2,9,namesilo,,
 3796cd0d-4a25-4b95-9b1c-b9a7872a4eb6,demonstrates.ca,available,9.99,9.99,56,2,12,namesilo,,
 37ddd782-2181-4100-a6f3-92ca9fdee602,dogsledmail.ca,available,14.98,,94,0,12,namecheap,,
@@ -364,8 +365,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3babb3fd-560b-4562-98c7-f214c5d45435,taller.ca,resell,,,54,10,6,"Go Daddy Domains Canada, Inc",17/03/2021 19:00,17/03/2027 19:00
 3bc47506-2c6c-421f-8e69-9c478e8614c7,getoutofDodge.ca,available,14.98,,62,1,16,namecheap,,
 3bc82664-abce-400f-84f0-ada8d8cb50dd,commonpractice.ca,available,14.98,,66,4,15,namecheap,,
-3bf8ba51-0689-4066-bffe-ef1ea8bdda47,keepoutof.ca,available,14.98,,68,0,11,namecheap,,
-3c0131a2-9fd0-4ec6-8067-f45346066841,costcutting.ca,available,14.98,,64,3,12,namecheap,,
+3bf8ba51-0689-4066-bffe-ef1ea8bdda47,keepoutof.ca,available,14.98,,68,1,11,namecheap,,
+3c0131a2-9fd0-4ec6-8067-f45346066841,costcutting.ca,available,14.98,,64,2,12,namecheap,,
 3c4eb9ae-0907-405d-a2f5-168af24301af,blowingup.ca,available,14.98,,64,1,10,namecheap,,
 3c72f969-9bc9-4848-bda0-62f12dab8227,keepclear.ca,available,14.98,,58,2,10,namecheap,,
 3ca47f37-d743-4872-87c7-30b4292ac67a,getupin.ca,available,14.98,,74,1,9,namecheap,,
@@ -393,18 +394,19 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3fb933c7-01c1-4602-929b-4f1938e8b520,howlout.ca,available,14.98,,70,1,8,namecheap,,
 3fc0f90d-d08f-4ef6-a06f-22a4cc124057,introduces.ca,available,14.98,,58,2,10,namecheap,,
 3fed5af2-b78d-4435-a1a4-0426ef7ac2c8,justgone.ca,available,14.98,,61,2,9,namecheap,,
-3ff1c69d-76bb-4d02-b419-65df905252f7,letsomethingslip.ca,available,14.98,,67,1,18,namecheap,,
-4010645d-4ad3-4f36-a4bc-060b24553167,letusgo.ca,available,14.98,,57,4,9,namecheap,,
+3ff1c69d-76bb-4d02-b419-65df905252f7,letsomethingslip.ca,available,14.98,,67,0,18,namecheap,,
+4010645d-4ad3-4f36-a4bc-060b24553167,letusgo.ca,available,14.98,,57,3,9,namecheap,,
 401c65ce-2da3-4829-b1d9-d56057f574e7,letsomethingride.ca,available,14.98,,67,1,18,namecheap,,
 40610419-2252-431b-b31d-d2e671d9bf8f,goonvacation.ca,available,14.98,,48,1,14,namecheap,,
 408d9002-d0bc-4f8f-9f77-46b2893e7898,CountyofRiley.ca,available,9.99,9.99,42,1,15,namesilo,,
 40aec111-f72a-4649-a82d-eaa466810598,distinctivefeature.ca,available,14.98,,54,0,19,namecheap,,
 40d912a8-3132-403e-8ebe-e1d24ed1f551,businessmen.ca,resell,,,74,4,11,MyID.ca INC.,12/10/2005 05:48,12/10/2026 04:00
-40e1d66c-d9f3-4373-9f95-25241c6a9d2a,rakeover.ca,available,14.98,,66,1,9,namecheap,,
+40e1d66c-d9f3-4373-9f95-25241c6a9d2a,rakeover.ca,available,14.98,,66,0,9,namecheap,,
 40f75ce3-626f-4c61-abce-69c64d48294e,USBdrive.ca,available,14.98,,76,2,9,namecheap,,
-41212902-0ddf-408c-9b47-354f2a175233,keepoff.ca,available,14.98,,70,2,8,namecheap,,
+41212902-0ddf-408c-9b47-354f2a175233,keepoff.ca,available,14.98,,70,1,8,namecheap,,
 413ffd64-91c7-442e-9a0a-a45d96556976,echoes.ca,resell,,,56,24,6,"Go Daddy Domains Canada, Inc",20/07/2022 19:00,20/07/2026 19:00
 417df9c1-db26-4057-9bb8-8b57c4658556,goamiss.ca,available,14.98,,68,0,8,namecheap,,
+41a8f2f6-6353-41a5-89b0-baca72334f8a,inthesameboat.ca,premium,,,48,2,16,,,
 41fb8108-c3e5-4e72-9811-6a1bd1af410e,aboutfaced.ca,available,16.99,,48,1,11,name.com,,
 42194072-4737-410c-9eb6-b7adcbd4ab87,whatittakes.ca,available,14.98,,58,4,13,namecheap,,
 421d6f68-f571-4d22-9526-bcf1b3ec2694,filein.ca,available,14.98,,68,2,7,namecheap,,
@@ -418,10 +420,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 43756345-c8b4-48b8-a17d-fa47b11cd5d2,keyrings.ca,available,9.99,9.99,56,3,8,namesilo,,
 43ccef0e-ebe5-4b74-bd98-e47ceae41017,manysidedness.ca,available,14.98,,64,1,14,namecheap,,
 43f33877-8945-4671-8104-a6aabe72667c,havenobusiness.ca,available,14.98,,60,1,16,namecheap,,
-441d2afb-6ee3-4bcb-92fd-900032cc5caf,lightupon.ca,available,14.98,,72,2,10,namecheap,,
+441d2afb-6ee3-4bcb-92fd-900032cc5caf,lightupon.ca,available,14.98,,72,1,10,namecheap,,
 443a4eca-e2a9-4c5d-8c7e-5960277a18db,waitforit.ca,available,14.98,,43,4,11,namecheap,,
 44420de6-179c-440b-9e5e-ea1982564ed8,eachway.ca,available,14.98,,68,2,8,namecheap,,
-44594ea0-1caf-4e45-a447-9626622cc1b4,comeintoeffect.ca,available,14.98,,70,0,16,namecheap,,
+44594ea0-1caf-4e45-a447-9626622cc1b4,comeintoeffect.ca,available,14.98,,70,1,16,namecheap,,
 44721615-3944-455c-91bf-e05735b1ccb8,eachtohisown.ca,available,14.98,,46,0,15,namecheap,,
 448342be-9627-4601-8056-a32d51863b2d,moustaches.ca,resell,,,53,3,10,8648255 CANADA LTD. O/A Dynadot LLC,22/03/2023 19:00,22/03/2028 19:00
 44be0642-5c3d-4b2c-adc7-00d18a346c5e,filefootage.ca,available,14.98,,74,1,12,namecheap,,
@@ -463,7 +465,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 49dc152c-5496-47e2-910d-9ea15473b47e,makesomenoise.ca,available,14.98,,70,5,15,namecheap,,
 49dd7f7a-7443-4673-a9c7-145d24591a71,prettywell.ca,available,14.98,,60,2,11,namecheap,,
 49f5efca-354a-4e55-9257-c56970e2041b,stockings.ca,resell,,,58,6,9,WHC Online Solutions Inc.,08/04/2026 19:00,08/04/2027 19:00
-4a2bc9a1-ef7b-4098-a727-f43d5b98fa8b,Ilostmyglasses.ca,available,14.98,,50,1,17,namecheap,,
+4a2bc9a1-ef7b-4098-a727-f43d5b98fa8b,Ilostmyglasses.ca,available,14.98,,50,0,17,namecheap,,
 4a596e21-d245-46ea-84e2-8fa017308d5c,gonumberone.ca,available,9.99,9.99,40,1,13,namesilo,,
 4abb3b88-0c45-495f-b65c-35ae91cc320c,costcontainment.ca,available,14.98,,42,2,16,namecheap,,
 4b0f7138-3347-4ac0-8a6a-cf6202a166aa,slideshow.ca,resell,,,72,8,10,WHC Online Solutions Inc.,07/03/2002 17:11,07/03/2027 05:00
@@ -479,8 +481,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4c9da58a-0469-41a5-aafc-87504e32bd3f,keepto.ca,available,14.98,,72,2,7,namecheap,,
 4c9f0018-7a9d-4beb-bb9f-46cc747b9150,CountyofMeath.ca,available,9.99,9.99,42,1,15,namesilo,,
 4d35585f-047e-445e-8ed8-3fd36bb43679,suppresses.ca,available,14.98,,44,1,10,namecheap,,
-4d37bc64-c8cb-4b6b-8650-9ae1af1974e5,rakeout.ca,available,14.98,,66,1,8,namecheap,,
-4d453061-16d4-4bfb-8144-f7fc514d3d03,comeinuseful.ca,available,14.98,,68,0,14,namecheap,,
+4d37bc64-c8cb-4b6b-8650-9ae1af1974e5,rakeout.ca,available,14.98,,66,0,8,namecheap,,
+4d453061-16d4-4bfb-8144-f7fc514d3d03,comeinuseful.ca,available,14.98,,68,1,14,namecheap,,
 4d548629-1075-459f-8d9c-ce1e73d6968b,grandnephews.ca,available,9.99,9.99,66,1,12,namesilo,,
 4dad0b31-4e72-482f-b50b-b1df097080b6,advertises.ca,available,14.98,,56,3,10,namecheap,,
 4e4806c6-aa90-477a-8126-a482659dc43b,thewholeshop.ca,available,14.98,,42,1,14,namecheap,,
@@ -516,9 +518,9 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5369bb04-b480-4364-bbe1-9ad8f7c700f0,referto.ca,available,14.98,,66,3,8,namecheap,,
 5373ee74-1ef0-4aa6-9514-adb85f459d0d,godown.ca,available,14.98,,74,5,7,namecheap,,
 537a70c0-bc03-4db7-af93-aaf6e2d7a15c,snapped.ca,resell,,,52,6,7,CENTRALNIC CANADA INC,20/01/2010 20:21,20/01/2027 05:00
-53856131-a703-4119-9fd2-6142297d796a,iftheshoefits.ca,available,14.98,,55,3,16,namecheap,,
+53856131-a703-4119-9fd2-6142297d796a,iftheshoefits.ca,available,14.98,,55,2,16,namecheap,,
 53b8fbb3-fa21-4ab0-b888-f812e8a627d2,newer.ca,resell,,,60,8,5,MyID.ca INC.,06/06/2018 19:29,06/06/2026 19:29
-53d84a14-2833-4a82-a312-a12a76113415,keepquiet.ca,available,14.98,,74,1,10,namecheap,,
+53d84a14-2833-4a82-a312-a12a76113415,keepquiet.ca,available,14.98,,74,2,10,namecheap,,
 53ddaf3f-c97d-46c1-bbf9-a293ad55e0a0,therewego.ca,available,14.98,,56,2,11,namecheap,,
 5415b7f7-a40b-491a-88a9-b47237fbac2f,rained.ca,available,9.99,9.99,50,4,6,namesilo,,
 54498310-8c68-4136-b509-4915528be99f,keyserver.ca,available,14.98,,70,4,10,namecheap,,
@@ -534,7 +536,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 556410e7-2325-4efd-a92b-87821f1b89bb,fitthebill.ca,available,14.98,,84,1,12,namecheap,,
 556ca8d2-5f2c-40a2-b09e-374c13eebe3f,gotobatfor.ca,available,14.98,,42,1,13,namecheap,,
 55940394-a525-4991-9c9c-d883dd6841ae,muscletone.ca,available,14.98,,77,2,11,namecheap,,
-55b4653c-98b7-4c20-b98a-b7d6d43d3ee5,comicrelief.ca,available,14.98,,80,5,12,namecheap,,
+55b4653c-98b7-4c20-b98a-b7d6d43d3ee5,comicrelief.ca,available,14.98,,80,4,12,namecheap,,
 55bfd772-faa3-433e-954e-f35c681ec99e,reprimanded.ca,available,9.99,9.99,42,1,11,namesilo,,
 56325785-9a2f-45ce-8ce2-884b8d264fd7,dogsick.ca,available,14.98,,90,1,7,namecheap,,
 56451a64-e84f-4905-8c84-60e7dc301319,germs.ca,resell,,,40,5,5,WHC Online Solutions Inc.,03/01/2004 17:00,03/01/2027 05:00
@@ -555,9 +557,9 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58e024b1-aff6-4bef-81e2-a6076adb34e8,leaveoff.ca,available,14.98,,72,1,9,namecheap,,
 58e5347c-b310-4450-9e9f-36c489b4caff,likemad.ca,available,14.98,,70,0,8,namecheap,,
 58fe0c25-233b-4881-a11b-bfc35b238ea0,CountyofHawaii.ca,available,14.98,,50,1,16,namecheap,,
-593f0ff5-ac93-4ad0-810a-43cbe53a5c28,heavymetal.ca,resell,,,70,15,11,Rebel.ca Corp.,22/04/2015 19:35,22/04/2027 19:35
-59501681-5915-44bf-8cec-d39f641a25f6,comeinfor.ca,available,14.98,,76,0,11,namecheap,,
-598e4ec2-0f49-4548-91d4-96ae72c0de92,justthen.ca,available,14.98,,62,1,9,namecheap,,
+593f0ff5-ac93-4ad0-810a-43cbe53a5c28,heavymetal.ca,resell,,,70,16,11,Rebel.ca Corp.,22/04/2015 19:35,22/04/2027 19:35
+59501681-5915-44bf-8cec-d39f641a25f6,comeinfor.ca,available,14.98,,76,1,11,namecheap,,
+598e4ec2-0f49-4548-91d4-96ae72c0de92,justthen.ca,available,14.98,,62,0,9,namecheap,,
 59a1773e-b477-4b44-9521-278f05320ff8,Ihaveatoothache.ca,available,14.98,,50,1,18,namecheap,,
 59c1067b-4087-4368-b2a3-04484d473e2c,asprovidedfor.ca,available,14.98,,40,0,15,namecheap,,
 5a0cc997-1047-43c7-83af-1d137cebe179,endconsumer.ca,available,14.98,,68,1,12,namecheap,,
@@ -570,11 +572,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b1da86f-5c6a-44f1-a641-63913b7aa2eb,stepoff.ca,available,14.98,,68,2,8,namecheap,,
 5b49cace-0419-4d79-902b-6f7ce9f651ef,majorityminority.ca,available,14.98,,42,0,17,namecheap,,
 5b539c5b-0296-4d7b-942b-0080fb14b938,interpersonally.ca,available,9.99,9.99,60,1,15,namesilo,,
-5b5a4c1c-2ece-48c4-ae34-b84915c9aa89,getthejobdone.ca,available,14.98,,74,2,16,namecheap,,
+5b5a4c1c-2ece-48c4-ae34-b84915c9aa89,getthejobdone.ca,available,14.98,,74,3,16,namecheap,,
 5ba37b4e-e279-416f-b38b-ff74e7f84cd6,splints.ca,resell,,,63,1,7,Grape Inc.,04/07/2007 01:55,03/07/2026 04:00
 5c02b2e2-e3e9-4c1c-9aa0-f4a700fe63e5,makesenseof.ca,available,14.98,,52,1,13,namecheap,,
 5c440366-6a59-486a-804d-5fa954a68ec0,traps.ca,resell,,,68,7,5,Namespro Solutions Inc.,30/03/2006 00:31,29/03/2027 04:00
-5c447f8d-41ba-4f10-bb31-ccdaf1d4c22c,inspiteofoneself.ca,available,14.98,,48,1,19,namecheap,,
+5c447f8d-41ba-4f10-bb31-ccdaf1d4c22c,inspiteofoneself.ca,available,14.98,,48,0,19,namecheap,,
 5c58d360-bead-450e-8c2a-fbbf8d467de7,Ihaveafever.ca,available,14.98,,50,1,14,namecheap,,
 5caf3f3c-dc9d-411c-a4ff-1e84593eedaa,goingbad.ca,available,9.99,9.99,46,1,9,namesilo,,
 5ce5f670-14ed-4f52-a5b4-6738ccf74dc3,filesize.ca,available,14.98,,64,2,9,namecheap,,
@@ -596,8 +598,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5e73a789-b693-43a0-b589-e8b806ae16d1,settledown.ca,resell,,,80,2,11,CENTRALNIC CANADA INC,04/03/2024 01:00,04/03/2027 01:00
 5eb63cd2-6f27-4f0a-9e8a-14b3963788bf,alcoholproblem.ca,available,14.98,,30,1,15,namecheap,,
 5ebb4ee2-2842-4134-92ad-4ac46bcb5105,online.ca,resell,,,70,62,7,CanSpace Solutions Inc.,25/09/2000 15:58,24/09/2027 04:00
-5f579dbb-a256-408e-a4a4-fe95549020ae,comethrough.ca,available,14.98,,78,1,12,namecheap,,
-5f8ceef5-752a-4b35-8105-9b0a971c42d8,cheeseontoast.ca,available,14.98,,64,1,15,namecheap,,
+5f579dbb-a256-408e-a4a4-fe95549020ae,comethrough.ca,available,14.98,,78,2,12,namecheap,,
+5f8ceef5-752a-4b35-8105-9b0a971c42d8,cheeseontoast.ca,available,14.98,,64,0,15,namecheap,,
 5f9bf920-2457-4041-9a55-4021b153fac3,gotobed.ca,available,14.98,,72,3,9,namecheap,,
 5fdb644a-5dbd-435b-bbbd-35684b8e9c8f,keepthepace.ca,available,14.98,,66,1,13,namecheap,,
 5feb2fc2-80ca-4539-8cab-4bdbd87531a1,stuffyou.ca,available,14.98,,44,1,9,namecheap,,
@@ -607,7 +609,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 60a9d9be-30f2-4ebc-9eae-29f064db3810,bloodpressuregauge.ca,available,14.98,,48,1,20,namecheap,,
 60bfa02b-87b4-4e7b-a8bc-a53368815e2a,propagates.ca,available,9.99,9.99,49,1,10,namesilo,,
 60d0bd14-cfcd-4a70-a0fa-0f2fc66f21b3,uptoanything.ca,available,14.98,,52,1,14,namecheap,,
-610c4a78-7936-4527-bf70-a510a7089a3f,Ilostmybackpack.ca,available,14.98,,50,1,18,namecheap,,
+610c4a78-7936-4527-bf70-a510a7089a3f,Ilostmybackpack.ca,available,14.98,,50,0,18,namecheap,,
 6125c0d3-6994-4ff9-a167-6b73f5c9e4fc,joggingsuit.ca,available,14.98,,61,1,12,namecheap,,
 6176b5ae-dffb-401b-bf07-ceab6f04b222,thickskinned.ca,available,14.98,,52,1,13,namecheap,,
 617f8bfb-1d36-4588-9a3c-27102ffec060,gooverboard.ca,available,14.98,,64,1,12,namecheap,,
@@ -618,18 +620,18 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 61e4c922-22a3-4aaa-bb4d-3c81a1bf7ece,concertgoers.ca,available,9.99,9.99,59,1,12,namesilo,,
 61ea66c9-e7f4-4c50-92e6-711292a3d964,cometorest.ca,available,14.98,,70,1,12,namecheap,,
 624f4762-3271-463a-919e-777d64184dfe,goingaway.ca,available,14.98,,54,1,10,namecheap,,
-62d9bb66-e172-4212-b804-713fae60ce29,sparklingwine.ca,available,14.98,,69,4,14,namecheap,,
+62d9bb66-e172-4212-b804-713fae60ce29,sparklingwine.ca,available,14.98,,69,3,14,namecheap,,
 62f3a2dd-9069-41dc-8f8c-76499ee70574,makes.ca,resell,,,66,17,5,CanSpace Solutions Inc.,15/06/2005 13:41,15/06/2027 04:00
 634ba15b-c44a-447c-9f37-82cdcafefaa4,chiefofpolice.ca,available,14.98,,42,0,15,namecheap,,
 637592e6-59f6-4041-b1fb-8ed599706993,getoutsideof.ca,available,14.98,,66,1,14,namecheap,,
 637e2d6f-90a4-4a96-bd8a-cdb05078902b,CoventGarden.ca,available,14.98,,72,6,13,namecheap,,
 63a3577d-4be8-4975-9245-fbd6a7ee88e9,Iwish.ca,resell,,,58,12,6,DomainePlus.com (3612040 CANADA inc.),09/10/2024 19:03,09/10/2026 19:03
 63beede1-c59f-4696-8fbe-a7e8dc05a84e,estimationtheory.ca,available,14.98,,60,1,17,namecheap,,
-63fa519f-63bc-44cc-99fa-9d047878800e,Ilostmywallet.ca,available,14.98,,50,1,16,namecheap,,
+63fa519f-63bc-44cc-99fa-9d047878800e,Ilostmywallet.ca,available,14.98,,50,0,16,namecheap,,
 63fdcf6b-dd15-4d48-ab3e-73730502ab3a,arrives.ca,available,9.99,9.99,50,3,7,namesilo,,
 6408cdce-8e1b-4a35-8fbe-b3328f427304,getthenod.ca,available,14.98,,77,2,11,namecheap,,
 64399010-0661-49dd-9f34-af525ddbbd2c,letthedevilout.ca,available,14.98,,62,1,17,namecheap,,
-64544cea-05dd-44ee-b661-810a4cd54879,comeonstrong.ca,available,14.98,,66,2,14,namecheap,,
+64544cea-05dd-44ee-b661-810a4cd54879,comeonstrong.ca,available,14.98,,66,1,14,namecheap,,
 6472dbc5-3563-4c44-9d6d-d6c86f536ca9,vacationed.ca,available,14.98,,62,1,10,namecheap,,
 6475e7ff-c71b-40c7-944a-f3910fe00031,introductory.ca,available,14.98,,74,2,12,namecheap,,
 64783b45-ad33-4319-aa2f-e08a50021857,collarbones.ca,available,9.99,9.99,48,1,11,namesilo,,
@@ -645,38 +647,37 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 66c355ee-fad7-407c-b32f-f205819e13ba,commonhousefly.ca,available,14.98,,42,1,15,namecheap,,
 66fd07fa-9409-4136-a80d-e8c2d4388d8b,distinctiveness.ca,available,9.99,9.99,72,1,15,namesilo,,
 67236e8c-6869-4012-b020-5b1f474f5789,Apples.ca,resell,,,90,16,6,CENTRALNIC CANADA INC,07/01/2015 20:35,07/01/2027 20:35
-673917f1-b40c-4f5b-bb15-bdb7df684335,softenup.ca,available,14.98,,68,1,9,namecheap,,
+673917f1-b40c-4f5b-bb15-bdb7df684335,softenup.ca,available,14.98,,68,0,9,namecheap,,
 675602ba-1940-42c5-ae66-f1c9a0f7dce6,slipitto.ca,available,14.98,,64,1,10,namecheap,,
 675b00c6-6a71-424f-bce0-4b40b3feede7,clearthetable.ca,available,14.98,,64,1,15,namecheap,,
 67851280-2e50-431c-b9ba-7f0c6cb6f090,showsup.ca,available,9.99,9.99,59,1,8,namesilo,,
 67a44ed8-2d0e-4812-bf0c-f723656b2c35,letoffthehook.ca,available,14.98,,53,0,16,namecheap,,
-67aabd01-1626-41f4-ad29-b26223c3bdeb,leaveover.ca,available,14.98,,70,1,10,namecheap,,
+67aabd01-1626-41f4-ad29-b26223c3bdeb,leaveover.ca,available,14.98,,70,0,10,namecheap,,
 67b0d0b5-aca8-4daf-a271-a7667c099552,takehuff.ca,available,9.99,9.99,64,1,9,namesilo,,
 67c76eb7-981d-43cd-813a-30737ff7ce7c,excites.ca,available,14.98,,50,2,7,namecheap,,
 67e8ea9d-1e94-44ad-9d5b-d67db911033e,tycoons.ca,resell,,,55,6,7,8648255 CANADA LTD. O/A Dynadot LLC,11/01/2023 19:00,11/01/2027 19:00
 681a94e3-c101-4516-83ca-043fde9c076b,tempers.ca,available,14.98,,56,2,7,namecheap,,
 686f1a4d-a3a4-4b87-abea-ffa883354588,demonstrated.ca,available,14.98,,68,3,12,namecheap,,
 68e9d40a-c68b-4ec5-9ae0-ce17dd178d97,couldhavesworn.ca,available,14.98,,44,0,16,namecheap,,
-68f5b518-2d4a-492d-b430-c097657901b2,makethenews.ca,available,14.98,,72,2,13,namecheap,,
+68f5b518-2d4a-492d-b430-c097657901b2,makethenews.ca,available,14.98,,72,1,13,namecheap,,
 6901c0e2-2a2c-4e04-b49b-3ec5037281fd,PennStation.ca,available,14.98,,63,3,12,namecheap,,
 692cb600-c405-4e4c-bd9c-f666a5a0f8b5,lets.ca,resell,,,77,39,4,"Go Daddy Domains Canada, Inc",15/02/2023 19:00,15/02/2029 19:00
 69920939-b301-4f29-bee9-8ab0c234e7b6,explanation.ca,resell,,,68,7,11,WHC Online Solutions Inc.,24/10/2005 23:04,24/10/2026 04:00
 699a17d8-865a-4c18-b12b-f8b26662d140,CountyofHudson.ca,available,14.98,,44,1,16,namecheap,,
 69c09f23-67ff-4be4-83ee-13a42e6f6eba,settingup.ca,available,9.99,9.99,54,1,10,namesilo,,
 69cc9921-bb10-4b7b-8f41-2243a5a82cb3,neared.ca,available,14.98,,52,1,6,namecheap,,
-69fee01c-1691-42f3-b990-9178f35500e0,inshorttrousers.ca,available,14.98,,58,1,17,namecheap,,
+69fee01c-1691-42f3-b990-9178f35500e0,inshorttrousers.ca,available,14.98,,58,0,17,namecheap,,
 6a0ff3bf-95ac-4f78-b31b-9813f0c7548f,webmasters.ca,resell,,,52,12,10,Grape Inc.,30/05/2007 21:11,30/05/2027 04:00
 6a26d7d4-969d-4f9a-9619-0041f6af7bda,finalstraw.ca,available,14.98,,66,2,11,namecheap,,
 6a2e5665-b981-4dbf-a10b-b529241ff3eb,worded.ca,available,14.98,,53,4,6,namecheap,,
 6a61c873-9883-46f9-a17d-a517c07341dd,webcontent.ca,available,14.98,,78,5,11,namecheap,,
-6a72c003-e8bf-47d2-9044-49abf5472baf,fitinto.ca,available,14.98,,84,2,8,namecheap,,
+6a72c003-e8bf-47d2-9044-49abf5472baf,fitinto.ca,available,14.98,,84,1,8,namecheap,,
 6a901c58-6f17-46e1-9cd2-83a7666ee4c2,inwaiting.ca,available,14.98,,50,1,10,namecheap,,
 6aa3c0ee-8d66-418c-a15d-3c0548975217,coffeesenna.ca,available,14.98,,80,1,12,namecheap,,
 6b094d88-105a-445c-a7b8-ef1885c31bbb,gonumbertwo.ca,available,14.98,,40,1,13,namecheap,,
 6b0d2d96-6d59-4ab7-a8af-c96c11ed1d68,beridof.ca,available,14.98,,46,1,9,namecheap,,
 6b3c7e1f-61bf-4976-bc33-87bca9939023,lorditup.ca,available,14.98,,52,1,10,namecheap,,
-6b5eaf25-949e-482b-bd37-04bca7747581,compilation.ca,resell,,,68,7,11,MyID.ca INC.,06/06/2018 19:29,06/06/2026 19:29
-6b8b8c88-2b15-4c7c-825d-837bffbfbcb9,letthematterdrop.ca,available,14.98,,47,1,19,namecheap,,
+6b8b8c88-2b15-4c7c-825d-837bffbfbcb9,letthematterdrop.ca,available,14.98,,47,0,19,namecheap,,
 6ba41340-5477-47d6-811c-9dccef1f5bc7,bees.ca,resell,,,54,27,4,Grape Inc.,20/07/2004 18:00,20/07/2026 04:00
 6bd09c46-e0ce-4193-ab77-d71274d6de91,inshortorder.ca,available,14.98,,52,0,14,namecheap,,
 6becd06b-a6b6-416a-b8ff-b2f16bf4030e,stared.ca,available,14.98,,56,4,6,namecheap,,
@@ -730,7 +731,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7243589e-037d-41df-8582-88986ea770b4,intight.ca,available,14.98,,50,1,8,namecheap,,
 726b7289-4b64-4f10-84da-604ff38fdfcb,inthelimit.ca,available,14.98,,50,1,12,namecheap,,
 72985797-e8a9-43d0-9e03-b7370d86c791,tartarsauce.ca,available,14.98,,76,2,12,namecheap,,
-72df7b38-9746-47b5-8c39-d0b92d0c14ea,gobackon.ca,available,14.98,,72,2,10,namecheap,,
+72df7b38-9746-47b5-8c39-d0b92d0c14ea,gobackon.ca,available,14.98,,72,1,10,namecheap,,
 7348531c-1ef1-4a6f-8e99-d5f9b90f5055,sighed.ca,available,14.98,,56,2,6,namecheap,,
 738d64e4-7569-4c47-a8ae-6cb6e123145f,imutation.ca,available,14.98,,76,1,10,namecheap,,
 745a1a4e-1905-4c0d-9243-cb8d2947d6a7,retailbanking.ca,available,14.98,,59,3,14,namecheap,,
@@ -765,9 +766,9 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7a1ac1f5-0c2a-4bb4-9b40-e3b2c7ed5842,haveyoumetme.ca,available,14.98,,44,1,15,namecheap,,
 7a2546ea-4a1b-430b-a561-517cba479c70,asoftenasnot.ca,available,14.98,,40,1,15,namecheap,,
 7a27e81f-f447-448a-8bd9-259c58b376ea,comeonto.ca,available,14.98,,72,1,10,namecheap,,
-7a46bd30-74c1-42eb-8772-2653cb2ea31f,feelfor.ca,available,14.98,,70,2,8,namecheap,,
+7a46bd30-74c1-42eb-8772-2653cb2ea31f,feelfor.ca,available,14.98,,70,1,8,namecheap,,
 7a9815c5-b0cc-40c3-9f9e-208b931899b4,inwithashout.ca,available,14.98,,60,1,15,namecheap,,
-7aa0978c-61f1-4eb9-90be-97a559e103ed,hitwith.ca,available,14.98,,76,2,8,namecheap,,
+7aa0978c-61f1-4eb9-90be-97a559e103ed,hitwith.ca,available,14.98,,76,1,8,namecheap,,
 7b887655-500f-4d5a-996d-1d693e8599f1,lordoftherings.ca,available,14.98,,80,5,17,namecheap,,
 7bd1c72f-1128-4cf7-a534-448df7cc3a01,filledin.ca,available,14.98,,52,2,9,namecheap,,
 7bd8a225-b852-472f-a324-07b37a9515c6,alcoholics.ca,resell,,,38,4,10,CENTRALNIC CANADA INC,16/11/2016 20:43,16/11/2026 20:43
@@ -809,7 +810,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 81dc4ea2-c6f4-437e-b21f-2bcc6aff5ecb,rarer.ca,available,9.99,9.99,52,3,5,namesilo,,
 81f31804-a4d3-4c93-9456-46ed460a7a43,potatosalad.ca,available,14.98,,70,2,12,namecheap,,
 820e5728-b9f6-4a11-b6da-fc38afc75fec,blewagasket.ca,available,9.99,9.99,34,1,13,namesilo,,
-82178ddd-a46f-48ed-94f5-a31a58aeece7,keepback.ca,available,14.98,,70,2,9,namecheap,,
+82178ddd-a46f-48ed-94f5-a31a58aeece7,keepback.ca,available,14.98,,70,1,9,namecheap,,
 823c6a14-c79f-4c3b-8c5f-53c08bc2c6f6,skateover.ca,available,14.98,,60,0,10,namecheap,,
 8240ce09-bd35-44d7-9e35-98a9f13e3fe4,gosteady.ca,available,14.98,,70,3,9,namecheap,,
 82526b3e-04b4-4959-8170-1068b05ff28f,operacake.ca,available,14.98,,80,1,10,namecheap,,
@@ -844,11 +845,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8696b439-4df4-45da-8acb-bcb40492dbb8,cliponnecktie.ca,available,9.99,9.99,48,1,15,namesilo,,
 86977d29-ff59-4771-90f7-217416319708,hollows.ca,available,14.98,,44,5,7,namecheap,,
 87190584-b689-489b-9c41-ad001ab6a779,commonheather.ca,available,9.99,9.99,64,1,14,namesilo,,
-87363725-b7a6-47dd-aea6-d58d3cc4d551,likeitorleaveit.ca,available,14.98,,44,2,19,namecheap,,
+87363725-b7a6-47dd-aea6-d58d3cc4d551,likeitorleaveit.ca,available,14.98,,44,1,19,namecheap,,
 873b861a-66ab-4436-af20-e06e2fef331c,shoveover.ca,available,14.98,,59,1,10,namecheap,,
 8825271a-68f6-4d67-973f-7826b69b88b9,cometogrips.ca,available,14.98,,62,1,13,namecheap,,
 886a59bc-555f-4124-9d81-0729378d679e,attentions.ca,available,9.99,9.99,54,4,10,namesilo,,
-886fc77e-0e97-40fd-9b00-bcb84ae22f1f,keeppace.ca,available,14.98,,74,3,9,namecheap,,
+886fc77e-0e97-40fd-9b00-bcb84ae22f1f,keeppace.ca,available,14.98,,74,2,9,namecheap,,
 88885b33-bb7e-44db-a991-702ca7570a7a,relationships.ca,resell,,,48,12,13,Grape Inc.,29/03/2002 17:00,29/03/2027 04:00
 888c28cb-160a-43e9-ae22-e672abff7d5c,midDecember.ca,available,14.98,,80,1,12,namecheap,,
 889817e6-1e92-458b-8d6d-585117e9820f,cometofindout.ca,available,14.98,,42,1,16,namecheap,,
@@ -864,7 +865,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 89953643-5aa4-4c5d-a95a-64b40148ffbc,stoppers.ca,available,9.99,9.99,52,3,8,namesilo,,
 89acc248-1d36-492d-8351-0e95c0df438d,techniques.ca,resell,,,50,5,10,"Go Daddy Domains Canada, Inc",17/12/2014 07:15,17/12/2026 07:15
 8a243374-a8b0-440d-b518-1ca79a278a4e,technicals.ca,available,14.98,,52,6,10,namecheap,,
-8a4d4316-6fc3-4048-a7d9-d54371717119,SuezCanal.ca,available,14.98,,58,3,10,namecheap,,
+8a4d4316-6fc3-4048-a7d9-d54371717119,SuezCanal.ca,available,14.98,,58,2,10,namecheap,,
 8a758cf5-c6e9-4078-9e1d-73b8442d1cf9,upandaround.ca,available,14.98,,60,1,13,namecheap,,
 8ab34266-4fe4-49b4-a6f1-f630f16974e0,DakotaCounty.ca,available,14.98,,52,2,13,namecheap,,
 8ac77eb6-57ef-4719-904e-992c83d3d0f3,wouldof.ca,available,9.99,9.99,55,1,8,namesilo,,
@@ -877,7 +878,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8c22e300-fe9a-4832-914a-bc91cc1346bd,howtheheck.ca,available,9.99,9.99,48,1,12,namesilo,,
 8c29cce0-0d89-4a6f-97ff-66f7c40d7d82,learns.ca,resell,,,60,8,6,Rebel.ca Corp.,29/11/2000 06:45,01/12/2026 05:00
 8c3bca1b-93ab-4016-b178-1b59f8f6397b,distinctivepaper.ca,available,14.98,,72,1,17,namecheap,,
-8c522ffb-538b-4719-b8ae-0df3492ba67c,makeoneselfclear.ca,available,14.98,,70,1,18,namecheap,,
+8c522ffb-538b-4719-b8ae-0df3492ba67c,makeoneselfclear.ca,available,14.98,,70,0,18,namecheap,,
 8c8d26ac-5733-40e7-890b-baa9b173e93d,justyouwait.ca,available,14.98,,46,1,13,namecheap,,
 8cd76a73-c892-4bb5-9329-04637cc91623,cucumbers.ca,resell,,,74,4,9,CENTRALNIC CANADA INC,26/09/2018 19:29,26/09/2026 19:29
 8d084632-9ce3-4667-930c-f3ae434ec72b,instore.ca,resell,,,74,12,8,"Go Daddy Domains Canada, Inc",29/11/2019 21:29,29/11/2026 21:29
@@ -905,13 +906,13 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 90f9959c-5506-4ceb-b6f9-06ebe0d33840,hittingthepavement.ca,available,9.99,9.99,46,1,20,namesilo,,
 91390030-6e84-4f0f-9e41-76af50af06f6,gopast.ca,available,14.98,,68,0,7,namecheap,,
 915c9422-8ada-4781-8dcd-9c2511467ecc,getpastoneself.ca,available,14.98,,62,0,16,namecheap,,
-9166efd9-e85d-48e9-8869-db55becc18cd,havenots.ca,available,14.98,,60,5,9,namecheap,,
+9166efd9-e85d-48e9-8869-db55becc18cd,havenots.ca,available,14.98,,60,4,9,namecheap,,
 91791c37-0b48-4e0e-bffa-4372280148fe,fasttracking.ca,available,9.99,9.99,48,3,13,namesilo,,
 91d546d5-f144-48f1-858d-89f5a7131bd6,fellowmelad.ca,available,14.98,,62,1,13,namecheap,,
 91e296f7-a84c-43e1-bb02-f45c763c8f7b,travels.ca,resell,,,64,18,7,CanSpace Solutions Inc.,09/11/2000 01:05,01/12/2027 05:00
 924ed4c6-58eb-45ee-8d00-07ce2dbdc6b9,colleagues.ca,available,9.99,9.99,56,5,10,namesilo,,
 925ab6dd-0f25-4b48-bb01-7013114f20de,jetaircraft.ca,available,14.98,,62,1,12,namecheap,,
-92b4ef06-eebc-4734-9213-272a40f4d300,manybodyproblem.ca,available,14.98,,64,1,17,namecheap,,
+92b4ef06-eebc-4734-9213-272a40f4d300,manybodyproblem.ca,available,14.98,,64,0,17,namecheap,,
 92c06d07-df36-428f-af66-151b9512667d,pipecleaners.ca,available,9.99,9.99,45,1,13,namesilo,,
 92d42417-b121-4229-9eac-9cce67a031e5,Americas.ca,resell,,,64,16,8,BareMetal.com inc,06/12/2023 19:00,06/12/2026 19:00
 92d6f3f7-b663-4ddf-b883-d9ca43dc09d3,makesaneffort.ca,available,9.99,9.99,52,1,15,namesilo,,
@@ -920,7 +921,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 94170578-e99f-49c1-bb8e-6bb5865d9763,pairoftongs.ca,available,14.98,,65,0,13,namecheap,,
 94509987-fb26-4cfb-a24d-9d6b25c957b1,playarole.ca,available,14.98,,68,1,11,namecheap,,
 94e9bf08-8e62-48ea-a03f-4f95160c41c9,slowed.ca,available,14.98,,48,3,6,namecheap,,
-94f822b2-6a51-4ac4-9666-35c81570be7b,rakeup.ca,available,14.98,,66,2,7,namecheap,,
+94f822b2-6a51-4ac4-9666-35c81570be7b,rakeup.ca,available,14.98,,66,1,7,namecheap,,
 952b3c9c-8700-4bfa-9429-b5b9dffd8235,responded.ca,available,14.98,,52,2,9,namecheap,,
 954108e4-bc94-4fca-a9be-7a6fbef4df5e,toweloff.ca,available,14.98,,70,1,9,namecheap,,
 957df345-4ab4-4888-93a9-827a4ce81779,TwinTowers.ca,available,14.98,,66,4,11,namecheap,,
@@ -940,7 +941,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 97e637f1-f0da-4344-b7fd-a2b85e584b0f,arriveat.ca,available,14.98,,70,1,9,namecheap,,
 97e9a5e1-7d9d-4487-97bd-100abeb43f99,gonowherefast.ca,available,14.98,,50,1,15,namecheap,,
 97ef9e90-a41b-419e-adec-461504ba0888,drops.ca,resell,,,52,25,5,easyDNS Technologies Inc.,22/01/2003 22:33,22/01/2027 05:00
-9801cf1c-c0b4-4fdb-9592-5baff59850ec,inyourdreams.ca,available,14.98,,40,3,14,namecheap,,
+9801cf1c-c0b4-4fdb-9592-5baff59850ec,inyourdreams.ca,available,14.98,,40,4,14,namecheap,,
 9823df3d-544d-4a98-9505-e84b947aecb7,prompts.ca,resell,,,54,39,7,"Go Daddy Domains Canada, Inc",05/04/2022 20:58,05/04/2028 20:58
 984e0941-c659-4418-b4eb-221eaf60f1a9,comeoutin.ca,available,14.98,,70,1,11,namecheap,,
 986b8a6c-26dd-4462-88d9-e28bb29eba61,getstuckinto.ca,available,14.98,,64,0,14,namecheap,,
@@ -951,15 +952,15 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 995cdab6-f204-4e34-b798-3da818da9271,holdingtheball.ca,available,14.98,,62,1,16,namecheap,,
 999728b5-da62-4862-9cae-8ccb8ecb2009,ofchoice.ca,available,14.98,,58,1,9,namecheap,,
 99c86334-3b11-4acf-b8ca-0476100e1c6c,godowninhistory.ca,available,14.98,,68,1,18,namecheap,,
-9a085354-1c53-492d-9aec-200ef61b1de0,commonmeter.ca,available,14.98,,68,1,12,namecheap,,
+9a085354-1c53-492d-9aec-200ef61b1de0,commonmeter.ca,available,14.98,,68,0,12,namecheap,,
 9a3b2e2c-ff6c-4bdf-a7e0-5a2377076933,toured.ca,resell,,,52,3,6,"Go Daddy Domains Canada, Inc",10/07/2023 03:29,10/07/2026 03:29
 9a4bf1f5-97e1-43f4-9d67-59f80d7ed1d4,youwish.ca,resell,,,60,5,8,"Go Daddy Domains Canada, Inc",28/07/2025 09:15,28/07/2028 09:15
 9ae6c182-48a0-437e-a6c5-f1c24ef6158b,nicelooking.ca,available,14.98,,72,2,12,namecheap,,
 9b303c12-838d-4fe4-908c-33136071b9af,tablespoons.ca,resell,,,54,2,11,CENTRALNIC CANADA INC,16/11/2011 20:43,16/11/2026 20:43
 9b49e7db-3625-460b-afe0-a329d0780e78,geartowards.ca,available,14.98,,70,0,12,namecheap,,
 9bbce57c-681f-4d3b-8d0b-a093d583893a,keeptrackof.ca,available,14.98,,48,1,13,namecheap,,
-9c161012-9a06-4288-994f-5cc8728ead4a,inwithachance.ca,available,14.98,,60,1,16,namecheap,,
-9c2c2816-4a5d-48db-89d0-90eee0d82846,goonthen.ca,available,14.98,,48,1,10,namecheap,,
+9c161012-9a06-4288-994f-5cc8728ead4a,inwithachance.ca,available,14.98,,60,0,16,namecheap,,
+9c2c2816-4a5d-48db-89d0-90eee0d82846,goonthen.ca,available,14.98,,48,0,10,namecheap,,
 9c46a36d-d5c6-4aa9-a5ef-0d0efe7be2a0,FinalJudgment.ca,available,14.98,,54,2,14,namecheap,,
 9c69e5f5-a70c-4615-93fd-0ed21cf17f1d,screens.ca,resell,,,54,13,7,MyID.ca INC.,23/02/2003 17:09,23/02/2027 05:00
 9c81447e-b556-4ff3-817b-a75e76b44208,hammeraway.ca,available,14.98,,66,0,11,namecheap,,
@@ -990,7 +991,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 a0831b0b-d55f-4389-b9f3-a6ae7c8c65c7,scoopout.ca,available,14.98,,48,1,9,namecheap,,
 a092bae3-d268-42c5-a79e-12eba27565f6,lunchware.ca,available,14.98,,78,1,9,namecheap,,
 a0a87169-ab68-4d3c-83be-525fc82f4d2f,deaths.ca,resell,,,50,6,6,Grape Inc.,10/04/2002 16:00,10/04/2027 04:00
-a0c7f088-ff01-46bb-8bb5-4f281c336b02,Itellalie.ca,available,14.98,,58,1,12,namecheap,,
+a0c7f088-ff01-46bb-8bb5-4f281c336b02,Itellalie.ca,available,14.98,,58,0,12,namecheap,,
 a0d6d1f2-d74e-4398-890d-0e36d0659b66,Ihaveasthma.ca,available,14.98,,50,1,13,namecheap,,
 a129ce64-f05f-4946-a1bd-6f791b9cd832,pairofshoes.ca,available,14.98,,67,1,13,namecheap,,
 a15be61a-6d22-4758-bf10-fd03bade5fe8,doctoralthesis.ca,available,14.98,,68,1,15,namecheap,,
@@ -998,4 +999,3 @@ a16ccace-2991-469b-b7a7-bc116aca77b1,requesting.ca,available,14.98,,49,5,10,name
 a17b2580-85e3-4989-93a8-35c267238bcf,SwedishEmpire.ca,available,14.98,,58,1,14,namecheap,,
 a1acc5ce-3d5c-425a-b24c-3caee5c9aedb,IslesofScilly.ca,available,14.98,,52,1,15,namecheap,,
 a1f24ec8-20e3-41c0-af6a-c67a830c4fcd,deteriorates.ca,available,9.99,9.99,38,1,12,namesilo,,
-a1f6c636-ab2c-48e9-bbb5-401f726c5c3d,intheprocess.ca,available,14.98,,52,1,14,namecheap,,
