@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ca one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 9,282 domains · **Median ask:** $44.04 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/ca`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain       | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                    |
 | ------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
+| period.ca    | resell    | —          | —             | high           | low    | 6      | Namespro Solutions Inc.      |
+| attack.ca    | resell    | —          | —             | high           | low    | 6      | Rebel.ca Corp.               |
 | cxxv.ca      | available | $9.99      | $9.99         | low            | low    | 4      | namesilo                     |
 | forgiving.ca | resell    | $4,025     | $16.99        | high           | low    | 9      | Go Daddy Domains Canada, Inc |
 | with.ca      | premium   | $10,660.50 | —             | high           | high   | 4      | Namespro Solutions Inc.      |
@@ -82,8 +84,6 @@ print(df.head())
 | azoic.ca     | available | $9.99      | $9.99         | low            | low    | 5      | namesilo                     |
 | ink.ca       | resell    | —          | —             | high           | low    | 3      | BareMetal.com inc            |
 | sedative.ca  | premium   | $17,767.50 | —             | medium         | low    | 8      | Grape Inc.                   |
-| balky.ca     | available | $9.99      | $9.99         | low            | low    | 5      | namesilo                     |
-| jan.ca       | resell    | —          | —             | high           | low    | 3      | BareMetal.com inc            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CA One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CA One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
