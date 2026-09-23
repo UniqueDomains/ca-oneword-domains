@@ -37,11 +37,10 @@ cedf1565-4125-4514-af20-659b17c1e9cc,quatern.ca,available,9.99,9.99,low,low,7,na
 73a28b76-e747-442c-b670-8b685e90d5df,dealtout.ca,available,9.99,9.99,low,low,9,namesilo,,,06/08/2026 07:27
 e79a8056-51ba-4037-956c-5e6e34561340,sombuddy.ca,available,9.99,9.99,medium,low,8,namesilo,,,
 7963d116-2eed-48ce-b1aa-c1b055d55974,vinegary.ca,available,9.99,9.99,low,low,8,namesilo,,,
-da8795b3-e8b6-4a03-acc8-d575fcd1df40,endowment.ca,resell,,,high,low,9,Namespro Solutions Inc.,22/08/2004 18:00,22/08/2026 04:00,
 d53d8fcb-3e0a-4923-9d64-23ef30035715,thiscoming.ca,available,9.99,9.99,low,low,11,namesilo,,,
 d1aef4a4-5325-4d4a-8076-84041911581a,began.ca,resell,,,medium,low,5,Namespro Solutions Inc.,13/05/2006 15:39,13/05/2027 04:00,
 7618c11b-879d-43c5-8a86-3d3a935eff94,allweathertyre.ca,available,9.99,9.99,high,low,16,namesilo,,,
-ef5e5bf8-d2db-4397-950e-9290ac935bba,abundantly.ca,available,9.99,9.99,medium,low,10,namesilo,,,
+ef5e5bf8-d2db-4397-950e-9290ac935bba,abundantly.ca,available,9.99,9.99,low,low,10,namesilo,,,
 60913967-9240-40a2-bcb1-1dfb9de7f01f,inundated.ca,available,9.99,9.99,low,low,9,namesilo,,,08/08/2026 00:29
 16d2b395-a4ca-4b3a-8c0e-4ce821f37854,beefedup.ca,available,9.99,9.99,low,low,9,namesilo,,,09/08/2026 07:44
 879330d8-9c56-4ab2-ac23-6629709dbd39,amblyopic.ca,available,9.99,9.99,low,low,9,namesilo,,,
@@ -59,7 +58,7 @@ a93db71d-9f55-4c3d-877a-908d7214292b,branch.ca,available,,,medium,low,6,,,,
 47c890e5-323c-4c54-adc2-9f26fc8a6cab,diminished.ca,available,9.99,9.99,low,low,10,namesilo,,,07/08/2026 15:00
 2e4bcc7b-f814-4a57-9b59-9c012a3ae181,bringing.ca,available,14.98,,medium,low,8,namecheap,,,
 9b5d6b6d-044e-48c7-a970-997590acedb4,francis.ca,available,,,high,low,9,,,,
-eb9a4165-da75-4157-b455-68578e2e98d3,accuser.ca,available,9.99,9.99,medium,low,7,namesilo,,,
+eb9a4165-da75-4157-b455-68578e2e98d3,accuser.ca,available,9.99,9.99,low,low,7,namesilo,,,
 b86ca400-1b08-43df-b0cf-826387707703,forehead.ca,available,9.99,9.99,high,low,8,namesilo,,,
 ce93ad5c-1e88-459e-a486-679632aab7a1,howsayyou.ca,available,9.99,9.99,medium,low,11,namesilo,,,
 9596ace2-c6a4-4f70-a1b6-006be2eb2a2b,had.ca,resell,,,high,low,3,easyDNS Technologies Inc.,28/10/2009 20:13,28/10/2026 04:00,
@@ -86,10 +85,11 @@ b24d1251-2025-4451-8a83-9083211814a9,recovering.ca,resell,,,high,low,10,MyID.ca 
 3581b321-9300-4b96-8133-2f53f2580c65,nondrinker.ca,available,9.99,9.99,low,low,10,namesilo,,,
 f7f8461e-e638-419f-a2cf-9cbbeb581680,reddish.ca,available,11.98,14.98,low,low,7,namecheap,,,19/09/2026 03:49
 6227390d-03bc-416f-9900-0b36049e430f,objectively.ca,available,9.99,9.99,medium,low,11,namesilo,,,
+3533d824-aa8f-49fa-822a-9730d62abe27,nine.ca,resell,,,low,low,4,WHC Online Solutions Inc.,25/03/2026 19:00,25/03/2027 19:00,21/09/2026 13:23
 473bff2c-97ed-4803-88e3-17eb570c4a6b,newchicago.ca,available,14.98,,low,low,11,namecheap,,,
 5f3e7b5d-6441-45ae-a444-64fdc35685dd,normality.ca,available,9.99,9.99,high,low,9,namesilo,,,
 241f17c7-fa86-45fc-97e8-165f06e11e01,asyoulike.ca,available,9.99,9.99,high,low,11,namesilo,,,
-44cfdaf1-3a5f-4813-aca1-ea79dbb27762,weakened.ca,available,9.99,9.99,medium,low,8,namesilo,,,
+44cfdaf1-3a5f-4813-aca1-ea79dbb27762,weakened.ca,available,9.99,9.99,low,low,8,namesilo,,,22/09/2026 11:29
 54d0943a-1679-4108-bb6a-f8b6445f6116,suv.ca,resell,,,high,low,3,Namespro Solutions Inc.,10/03/2010 20:17,10/03/2027 05:00,
 6b87c089-ad11-49c7-9cef-2dab69caab19,howdoyoulike.ca,available,9.99,9.99,medium,low,15,namesilo,,,
 5474d560-b269-46f3-840b-4e7deb7daac7,byebye.ca,resell,,,high,low,7,WHC Online Solutions Inc.,19/03/2025 19:00,19/03/2027 19:00,
@@ -112,10 +112,9 @@ bcbd7439-b6fe-4b17-a463-dec2433d11e4,elaborated.ca,available,9.99,9.99,medium,lo
 454e876d-4faa-4bc3-9578-424fd0946a04,myapologies.ca,available,9.99,9.99,high,low,12,namesilo,,,
 d530e650-b1e2-45d0-9861-55faa948f3b4,recommend.ca,resell,,,high,low,9,CENTRALNIC CANADA INC,18/02/2015 20:52,18/02/2027 20:52,
 7d325666-ff17-478c-a7a9-4f6d170fcdd9,macbook.ca,resell,,,high,low,7,Namespro Solutions Inc.,14/02/2007 20:42,14/02/2026 05:00,
-233b25bd-4fbd-41a5-85b0-4f9616b33b04,aged.ca,resell,,,high,low,4,CENTRALNIC CANADA INC,09/01/2013 20:22,09/01/2027 20:22,
+233b25bd-4fbd-41a5-85b0-4f9616b33b04,aged.ca,resell,,,medium,low,4,CENTRALNIC CANADA INC,09/01/2013 20:22,09/01/2027 20:22,21/09/2026 22:26
 b1114729-b04a-48b1-81d8-85df88cc89f8,ventral.ca,available,9.99,9.99,low,low,7,namesilo,,,
 6419a289-27f0-47f9-9e38-d29f58856cfc,childporn.ca,available,9.99,9.99,medium,low,10,namesilo,,,
-34a2810c-d53d-474a-95db-71266ac8b27e,majority.ca,resell,,,high,low,8,Namespro Solutions Inc.,15/08/2003 16:00,15/08/2026 04:00,
 c7d9c787-5bf8-4d58-9117-40ca5943e91a,playstation.ca,resell,,,high,high,11,"Go Daddy Domains Canada, Inc",05/01/2022 19:00,05/01/2027 19:00,
 64d8ba60-5667-4b77-99b7-4ea9a78bf063,suspend.ca,resell,,,high,low,7,CENTRALNIC CANADA INC,26/09/2018 19:29,26/09/2026 19:29,
 5ba1702e-88f8-4adf-b98d-72585759f4d4,letknow.ca,available,9.99,9.99,high,low,8,namesilo,,,
@@ -185,17 +184,15 @@ b9b8993e-dbc1-4825-a995-92579e81b631,anall.ca,available,9.99,9.99,medium,low,6,n
 9c5f0ac5-9b07-4400-ae36-869511fef4e4,aliphatic.ca,available,9.99,9.99,low,low,9,namesilo,,,
 7b101e0e-ad9f-4c09-9ddd-a182c3f80ba2,tahoecity.ca,available,9.99,9.99,low,low,10,namesilo,,,08/09/2026 04:34
 f27e6b58-f494-4af2-a785-e3c1f772c62e,altaic.ca,available,9.99,9.99,low,low,6,namesilo,,,
-ca6c3164-6d1c-4ca9-af86-be3aa66bbc6c,abstract.ca,resell,,,high,low,8,WHC Online Solutions Inc.,01/06/2004 18:58,01/06/2026 04:00,
+ca6c3164-6d1c-4ca9-af86-be3aa66bbc6c,abstract.ca,resell,,,medium,low,8,WHC Online Solutions Inc.,01/06/2004 18:58,01/06/2027 04:00,21/09/2026 15:10
 16956c24-6fea-482c-9aed-2171ebae4672,accumbent.ca,available,9.99,9.99,low,low,9,namesilo,,,
 5d94a5b2-5c0f-4058-9360-73adc5daa93c,attic.ca,resell,,,low,low,5,CENTRALNIC CANADA INC,06/05/2020 19:00,06/05/2027 19:00,07/08/2026 15:46
 1d3d580b-65c1-42d3-a1ee-4f5b98fbcec1,evrything.ca,available,9.99,9.99,medium,low,9,namesilo,,,
 ae831ecf-ba94-46da-b35d-a53eb170a5c0,adulterous.ca,available,9.99,9.99,low,low,10,namesilo,,,
-c3067a06-fdd6-426c-8500-55298902fd87,contend.ca,resell,,,high,low,7,Namespro Solutions Inc.,03/08/2022 19:00,03/08/2026 19:00,
 c64774a8-f9b2-46c2-9421-0086d0a70cdf,perforation.ca,available,14.98,,low,low,11,namecheap,,,
-2d0392b3-ceb9-48f0-b906-24caacbabe06,subsidiary.ca,available,,,high,high,10,,,,
 15601c90-0c7d-4f4d-95e9-f7acf27b50d9,fiftieth.ca,available,9.99,9.99,low,low,8,namesilo,,,
 b0016cc0-17c7-4171-be67-647fbdd47f39,sextet.ca,available,9.99,9.99,low,low,6,namesilo,,,
-688a206c-1c64-494d-bd60-896dbe196aad,xvii.ca,resell,,,medium,low,4,CanSpace Solutions Inc.,01/04/2021 03:30,01/04/2027 03:30,
+688a206c-1c64-494d-bd60-896dbe196aad,xvii.ca,resell,,,low,low,4,CanSpace Solutions Inc.,01/04/2021 03:30,01/04/2027 03:30,21/09/2026 11:53
 e6c8809d-521c-4d47-b111-eeb4fdef5e72,flaring.ca,available,9.99,9.99,low,low,7,namesilo,,,
 842b2f90-a7ee-4f97-939c-2656f09661a9,anachronic.ca,available,9.99,9.99,low,low,10,namesilo,,,
 412ad33c-3e93-466b-8358-cc4ce3d5ce10,fortynine.ca,available,,,medium,low,10,,,,
@@ -205,7 +202,7 @@ b14e46a1-466f-4500-9ee0-5fd20c59237f,prototypal.ca,available,9.99,9.99,low,low,1
 2e8db2a5-5829-44df-a19d-c8258cef8e51,apetalous.ca,available,9.99,9.99,low,low,9,namesilo,,,05/08/2026 22:35
 8135b4b6-638e-46d3-81a3-754ec982d134,coalesced.ca,available,9.99,9.99,low,low,9,namesilo,,,
 01c0910c-aff9-4e72-8ab7-b2a13861145b,thirtythree.ca,available,9.99,9.99,high,low,12,namesilo,,,
-12277c20-c4d2-47ed-88d1-5e373e824e94,alveolar.ca,available,9.99,9.99,high,low,8,namesilo,,,
+12277c20-c4d2-47ed-88d1-5e373e824e94,alveolar.ca,available,9.99,9.99,low,low,8,namesilo,,,22/09/2026 02:54
 91b9faf8-f23b-4bdc-8f27-6b21e53a7e98,greatgrandson.ca,available,9.99,9.99,high,low,14,namesilo,,,
 0261f7ce-2dd6-471e-9a6a-f23d42c98ff9,worthwhile.ca,resell,,,high,low,10,BareMetal.com inc,21/01/2026 19:00,21/01/2027 19:00,
 d7ea26cc-49db-46ce-a0be-bc55b315a4f9,apogean.ca,available,9.99,9.99,low,low,7,namesilo,,,06/08/2026 01:57
@@ -214,9 +211,9 @@ c3926c1f-4df0-42e1-a935-b4ae5f21a861,declining.ca,available,14.98,,medium,low,9,
 3fb32277-fefb-4a18-a601-c1f72812c62f,howdoyoulikethat.ca,available,9.99,9.99,medium,low,20,namesilo,,,
 7734f905-16bb-4647-beda-2253628906a2,teetotalism.ca,available,9.99,9.99,low,low,11,namesilo,,,
 b6f41b30-9e1c-4514-b406-3fbd9b291b84,muhfuggah.ca,available,9.99,9.99,medium,low,9,namesilo,,,
-f0f8bb5b-79d3-4c89-8b65-9fb8d0b887cf,remedial.ca,resell,,,high,low,8,BareMetal.com inc,31/07/2024 19:00,31/07/2026 19:00,
+f0f8bb5b-79d3-4c89-8b65-9fb8d0b887cf,remedial.ca,resell,,,medium,low,8,BareMetal.com inc,31/07/2024 19:00,31/07/2027 19:00,22/09/2026 02:24
 610bead7-b2e1-4b33-9ddd-15d2ec8f53ba,uphill.ca,resell,,,low,low,6,CENTRALNIC CANADA INC,08/06/2011 19:36,08/06/2027 19:36,
-fd42bdd2-e022-48ac-976a-331498e933c5,black.ca,resell,,,high,medium,5,Namespro Solutions Inc.,08/11/2000 19:52,01/12/2026 05:00,
+fd42bdd2-e022-48ac-976a-331498e933c5,black.ca,resell,,,medium,low,5,Namespro Solutions Inc.,08/11/2000 19:52,01/12/2026 05:00,22/09/2026 21:16
 b7152a29-6a80-4a07-91a9-e777a21ca064,arbitrable.ca,available,9.99,9.99,low,low,10,namesilo,,,06/08/2026 12:43
 86417e93-643a-45cf-a139-ec9acda2c8d2,jewnose.ca,available,14.98,,medium,low,8,namecheap,,,
 fa97184e-5bd1-4101-90b0-adc578f6eebd,baptistic.ca,available,9.99,9.99,low,low,9,namesilo,,,08/08/2026 15:11
@@ -225,12 +222,12 @@ fe8976d2-8993-4b15-b465-2e00d3f4f75c,arching.ca,available,9.99,9.99,low,low,7,na
 f5fa69f2-f29a-4e60-af9a-ac3997743e8a,amidships.ca,available,9.99,9.99,low,low,9,namesilo,,,
 91ad37c9-2af1-45f9-a247-e7501016a3c7,passinggrade.ca,available,14.98,,medium,low,13,namecheap,,,
 6e746a45-0b05-4abb-9b0f-9864280af26b,abactinal.ca,available,9.99,9.99,low,low,9,namesilo,,,
-b3ba45c2-d8c9-4786-914c-341c8a970a04,futile.ca,available,9.99,9.99,medium,low,6,namesilo,,,
+b3ba45c2-d8c9-4786-914c-341c8a970a04,futile.ca,available,11.98,14.98,low,low,6,namecheap,,,22/09/2026 23:49
 92a23f67-659e-4352-9dc7-da251f236e01,englishmuffin.ca,available,9.99,9.99,high,low,14,namesilo,,,
 f5484486-d180-4166-9e48-f43d7a299195,articled.ca,available,9.99,9.99,low,low,8,namesilo,,,06/08/2026 08:28
 5821f9de-bbf7-4697-acdc-1e383fce09ee,ricevinegar.ca,available,9.99,9.99,low,low,12,namesilo,,,
 79958071-cfeb-44fc-97a2-ed5e0a3b02a4,grandad.ca,available,14.98,,high,low,7,namecheap,,,
-dc1bada2-70ae-488f-9ef6-6ac706de9259,wording.ca,resell,,,high,low,7,8648255 CANADA LTD. O/A Dynadot LLC,21/08/2024 19:00,21/08/2026 19:00,
+dc1bada2-70ae-488f-9ef6-6ac706de9259,wording.ca,resell,,,high,low,7,"Go Daddy Domains Canada, Inc",21/08/2024 19:00,21/08/2027 19:00,21/09/2026 05:43
 bd5efcf5-16e5-46dc-916f-fe845ecc618d,tonguesushi.ca,available,14.98,,low,low,12,namecheap,,,
 3b84eec6-b4c8-49d2-a8b3-14fa1c7b13c7,sanctioned.ca,available,9.99,9.99,low,low,10,namesilo,,,06/08/2026 09:24
 3860bcf4-a3cf-4260-b8a8-552274a66190,friendly.ca,resell,,,medium,low,8,BareMetal.com inc,05/10/2004 20:07,05/10/2027 04:00,08/09/2026 09:53
@@ -255,17 +252,15 @@ c0dadb9c-5b5c-435a-91e0-48252128d1e4,aberdonian.ca,available,9.99,9.99,low,low,1
 0d30d341-1c3b-4369-adc1-92ffe261248c,generalpurpose.ca,available,9.99,9.99,medium,low,15,namesilo,,,
 f4ad9788-0061-4ef0-8856-22bb5e772568,favourable.ca,available,9.99,9.99,high,low,10,namesilo,,,
 f5759aa2-86a3-4901-87da-a77b68198dd7,fear.ca,resell,,,medium,low,4,Namespro Solutions Inc.,17/10/2005 18:00,17/10/2026 04:00,
-e2b022cc-8b68-4826-bc79-f52cec9e81aa,advancing.ca,resell,,,high,low,9,BareMetal.com inc,08/02/2019 17:25,08/02/2027 17:25,
 ed6cabe5-2a6b-49e2-88a8-0f3693c81d32,equivalent.ca,resell,,,high,low,10,CENTRALNIC CANADA INC,09/10/2024 19:00,09/10/2026 19:00,
 3ab55630-838e-40e8-8917-e245ef2b2290,aloud.ca,resell,,,high,low,5,Namespro Solutions Inc.,25/01/2012 20:37,25/01/2026 20:37,
-989ce572-cdf4-4604-bae3-33d245e18505,boring.ca,resell,,,medium,high,6,BareMetal.com inc,04/09/2004 18:00,04/09/2026 04:00,
 fd379982-4d8e-492c-9873-f21a52e3588a,constantly.ca,available,9.99,9.99,medium,low,10,namesilo,,,
 d41d4085-f5ad-4ae0-a5fe-4dda936fcf25,whitevanman.ca,available,9.99,9.99,low,low,13,namesilo,,,
 131b3e1e-553b-4d48-a720-a7e487650564,lavaliermicrophone.ca,available,9.99,9.99,high,low,19,namesilo,,,
 fc7ad7a1-c09f-4ef2-91cd-e86a51d1b18e,nevada.ca,resell,,,medium,low,6,Namespro Solutions Inc.,13/11/2000 19:25,01/12/2026 05:00,
 5b24cec3-65c0-4d21-9b83-390ea36a156f,audile.ca,available,,,high,low,6,,,,
 716c5d2c-c511-4e15-97e0-a91449f5b5d2,agrypnotic.ca,available,9.99,9.99,low,low,10,namesilo,,,
-490ebbaf-1503-4eb8-ae3f-c95e4ac31c22,hopeful.ca,resell,,,high,low,7,"Go Daddy Domains Canada, Inc",15/02/2023 19:00,15/02/2029 19:00,
+490ebbaf-1503-4eb8-ae3f-c95e4ac31c22,hopeful.ca,resell,,,low,low,7,"Go Daddy Domains Canada, Inc",15/02/2023 19:00,15/02/2030 19:00,22/09/2026 09:48
 480dc9b0-01a1-4961-a148-6c984804617b,firetruck.ca,resell,,,high,low,10,"Go Daddy Domains Canada, Inc",06/06/2018 19:29,06/06/2026 19:29,
 384646b4-9ea3-4e23-99d9-265d16357321,agitated.ca,resell,,,low,low,8,CENTRALNIC CANADA INC,17/06/2009 19:19,17/06/2027 04:00,
 8fed5bf2-9c9f-4075-9c95-28152468f236,getreligion.ca,available,9.99,9.99,high,low,12,namesilo,,,
@@ -285,7 +280,7 @@ e333a995-e059-4642-89c1-3b35b1bb41c6,artimitateslife.ca,available,9.99,9.99,medi
 3d256af8-9901-4915-b7eb-5c8cbf5c651c,amitotic.ca,available,9.99,9.99,low,low,8,namesilo,,,
 285a5488-d2cc-4fe4-8e7a-281ccba88a7f,condolences.ca,available,9.99,9.99,high,low,11,namesilo,,,
 ce8f9e73-de55-49cf-946b-1b927f6a81ab,carriage.ca,resell,,,medium,low,8,Namespro Solutions Inc.,19/09/2003 16:33,19/09/2026 04:00,
-23a437fc-8abc-47e1-b926-4cb067181cf8,cincinnati.ca,resell,,,high,low,10,WHC Online Solutions Inc.,12/08/2020 19:00,12/08/2026 19:00,
+23a437fc-8abc-47e1-b926-4cb067181cf8,cincinnati.ca,resell,,,high,low,10,WHC Online Solutions Inc.,12/08/2020 19:00,12/08/2027 19:00,20/09/2026 19:23
 b3749764-8101-43e4-983f-fe41b19ee252,admissive.ca,available,9.99,9.99,low,low,9,namesilo,,,
 0dfa1f62-f653-4de6-895b-8f41c44d903c,pretended.ca,available,9.99,9.99,low,low,9,namesilo,,,07/08/2026 08:01
 8aec19ec-6364-4c11-90a4-0d3ede1c06f3,bringhome.ca,available,9.99,9.99,high,low,10,namesilo,,,
@@ -300,8 +295,7 @@ edf2df5c-41a1-4779-bb5d-7bcafe006dd4,howyousay.ca,available,9.99,9.99,medium,low
 d7824cfd-c88d-4fae-a68f-d9fdbc71da6b,eachyear.ca,available,9.99,9.99,medium,low,9,namesilo,,,
 a20544d1-d966-45d2-a38d-8165fef824da,nowfor.ca,available,9.99,9.99,low,low,7,namesilo,,,
 416c67df-5a4b-4b61-8fb1-7b7a5bee64d3,advertised.ca,resell,,,medium,low,10,Namespro Solutions Inc.,18/05/2006 08:19,18/05/2027 04:00,
-5deb3721-3698-4872-b833-41b64611d625,respondent.ca,available,14.98,,high,low,10,namecheap,,,
-42fbe4a9-880b-49f2-89bd-5b257c6f70f3,ecological.ca,available,,,high,high,10,,,,
+5deb3721-3698-4872-b833-41b64611d625,respondent.ca,available,11.98,14.98,medium,low,10,namecheap,,,22/09/2026 05:39
 3b87cd0c-14aa-4b12-9c20-96da36f3fb8d,alkaloidal.ca,available,9.99,9.99,low,low,10,namesilo,,,
 566aaea4-f90b-44db-9079-0bccca9686d6,miffed.ca,available,9.99,9.99,low,low,6,namesilo,,,
 3fbbac12-5143-44ec-ab36-fa52a409312d,bedaubed.ca,available,9.99,9.99,low,low,8,namesilo,,,09/08/2026 06:32
@@ -325,7 +319,6 @@ dadbd591-98fa-49b5-b75c-50d2ccd264ae,corporate.ca,available,,,high,high,9,,,,
 5c566d38-66d1-42f0-b280-ade682599db3,anamnestic.ca,available,9.99,9.99,low,low,10,namesilo,,,
 608bd7b1-de9b-4aac-90b1-69a2ace4c78e,determined.ca,available,14.98,,high,low,10,namecheap,,,
 31c5f43b-ae34-4f7b-9a96-8c43053885bd,climbable.ca,available,9.99,9.99,low,low,9,namesilo,,,07/08/2026 00:10
-4a75436a-d489-4933-9723-870c45b7e500,repeat.ca,resell,,,high,low,6,Namespro Solutions Inc.,10/08/2004 18:00,10/08/2026 04:00,
 47066f1d-7831-4033-b7be-9698ab994c0a,withering.ca,available,,,low,low,9,,,,
 409af657-b010-44e6-85e0-17b260665f22,purplenotice.ca,available,9.99,9.99,medium,low,13,namesilo,,,
 b7a7318b-4be4-4697-94ce-ee60e074eac8,cocktail.ca,resell,,,high,low,8,MyID.ca INC.,24/01/2002 15:02,24/01/2027 05:00,
@@ -335,7 +328,7 @@ b7a7318b-4be4-4697-94ce-ee60e074eac8,cocktail.ca,resell,,,high,low,8,MyID.ca INC
 0d55d33d-ac8c-4de9-902e-22171e049904,alienable.ca,available,9.99,9.99,low,low,9,namesilo,,,
 0cc32da2-53c0-40ba-a94d-c6ba3ba9617c,secondly.ca,available,9.99,9.99,medium,low,8,namesilo,,,
 bda3045c-c677-4cfa-902b-278e82d3f0f5,quivive.ca,available,9.99,9.99,low,low,8,namesilo,,,
-d218e283-9142-430a-ac36-fe98c1c1c4ef,aaa.ca,available,,,high,low,3,,,,
+d218e283-9142-430a-ac36-fe98c1c1c4ef,aaa.ca,available,,,medium,low,3,,,,
 f6baab04-a7bf-4685-8749-c647611de273,havetherighttime.ca,available,14.98,,medium,low,19,namecheap,,,
 1687e9a8-5889-40a2-978f-14d3beb69567,contaminated.ca,resell,,,medium,low,12,MyID.ca INC.,01/10/2014 20:09,01/10/2026 20:09,
 3f51679f-283c-4412-9cc7-463ec225f3f5,migrate.ca,resell,,,high,low,7,Namespro Solutions Inc.,31/12/2003 17:05,31/12/2026 05:00,
@@ -364,7 +357,7 @@ c27461eb-4348-490c-972f-ffc38a385738,acephalous.ca,available,9.99,9.99,low,low,1
 fb7cebde-7873-42d5-a90a-4d743c4de1ca,embracing.ca,resell,,,high,low,9,CENTRALNIC CANADA INC,17/09/2020 13:44,17/09/2026 13:44,
 eff2a20a-a045-4b36-bdf0-9f3992ce0236,childneglect.ca,available,9.99,9.99,medium,low,13,namesilo,,,
 12d19ce2-f730-4b0d-a5ed-52446f19755d,carousing.ca,available,9.99,9.99,low,low,9,namesilo,,,08/08/2026 04:24
-e69652ad-220f-4c71-8566-d478ee951cc9,bone.ca,resell,,,medium,low,4,MyID.ca INC.,12/02/2014 20:44,12/02/2027 20:44,
+e69652ad-220f-4c71-8566-d478ee951cc9,bone.ca,resell,,,low,low,4,MyID.ca INC.,12/02/2014 20:44,12/02/2027 20:44,22/09/2026 23:37
 e67e177e-200c-42e7-8e23-d263fe259a93,cinderella.ca,resell,,,high,low,10,CENTRALNIC CANADA INC,12/02/2014 20:44,12/02/2027 20:44,
 98e26815-e622-4080-a7ec-42318fe62b09,untoward.ca,available,9.99,9.99,low,low,8,namesilo,,,
 6bf4d637-e45d-4b82-a285-292b65fae3f6,ofcourse.ca,available,,,medium,low,9,,,,
@@ -387,16 +380,16 @@ f7da6675-ae1a-49ba-b275-1c2f7b9e7013,either.ca,resell,,,high,low,6,"Go Daddy Dom
 0c3fc321-a36b-4be3-924f-67db8c59a9ce,cognisant.ca,available,9.99,9.99,low,low,9,namesilo,,,08/08/2026 00:18
 f5cebea4-ca89-4929-8bda-cdf43db05e7f,humourous.ca,available,9.99,9.99,high,low,9,namesilo,,,
 8256f6ec-d356-414c-85b8-7defa80bc883,butif.ca,available,9.99,9.99,medium,low,6,namesilo,,,
-392c334a-b613-49b6-956a-72442e6e4b19,armed.ca,resell,,,high,low,5,Grape Inc.,28/04/2010 19:22,28/04/2027 04:00,
+392c334a-b613-49b6-956a-72442e6e4b19,armed.ca,resell,,,low,low,5,Grape Inc.,28/04/2010 19:22,28/04/2027 04:00,22/09/2026 07:55
 744f4496-9813-4b86-9fe4-be4addea1220,been.ca,resell,,,medium,low,4,Go Get Canada Domain Registrar Ltd.,05/01/2011 20:19,05/01/2027 20:19,
 89cbee4d-0f38-4417-8f43-ad3e64296a6e,frustrate.ca,available,14.98,,high,low,9,namecheap,,,
-ae0e0d24-74ce-43db-b891-624126162ea4,anabolic.ca,resell,,,low,low,8,"Go Daddy Domains Canada, Inc",24/08/2001 19:29,24/08/2026 04:00,
+ae0e0d24-74ce-43db-b891-624126162ea4,anabolic.ca,resell,,,low,low,8,"Go Daddy Domains Canada, Inc",24/08/2001 19:29,24/08/2027 04:00,22/09/2026 10:07
 728b4524-8df7-4189-8110-fa1f17af9f51,anodal.ca,available,9.99,9.99,low,low,6,namesilo,,,
 a39b2955-8fa9-4dad-ae7b-fb1bed0be745,radar.ca,available,,,high,low,5,,,,
 ebe809ae-fbe0-4e79-9267-aed5741297a8,shiftabout.ca,available,9.99,9.99,low,low,11,namesilo,,,
 fb134d8c-7fd2-41cf-aa04-84b41902a449,anguished.ca,available,9.99,9.99,low,low,9,namesilo,,,
 cee14e0c-2fba-4296-a886-232cee1fef0f,paunchy.ca,available,9.99,9.99,low,low,7,namesilo,,,
-bb001963-ce2d-4cd3-9d8f-a2dfd678a047,robotic.ca,resell,,,high,low,7,MyID.ca INC.,13/02/2002 17:04,13/02/2027 05:00,
+bb001963-ce2d-4cd3-9d8f-a2dfd678a047,robotic.ca,resell,,,low,low,7,MyID.ca INC.,13/02/2002 17:04,13/02/2027 05:00,22/09/2026 14:05
 c1f84a6d-1ad3-4c54-80c6-85557c6d556c,labor.ca,resell,,,medium,low,5,BareMetal.com inc,31/12/2003 17:00,31/12/2026 05:00,
 b0f47c39-24c6-42d1-bc44-b327f24d5e94,newsmedia.ca,resell,,,high,low,10,BareMetal.com inc,22/02/2017 20:29,22/02/2026 20:29,
 c6cc0dcc-8724-4e35-a8e9-472af959b05a,cocoa.ca,resell,,,high,low,5,DomainePlus.com (3612040 CANADA inc.),09/01/2003 01:45,08/01/2027 05:00,
@@ -458,8 +451,7 @@ d58af238-b5c7-44ce-aa5f-1d5f3f9030d9,offof.ca,available,9.99,9.99,medium,low,6,n
 61d71ffd-56dc-4b92-8caf-1204b3fcb040,exposure.ca,resell,,,medium,low,8,BareMetal.com inc,04/02/2001 01:31,03/02/2027 05:00,08/09/2026 13:44
 29596d70-3a26-4487-86f3-6512e137c30c,quintuplet.ca,available,9.99,9.99,low,low,10,namesilo,,,
 485d27f8-119d-4f26-b5f2-9a3a46019fb1,fourscore.ca,available,,,medium,low,9,,,,
-2bf84bdb-5478-4c29-9666-d597ec9c94d2,axial.ca,resell,,,high,high,5,Namespro Solutions Inc.,11/11/2015 20:37,11/11/2026 20:37,
-6ca54aae-07f9-411b-9a4e-c276ac822385,kitchensink.ca,resell,,,medium,low,12,CENTRALNIC CANADA INC,29/07/2009 19:37,29/07/2026 04:00,
+6ca54aae-07f9-411b-9a4e-c276ac822385,kitchensink.ca,resell,,,medium,low,12,CENTRALNIC CANADA INC,29/07/2009 19:37,29/07/2027 04:00,20/09/2026 03:20
 193deb9b-73bb-425a-9a00-0ef02f7649f1,acaudal.ca,available,9.99,9.99,low,low,7,namesilo,,,
 bbd340d3-a70a-4d79-80e0-ac13ec9895e4,dependon.ca,available,9.99,9.99,high,low,9,namesilo,,,
 459419b7-5758-4482-966f-68363fab6baa,aegean.ca,resell,,,low,low,6,MyID.ca INC.,03/06/2026 19:00,03/06/2027 19:00,
@@ -501,9 +493,9 @@ aca59078-0ee9-45db-8853-f5110c383cd0,homoecious.ca,available,9.99,9.99,low,low,1
 3ede289b-155e-48c5-abcd-da78f12948b5,baccate.ca,available,9.99,9.99,low,low,7,namesilo,,,08/08/2026 04:03
 c06a3c69-3143-4966-b2f4-089ebf6cd008,diminishing.ca,available,14.98,,high,low,11,namecheap,,,
 59cd231c-a679-4d93-8d1b-2be00a334558,smelling.ca,available,9.99,9.99,medium,low,8,namesilo,,,
-f7cb6538-3e34-462e-8efc-cf74d0ecc56a,forgiving.ca,resell,4025,16.99,high,low,9,"Go Daddy Domains Canada, Inc",18/07/2015 04:02,18/07/2027 04:02,19/09/2026 11:19
+f7cb6538-3e34-462e-8efc-cf74d0ecc56a,forgiving.ca,resell,4025,16.99,medium,low,9,"Go Daddy Domains Canada, Inc",18/07/2015 04:02,18/07/2027 04:02,21/09/2026 14:52
 27de4e63-da7d-4fd1-8724-2352171e0934,latest.ca,resell,,,low,low,6,CanSpace Solutions Inc.,18/04/2005 14:08,18/04/2027 04:00,
-efc96c14-bdf4-4dc3-ab14-f458074f6d98,school.ca,resell,,,high,low,6,CanSpace Solutions Inc.,25/09/2000 15:51,24/09/2027 04:00,
+efc96c14-bdf4-4dc3-ab14-f458074f6d98,school.ca,resell,,,medium,low,6,CanSpace Solutions Inc.,25/09/2000 15:51,24/09/2027 04:00,20/09/2026 03:02
 8eef0c6a-7272-4a16-bc1f-1322b8ac82be,enterontheboards.ca,available,9.99,9.99,medium,low,19,namesilo,,,
 caa65ff0-cc3c-41c5-a298-64ee3abdcfd2,acapnotic.ca,available,9.99,9.99,low,low,9,namesilo,,,
 f59a3a01-db97-4347-8477-a4a77b351d23,laborer.ca,available,9.99,9.99,medium,low,7,namesilo,,,
@@ -530,7 +522,7 @@ dc8c9171-85a6-4673-8c07-986f7d7640b9,toddler.ca,resell,,,high,low,7,Grape Inc.,0
 af8359b6-0401-4b39-81e9-9ffc14b949c8,duke.ca,resell,,,high,medium,4,Namespro Solutions Inc.,15/04/2004 23:12,15/04/2026 04:00,
 6a445050-8c4c-426a-a0b3-4828eb389fa2,apivorous.ca,available,9.99,9.99,low,low,9,namesilo,,,06/08/2026 00:18
 f88e4894-feb6-4a00-84cb-2f81c2f366f6,asterismal.ca,available,9.99,9.99,low,low,10,namesilo,,,07/08/2026 09:01
-780cbf53-68a3-439b-8f7b-a64e29ead664,use.ca,resell,,,high,low,3,CENTRALNIC CANADA INC,15/08/2012 19:20,15/08/2026 19:20,
+780cbf53-68a3-439b-8f7b-a64e29ead664,use.ca,resell,,,high,low,3,CENTRALNIC CANADA INC,15/08/2012 19:20,15/08/2027 19:20,20/09/2026 22:33
 288996ba-2184-4e05-81ab-5b99867f5f11,stopped.ca,resell,,,medium,low,7,Namespro Solutions Inc.,13/05/2006 16:27,13/05/2027 04:00,
 56c66ca6-58d4-4fee-9da7-0196185bff4a,auctorial.ca,available,9.99,9.99,low,low,9,namesilo,,,07/08/2026 16:24
 1cc8f61f-3231-4823-b414-4ec9b12447da,ane.ca,resell,,,medium,low,3,Namespro Solutions Inc.,23/04/2004 19:18,23/04/2026 04:00,
@@ -566,7 +558,6 @@ a12b942a-4d27-4d8b-bb11-e9b05ecfcf67,adductive.ca,available,9.99,9.99,low,low,9,
 846daffe-4115-4d07-9f8d-efe682f483cb,costofmoney.ca,available,9.99,9.99,medium,low,13,namesilo,,,
 2153651c-9072-4a6f-9b3e-92d4a9cc8b87,listenin.ca,available,9.99,9.99,medium,low,9,namesilo,,,
 71593095-746b-445e-bd90-dec9ff4a4abe,antinomian.ca,available,9.99,9.99,low,low,10,namesilo,,,
-d39a50d3-007a-4cad-99e1-6c69d847e575,adapted.ca,resell,,,high,low,7,BareMetal.com inc,30/08/2023 19:00,30/08/2026 19:00,
 a519a3a0-a7bb-4c95-a5f2-3b9559e50de8,havesomeonethere.ca,available,9.99,9.99,medium,low,18,namesilo,,,
 e5c8d120-5af0-4644-8e67-36ea31385177,getting.ca,resell,,,high,low,7,Namespro Solutions Inc.,13/05/2006 16:27,13/05/2027 04:00,
 2f146ed4-8d35-4107-adad-2b613c4dde40,aflame.ca,resell,,,medium,low,6,BareMetal.com inc,26/04/2023 19:14,26/04/2026 19:14,
@@ -594,10 +585,12 @@ c758d37e-ea65-4743-95c0-b76d306ab14a,vanquish.ca,resell,,,low,low,8,Go Get Canad
 d889ac3d-1fda-4696-9b4d-0880639b53e5,ammino.ca,available,9.99,9.99,low,low,6,namesilo,,,
 9f0d7027-868d-43c6-a530-a6d5b005a9c7,loyal.ca,resell,,,high,low,5,Namespro Solutions Inc.,05/06/2004 16:00,05/06/2026 04:00,
 adac4ace-89e3-458d-80a8-d1a615bf1366,wheelabout.ca,available,9.99,9.99,low,low,11,namesilo,,,
+63ac523e-3f1d-437c-b4ef-79f8b4b51f5d,xvi.ca,resell,,,low,low,3,WHC Online Solutions Inc.,11/02/2026 19:00,11/02/2027 19:00,21/09/2026 11:49
 5629f3f0-98fe-495b-b8cf-3a61cdec80c7,hotticket.ca,resell,,,high,low,10,MyID.ca INC.,18/03/2004 06:20,18/03/2027 04:00,
 ae21e84b-d93f-41a0-9f44-d56bdab48889,withaneyeto.ca,available,9.99,9.99,low,low,14,namesilo,,,
 61c5c6f8-2244-4ee7-a0eb-10493d843abc,seaside.ca,available,,,high,low,7,,,,
-24cbedb0-cc52-49d7-8319-b05601739bb1,astonished.ca,available,9.99,9.99,medium,low,10,namesilo,,,
+72afeecf-4a60-4230-949c-42cc54ef2286,improvise.ca,resell,,,medium,low,9,"Go Daddy Domains Canada, Inc",25/05/2022 19:00,25/05/2027 19:00,21/09/2026 16:45
+24cbedb0-cc52-49d7-8319-b05601739bb1,astonished.ca,available,11.98,14.98,low,low,10,namecheap,,,22/09/2026 03:35
 9ed99d98-a107-4a79-b164-7d8b4026d91e,angulate.ca,available,9.99,9.99,low,low,8,namesilo,,,
 b3d1d60e-70af-4ede-9e36-82a23d8bf7b3,tornado.ca,resell,,,high,low,7,Namespro Solutions Inc.,21/03/2003 17:08,21/03/2026 04:00,
 f7ad5a35-7f5e-4f49-8d83-69140b22dbd9,psyche.ca,resell,,,medium,low,6,Namespro Solutions Inc.,13/03/2005 19:00,13/03/2027 04:00,
@@ -623,7 +616,7 @@ dbfadfa1-158b-47fe-9271-c58b067fc728,annexal.ca,available,9.99,9.99,low,low,7,na
 e64cd8ac-4180-4b92-a3f1-05aefa990d07,jan.ca,resell,,,high,low,3,BareMetal.com inc,08/01/2003 17:03,08/01/2027 05:00,
 24d0d8e7-d8e2-4876-b907-5c70c96a224f,approval.ca,resell,,,medium,low,8,Namespro Solutions Inc.,13/03/2002 17:00,13/03/2026 05:00,
 0d1920f2-f9ec-410b-9c94-cbbedb3d5e79,anurous.ca,available,9.99,9.99,low,low,7,namesilo,,,05/08/2026 21:27
-9ef7689c-6618-4839-b747-798b39ef197d,prenuptial.ca,resell,,,high,low,10,8648255 CANADA LTD. O/A Dynadot LLC,16/06/2021 19:00,16/06/2026 19:00,
+9ef7689c-6618-4839-b747-798b39ef197d,prenuptial.ca,resell,,,medium,low,10,8648255 CANADA LTD. O/A Dynadot LLC,16/06/2021 19:00,16/06/2027 19:00,22/09/2026 06:05
 6d2f38ca-6728-48dc-bad5-196b0f7cb49d,snapping.ca,available,9.99,9.99,medium,low,8,namesilo,,,
 e8cf9620-2dbe-4be8-b065-633067ac08ea,community.ca,resell,,,medium,medium,9,CENTRALNIC CANADA INC,09/09/2015 19:37,09/09/2027 19:37,08/09/2026 12:57
 146b77b1-51c3-4bf3-b585-e662a11381d7,eventhough.ca,available,9.99,9.99,medium,low,11,namesilo,,,
@@ -631,8 +624,9 @@ ec76593a-a113-4a9a-a2aa-640eadef8bf4,chew.ca,available,,,medium,low,4,,,,
 12ac0bad-5af8-4262-8711-3fa58c4cb28c,backhanded.ca,available,9.99,9.99,low,low,10,namesilo,,,08/08/2026 05:38
 24a5da04-779d-4d90-9988-dc159664270e,atthecostof.ca,available,14.98,,medium,low,14,namecheap,,,
 3440690d-acff-4118-be15-8e6bb7ff088a,profession.ca,resell,,,high,low,10,Namespro Solutions Inc.,23/02/2003 17:01,23/02/2027 05:00,
-553f6c53-e2ad-41cd-9e21-ae31741e4324,earth.ca,resell,,,medium,medium,5,Rebel.ca Corp.,30/11/2000 17:23,27/08/2026 04:00,
+553f6c53-e2ad-41cd-9e21-ae31741e4324,earth.ca,resell,,,medium,medium,5,Rebel.ca Corp.,30/11/2000 17:23,27/08/2027 04:00,22/09/2026 17:26
 db91a040-b4a1-4725-a905-caea2e10038a,glittering.ca,available,,,high,low,10,,,,
+0a3d9691-66f3-493a-997c-5a64c18668b0,teasing.ca,resell,,,low,low,7,,,,22/09/2026 05:24
 095a3d5b-893b-49c0-9c8e-1349c327ca81,teastrainer.ca,available,9.99,9.99,high,low,12,namesilo,,,
 05c4b67b-eb96-420d-809a-38526c2baf18,whitehot.ca,resell,,,medium,low,9,BareMetal.com inc,29/12/2021 19:00,29/12/2026 19:00,
 7d37620b-3cf7-4016-a047-ef0fa49d122d,albinic.ca,available,9.99,9.99,low,low,7,namesilo,,,
@@ -643,7 +637,6 @@ db91a040-b4a1-4725-a905-caea2e10038a,glittering.ca,available,,,high,low,10,,,,
 b46f6c63-dea6-4899-a4a0-c6ca6ad43d7b,anticlinal.ca,available,9.99,9.99,low,low,10,namesilo,,,
 162f7b38-ca58-4b33-b943-f64db71c1e21,customise.ca,available,9.99,9.99,high,low,9,namesilo,,,
 9adb8a05-1d5f-4634-bf5a-aee5f0d21ee9,difficulty.ca,resell,,,medium,low,10,Grape Inc.,10/03/2010 20:18,10/03/2027 05:00,
-de79ec36-fa05-414a-92fe-d042faf7da55,counter.ca,resell,,,high,high,7,WHC Online Solutions Inc.,12/02/2025 19:00,12/02/2026 19:00,
 da5876ba-d312-4237-8fde-56bbb89c09f1,clue.ca,resell,,,high,low,4,BareMetal.com inc,08/01/2003 17:01,08/01/2027 05:00,
 3e4b65d5-5d92-41d1-997a-79e1545b9af1,capital.ca,resell,,,medium,low,7,Grape Inc.,27/10/2000 10:19,12/02/2027 05:00,19/09/2026 09:29
 68a95313-061d-4f28-a1f7-07344ea7e7d2,antlered.ca,available,9.99,9.99,low,low,8,namesilo,,,05/08/2026 20:11
@@ -682,17 +675,16 @@ d6086aca-0322-4c21-81fa-e49ecd845c20,adequately.ca,available,9.99,9.99,medium,lo
 ff1bd38a-4b87-4740-8d86-dd674fbad275,confirming.ca,available,9.99,9.99,high,low,10,namesilo,,,
 5bf563b5-c152-41ae-b718-daa24b096764,were.ca,resell,,,high,low,4,CENTRALNIC CANADA INC,14/11/2018 20:37,14/11/2026 20:37,
 63b16d72-85db-4605-bfa7-062cb9164cc6,potbellied.ca,available,9.99,9.99,low,low,10,namesilo,,,
-86e0e111-0ad5-4b10-8bdc-6c6ff8528c29,waste.ca,resell,,,high,high,5,BareMetal.com inc,29/10/2000 03:35,23/10/2027 04:00,
 529c7651-25d1-4a68-a0fa-6538f8a77baa,bareassed.ca,available,11.98,14.98,low,low,10,namecheap,,,08/08/2026 18:05
 e2674aac-0aa9-43e5-8177-701ce2f71193,admonitory.ca,available,9.99,9.99,low,low,10,namesilo,,,
 a2df8065-84fe-46a3-a496-d657406f7282,appeasable.ca,available,9.99,9.99,low,low,10,namesilo,,,06/08/2026 05:56
 2873f65c-6919-46d5-8c0a-3fe858ea6aa6,appeal.ca,available,,,high,low,6,,,,
 986a9278-6951-4cc4-8d42-ce563cbdf8f9,aflutter.ca,available,9.99,9.99,low,low,8,namesilo,,,
-2c527467-5432-4815-95e9-6f489ac45db3,nail.ca,resell,,,medium,low,4,Grape Inc.,24/01/2002 15:31,24/01/2027 05:00,
+2c527467-5432-4815-95e9-6f489ac45db3,nail.ca,resell,,,low,low,4,Grape Inc.,24/01/2002 15:31,24/01/2027 05:00,21/09/2026 16:04
 383309f1-41ea-40de-8e47-08dda0eafa23,agitative.ca,available,9.99,9.99,low,low,9,namesilo,,,
 2f576a80-16ab-44a8-ace2-32506c35eacd,readfor.ca,available,9.99,9.99,low,low,8,namesilo,,,
 f4c105c0-efb2-4a74-addb-a4117da92c1d,absorptive.ca,available,9.99,9.99,low,low,10,namesilo,,,
-1d6bff4d-9f8a-42a8-ae01-1243533300a4,alive.ca,resell,,,high,low,5,BareMetal.com inc,04/10/2005 18:00,04/10/2026 04:00,
+1d6bff4d-9f8a-42a8-ae01-1243533300a4,alive.ca,resell,,,medium,low,5,BareMetal.com inc,04/10/2005 18:00,04/10/2027 04:00,22/09/2026 05:04
 9e2983e5-f8e5-4e83-aa7a-42e8c83a8ff7,pretence.ca,available,9.99,9.99,medium,low,8,namesilo,,,
 28c7f273-bfaf-459a-a3ca-e64a6eb829fd,retracted.ca,available,14.98,,medium,low,9,namecheap,,,
 23b029cf-f950-4747-9ca4-1d31aa89a91e,fallunder.ca,available,9.99,9.99,medium,low,10,namesilo,,,
@@ -708,7 +700,6 @@ fc59cdb7-93bd-4cce-95be-1ac362307956,perceiving.ca,available,14.98,,high,low,10,
 a669f73a-2831-4cb6-9353-c723127f92c2,haveseenthismovie.ca,available,9.99,9.99,medium,low,20,namesilo,,,
 e32d073e-93bc-4e55-b124-0f012b7b69a3,analgetic.ca,available,9.99,9.99,low,low,9,namesilo,,,
 0cf3edf0-de64-4d5c-8b1e-ac6533d544af,politicalparty.ca,available,14.98,,medium,low,15,namecheap,,,
-28696a6a-550c-4a2c-b8ed-375bab581956,prejudice.ca,available,14.98,,high,low,9,namecheap,,,
 f837e343-fc89-4141-ba5d-6b99a53361f6,generalstudies.ca,available,9.99,9.99,high,low,15,namesilo,,,
 c0398268-0997-4a0b-9794-5f6bc23a049a,belt.ca,resell,,,high,low,4,Grape Inc.,13/04/2011 19:23,13/04/2027 19:23,
 2e5b41d7-3b6e-469d-8d38-dfce2cb71d5d,demoniac.ca,available,9.99,9.99,low,low,8,namesilo,,,
@@ -731,8 +722,7 @@ ebfb1bd6-9ad2-4c6c-aac1-c812e2952ff7,machinescrew.ca,available,9.99,9.99,high,lo
 925a2869-850d-42f7-9c86-7a6e6e1fdd62,machine.ca,resell,,,high,low,7,Namespro Solutions Inc.,25/02/2005 19:00,25/02/2026 05:00,
 93af26da-7e14-45e2-bcf6-c2018bb5bb3b,agnate.ca,available,9.99,9.99,low,low,6,namesilo,,,
 37186fda-01f8-45d0-80c4-a112484dcad7,oldagepensioner.ca,available,14.98,,medium,low,17,namecheap,,,
-f0aeb401-c0b9-4312-ab07-a888314a0c20,observed.ca,available,14.98,,medium,low,8,namecheap,,,
-0e523147-8fd2-4582-b6b8-49bcdfc60ee4,unity.ca,available,,,high,medium,5,,,,
+f0aeb401-c0b9-4312-ab07-a888314a0c20,observed.ca,available,9.99,9.99,low,low,8,namesilo,,,22/09/2026 09:25
 e5704d79-6233-45cf-a484-70dbdb347d49,underarrest.ca,available,9.99,9.99,medium,low,12,namesilo,,,
 c2d8c7c2-13cd-45b5-ab23-1256c217d2cb,voicemail.ca,premium,9476,,low,low,10,Namespro Solutions Inc.,08/11/2000 14:51,01/12/2026 05:00,
 c9fce80d-4fd1-4c09-a81e-1e368613dda2,peeved.ca,available,9.99,9.99,low,low,6,namesilo,,,
@@ -753,13 +743,12 @@ a97a73e6-0893-44be-a49d-ca8507fd7e08,anapestic.ca,available,9.99,9.99,low,low,9,
 127bda2b-f06f-4562-9929-590a47648172,lucrative.ca,resell,,,high,low,9,Namespro Solutions Inc.,31/12/2005 00:27,30/12/2026 05:00,
 ac94c75a-e7b1-44e8-a02a-263982fb07a4,toad.ca,resell,,,high,low,4,Namespro Solutions Inc.,02/01/2005 19:13,02/01/2026 05:00,
 81f5bbd2-cb8f-461a-8dde-98fd5fc4a237,howdiditgo.ca,available,9.99,9.99,medium,low,13,namesilo,,,
-4304eb8d-aeb2-4b18-b9ab-7d0a7fa9e1d8,adaptative.ca,available,9.99,9.99,high,low,10,namesilo,,,
-27248e0d-e0d5-47f4-95cb-3074bd873e71,dozen.ca,resell,,,high,low,5,Webnames.ca Inc.,30/05/2005 00:50,29/05/2026 04:00,
+4304eb8d-aeb2-4b18-b9ab-7d0a7fa9e1d8,adaptative.ca,available,9.99,9.99,medium,low,10,namesilo,,,21/09/2026 16:59
 04c0446e-b95b-4102-8c36-35cda3621495,effect.ca,resell,,,high,low,6,CENTRALNIC CANADA INC,15/04/2015 19:53,15/04/2027 19:53,
 758698c7-41d5-42d7-9681-499d0b4d8f72,although.ca,resell,,,medium,low,8,Namespro Solutions Inc.,13/05/2006 16:27,13/05/2027 04:00,
 5633dc72-0c27-4d15-977c-72c16626f25a,firstcousin.ca,available,9.99,9.99,medium,low,12,namesilo,,,
 6279eb18-c15c-4de1-b94f-5944b47c345a,callon.ca,available,14.98,,high,low,7,namecheap,,,
-e9bf75d9-b5af-4b3a-8a19-7ac0cb3f1645,abomb.ca,available,9.99,9.99,high,low,6,namesilo,,,
+e9bf75d9-b5af-4b3a-8a19-7ac0cb3f1645,abomb.ca,available,9.99,9.99,medium,low,6,namesilo,,,
 63695715-0aa0-47cd-bef0-20936ae05bfc,government.ca,resell,,,high,low,10,BareMetal.com inc,31/10/2000 22:32,13/11/2026 05:00,
 68a53c3f-851e-42b6-83f0-44dce5ea5f30,absolutist.ca,available,9.99,9.99,low,low,10,namesilo,,,
 9e905698-2e95-47a6-9f1d-d00a3919a74a,daughter.ca,resell,,,high,low,8,CanSpace Solutions Inc.,18/04/2005 20:12,18/04/2027 04:00,
@@ -775,7 +764,7 @@ b9ed7d58-561f-4d72-9c0b-70ff1d7eee1e,ihearyousay.ca,available,9.99,9.99,medium,l
 2053bc24-2836-42c3-ab5c-8931a948ca3d,appendant.ca,available,9.99,9.99,low,low,9,namesilo,,,06/08/2026 06:34
 6d629fc2-466d-4b38-87c8-381eb4e59705,dateback.ca,available,9.99,9.99,high,low,9,namesilo,,,
 82f66ae5-86d9-4229-8eef-55437bcfdbc4,barefooted.ca,available,11.98,14.98,low,low,10,namecheap,,,08/08/2026 18:59
-871be953-a8af-45b6-bb3f-129592cb81e0,proclaimed.ca,available,9.99,9.99,medium,low,10,namesilo,,,
+871be953-a8af-45b6-bb3f-129592cb81e0,proclaimed.ca,available,9.99,9.99,low,low,10,namesilo,,,22/09/2026 05:13
 58e4e714-7676-4730-8504-6c11a66bb31d,insurancecarrier.ca,available,9.99,9.99,medium,low,17,namesilo,,,
 f902215b-1189-4ed3-b741-8ff0a576cb2b,atheistic.ca,available,9.99,9.99,low,low,9,namesilo,,,07/08/2026 13:03
 e8d50bdc-3ddc-4ff9-86e1-49bdcaeec009,arrive.ca,resell,,,high,low,6,Namespro Solutions Inc.,31/12/2003 17:20,31/12/2026 05:00,
@@ -806,7 +795,7 @@ c87508ae-1ba6-4348-971a-3a88061a6c3c,shh.ca,available,,,medium,low,3,,,,
 34fd656b-7598-4aa5-8296-51838691e5f4,atstake.ca,available,9.99,9.99,medium,low,8,namesilo,,,
 902aa511-54b7-417f-83e4-9fa3b8ab8946,cheesefood.ca,available,9.99,9.99,medium,low,11,namesilo,,,
 c705ac88-ce15-463a-bbe2-e8b53aaba12b,workfare.ca,available,9.99,9.99,low,low,8,namesilo,,,
-e1665061-3076-4847-9f49-36739edeae70,sedative.ca,premium,17767.5,,medium,low,8,Grape Inc.,16/04/2017 22:37,16/04/2027 22:37,
+e1665061-3076-4847-9f49-36739edeae70,sedative.ca,available,9.99,9.99,low,low,8,namesilo,,,22/09/2026 10:55
 e75b457a-511d-4e21-a47e-95d81308e464,tall.ca,resell,,,high,low,4,Grape Inc.,31/12/2003 17:01,31/12/2026 05:00,
 4b3b0d3a-bb4a-4ae3-8842-5eea15f5a0b4,aculeated.ca,available,9.99,9.99,low,low,9,namesilo,,,
 9465cc91-adda-48e9-955b-3a6a5c16fec6,organized.ca,resell,,,high,low,9,BareMetal.com inc,27/01/2021 19:00,27/01/2026 19:00,
@@ -822,8 +811,7 @@ e1dfc440-647b-4c65-bf82-9cde3ba4b479,pizzeria.ca,resell,,,high,low,8,Namespro So
 895ca8b5-8209-4693-87e2-0ed7682b0e34,sausage.ca,resell,,,high,low,7,MyID.ca INC.,09/11/2000 17:53,01/12/2026 05:00,
 c24169d9-4cf7-447f-93ce-a95f63e3fdff,jointly.ca,resell,,,medium,low,7,Namespro Solutions Inc.,05/01/2022 19:00,05/01/2027 19:00,
 ca39b834-4cc3-4b97-89c2-16f3f84aa336,surgeprotector.ca,resell,,,high,low,15,CanSpace Solutions Inc.,13/06/2005 14:11,13/06/2027 04:00,
-9d726465-8340-4e5c-80a7-d705c5df285b,nuts.ca,resell,,,medium,low,4,Rebel.ca Corp.,24/01/2002 15:31,24/01/2027 05:00,
-1d0637be-e32d-4bf8-b8f0-d3db186ab0b4,xviii.ca,available,9.99,9.99,medium,low,5,namesilo,,,
+1d0637be-e32d-4bf8-b8f0-d3db186ab0b4,xviii.ca,available,11.98,14.98,low,low,5,namecheap,,,21/09/2026 12:00
 9cc86320-b405-485b-a42c-f7dc7eaa16fd,whothehell.ca,available,9.99,9.99,low,low,12,namesilo,,,
 278cc060-ad82-4b08-9d9b-5eded33befb8,justkidding.ca,resell,,,high,low,12,Namespro Solutions Inc.,04/02/2001 20:12,04/02/2027 05:00,
 6fa91806-c71a-4558-ae0c-50989a914cee,bloodflow.ca,available,14.98,,high,low,10,namecheap,,,
@@ -870,7 +858,7 @@ bf5d92a9-a1d4-431b-add7-07d1f4ee4788,weakest.ca,available,9.99,9.99,low,low,7,na
 40f4b434-48b7-49f6-a1a1-5ecbdd0cb7d6,indiana.ca,resell,,,medium,low,7,WHC Online Solutions Inc.,14/09/2004 18:00,14/09/2026 04:00,
 cdb10c3c-58ac-45c5-b5bb-2849f1665a31,arboriform.ca,available,9.99,9.99,low,low,10,namesilo,,,06/08/2026 13:39
 edcca4c8-9cb4-4f4b-97c4-5fa213c93431,comein.ca,available,9.99,9.99,high,low,7,namesilo,,,
-6306d95f-a7af-481a-b9a4-e825d11fefaf,xxii.ca,available,9.99,9.99,medium,low,4,namesilo,,,
+6306d95f-a7af-481a-b9a4-e825d11fefaf,xxii.ca,available,9.99,9.99,low,low,4,namesilo,,,21/09/2026 12:40
 b07d02c3-0901-47ad-826e-19ac18e8a0a9,aminic.ca,available,11.98,14.98,low,low,6,namecheap,,,
 e4068356-d697-440a-867e-ee332a8f1309,commonman.ca,available,9.99,9.99,high,low,10,namesilo,,,
 fa02e26e-4518-4936-8b9d-e8206f581966,payfor.ca,resell,,,high,low,7,"Go Daddy Domains Canada, Inc",13/02/2025 13:46,13/02/2028 13:46,
@@ -881,7 +869,7 @@ fa02e26e-4518-4936-8b9d-e8206f581966,payfor.ca,resell,,,high,low,7,"Go Daddy Dom
 fd009607-b05c-49fb-998e-f1c3c41e6eb4,anaglyptic.ca,available,9.99,9.99,low,low,10,namesilo,,,
 569bfe0c-4609-45bc-9df5-1a2be8d24a55,opportunityroom.ca,available,9.99,9.99,high,low,16,namesilo,,,
 23041636-fe4a-4d8d-b2ca-6c33ff4c7087,abducens.ca,available,9.99,9.99,low,low,8,namesilo,,,
-351e3f12-d98f-4e09-b3e9-b4742ecb3644,buzzed.ca,resell,,,high,low,6,"Go Daddy Domains Canada, Inc",27/08/2008 19:25,27/08/2026 04:00,
+351e3f12-d98f-4e09-b3e9-b4742ecb3644,buzzed.ca,resell,,,high,low,6,"Go Daddy Domains Canada, Inc",27/08/2008 19:25,27/08/2027 04:00,22/09/2026 17:26
 72cf13f0-a7b9-42d9-b86f-482b90569a4b,amnionic.ca,available,9.99,9.99,low,low,8,namesilo,,,
 b3dadba8-6931-4582-bb6c-47134c65a190,nasasupported.ca,available,9.99,9.99,low,low,14,namesilo,,,
 2d952590-d28b-4145-9a07-68e4333fd281,whotheheck.ca,available,9.99,9.99,low,low,12,namesilo,,,
@@ -889,9 +877,9 @@ b3dadba8-6931-4582-bb6c-47134c65a190,nasasupported.ca,available,9.99,9.99,low,lo
 125084aa-2a1a-4c3f-b2ca-2cb65973fba7,allomerous.ca,available,9.99,9.99,low,low,10,namesilo,,,
 dab29990-e02d-4624-8c16-f74e2d888028,concussion.ca,resell,,,medium,low,10,Namespro Solutions Inc.,03/02/2005 19:00,03/02/2026 05:00,
 e76ae017-fe9d-4594-9b9f-b76ae178f710,tooneself.ca,available,9.99,9.99,medium,low,10,namesilo,,,
-c0b53153-fc5c-42f5-974e-8d1bc1412643,bedlinen.ca,resell,,,high,low,9,CanSpace Solutions Inc.,13/06/2005 14:12,13/06/2027 04:00,
+c0b53153-fc5c-42f5-974e-8d1bc1412643,bedlinen.ca,resell,,,low,low,9,CanSpace Solutions Inc.,13/06/2005 14:12,13/06/2027 04:00,22/09/2026 22:56
 a019a8af-ee59-4603-bf21-83cea3988e00,alkaliser.ca,available,9.99,9.99,low,low,9,namesilo,,,
-0a2ca588-85a2-4530-95fa-7b7710826c97,acervate.ca,available,,,medium,low,8,,,,
+0a2ca588-85a2-4530-95fa-7b7710826c97,acervate.ca,available,,,low,low,8,,,,
 e6b4d3a4-e9a3-4ebb-b16d-7d43d4d9fe9e,amylolytic.ca,available,9.99,9.99,low,low,10,namesilo,,,
 005a58a9-97fd-4344-a200-aee05d89578f,blob.ca,resell,,,medium,low,4,WHC Online Solutions Inc.,22/04/2002 16:02,22/04/2027 04:00,
 b8111dcf-c9e1-45a4-91cb-5e97d2895475,hardcider.ca,available,9.99,9.99,high,low,10,namesilo,,,
@@ -944,7 +932,6 @@ e1342a94-1991-48d1-b9e4-7233232446f3,antiracist.ca,available,9.99,9.99,high,low,
 5882c857-3a59-4b5e-b40d-4db50a0686c0,spidery.ca,available,9.99,9.99,low,low,7,namesilo,,,06/08/2026 11:46
 590bc70c-5e6d-4954-a2d4-5b22f25e1171,worshipful.ca,available,9.99,9.99,low,low,10,namesilo,,,
 fb883564-6c3b-4bbf-80e4-a70c6879d102,barbiepink.ca,available,9.99,9.99,high,low,11,namesilo,,,
-23216ef0-8dc1-4169-b944-e82fd17041eb,friendship.ca,resell,,,high,low,10,Namespro Solutions Inc.,28/08/2003 00:19,27/08/2026 04:00,
 183c1443-ae14-44f8-8a7e-f654cf7e8677,aplanatic.ca,available,9.99,9.99,low,low,9,namesilo,,,06/08/2026 00:29
 d59f1c3d-dec5-4468-b16b-ef7cec8c1177,layer.ca,premium,8883.75,,medium,low,5,Namespro Solutions Inc.,22/04/2005 18:52,22/04/2027 04:00,
 9a6564fb-8add-47de-a20e-c03203d6944e,acetose.ca,available,9.99,9.99,low,low,7,namesilo,,,
@@ -966,8 +953,7 @@ d0fd9c69-854d-4019-acb2-6e740a411f9c,major.ca,available,,,high,low,5,,,,
 e1926cd7-171e-4b89-a833-24eed8aa3d1e,aneyeforaneye.ca,available,9.99,9.99,medium,low,17,namesilo,,,
 ca925764-4f0c-4996-ac5c-f8d34c8b3b46,recipient.ca,available,9.99,9.99,high,low,9,namesilo,,,
 f45e4538-5f57-4153-8fc6-703f2149d698,apnoeic.ca,available,9.99,9.99,low,low,7,namesilo,,,06/08/2026 00:46
-bedd1f37-858c-411e-bc90-f3d1f7764442,automatic.ca,resell,,,high,high,9,Namespro Solutions Inc.,02/03/2004 17:00,02/03/2026 05:00,
-8fa4bad6-a165-4b39-aaaa-3b8c0c9a7789,fine.ca,resell,,,high,low,4,"Go Daddy Domains Canada, Inc",24/01/2002 15:04,24/01/2027 05:00,
+8fa4bad6-a165-4b39-aaaa-3b8c0c9a7789,fine.ca,resell,,,medium,low,4,"Go Daddy Domains Canada, Inc",24/01/2002 15:04,24/01/2027 05:00,22/09/2026 01:03
 0789545f-4284-4156-933e-fef78d2b87fe,cooked.ca,resell,,,high,low,6,BareMetal.com inc,19/11/2025 19:00,19/11/2026 19:00,
 47559009-948a-4d38-8ba0-42306b59af86,justintime.ca,available,,,medium,low,12,,,,
 a7d50127-f4d1-4db9-a710-69a2ae524251,beheaded.ca,available,9.99,9.99,low,low,8,namesilo,,,09/08/2026 10:21
@@ -993,9 +979,23 @@ b7c5c806-727d-48f6-a972-b379f92ebdb4,useless.ca,resell,,,medium,low,7,CENTRALNIC
 da1e163b-11ea-495a-8003-57d21d7dcf21,golfgame.ca,available,14.98,,high,low,9,namecheap,,,
 e21fc36d-bbe2-4a3b-85a7-bf25f2779c0f,englishspeaking.ca,available,9.99,9.99,medium,low,16,namesilo,,,
 60717c03-4299-477c-a2c1-23a7bd3cb63f,didnt.ca,available,9.99,9.99,medium,low,5,namesilo,,,
-6590db44-2703-4cf2-92d0-d811c4aa8aaf,decorated.ca,available,9.99,9.99,medium,low,9,namesilo,,,
+6590db44-2703-4cf2-92d0-d811c4aa8aaf,decorated.ca,available,9.99,9.99,low,low,9,namesilo,,,21/09/2026 19:45
 9a74b4b3-08a4-45e6-a7e3-bcd8f248ca9a,aneuploid.ca,available,9.99,9.99,low,low,9,namesilo,,,
 8866fba4-6c2f-4379-bb1d-aaed2264b3c0,ben.ca,resell,,,high,medium,3,Grape Inc.,01/02/2001 17:26,01/02/2027 05:00,
 c3781f4a-0fb3-472f-a8d2-13eef39d3589,aerie.ca,resell,,,medium,medium,5,BareMetal.com inc,10/01/2018 21:01,10/01/2028 21:01,
 1d809152-893f-43eb-a3bd-16df8d0f2d44,wordis.ca,available,9.99,9.99,low,low,7,namesilo,,,
 c4ced03e-c828-4e6e-84db-de8a99203498,mothahfuggah.ca,available,9.99,9.99,medium,low,12,namesilo,,,
+51cf614f-e62c-44a8-b9a1-8fd9d29a0bad,accentual.ca,available,9.99,9.99,low,low,9,namesilo,,,
+e8ed0c9d-52f3-414a-8362-3363a562782f,patrisib.ca,available,9.99,9.99,low,low,8,namesilo,,,
+bbf7eda6-a3f5-4bdd-8c2a-2c7dc7fee73d,algometric.ca,available,9.99,9.99,low,low,10,namesilo,,,
+5f4968b2-2947-47ee-9e7d-b4e86be5b1d6,tornadowarning.ca,available,9.99,9.99,medium,low,15,namesilo,,,
+3af9e603-080a-4406-a6f4-8ab1cc9af2f1,septet.ca,available,9.99,9.99,low,low,6,namesilo,,,
+55769aa3-133c-475b-b8e3-31f0edaf2fb0,czechoslovakia.ca,available,9.99,9.99,medium,low,14,namesilo,,,
+b42a6387-ca5f-43d0-b025-28d91d9f4ae3,screwabout.ca,available,9.99,9.99,low,low,11,namesilo,,,
+abbc873f-8d2f-4293-8fc8-aecd3ec816a0,blurry.ca,resell,,,low,low,6,Webnames.ca Inc.,25/11/2009 20:33,25/11/2026 05:00,22/09/2026 23:23
+5bd92a53-4aae-49e1-b1fe-8da0d8a95aba,noncitizen.ca,available,9.99,9.99,low,low,10,namesilo,,,
+74c45bcd-e6cd-41c1-a00b-ebc62e308577,putacross.ca,available,9.99,9.99,high,low,10,namesilo,,,
+b8c89272-3dd0-4292-8e7c-7b357c614497,albinistic.ca,available,9.99,9.99,low,low,10,namesilo,,,
+2917bede-6ce8-4720-83ba-53e29423c207,berried.ca,available,9.99,9.99,low,low,7,namesilo,,,08/08/2026 04:45
+29b5ec7e-6d0e-4ad1-a2ac-667f8e7db62c,descend.ca,resell,,,high,low,7,BareMetal.com inc,30/04/2025 19:00,30/04/2026 19:00,
+d3712546-22d4-4f9a-bc8e-619b319f85c9,ahorseback.ca,available,11.98,14.98,low,low,10,namecheap,,,
