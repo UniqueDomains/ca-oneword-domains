@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ca one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,332 domains · **Median ask:** $21.71 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/ca`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain       | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                    |
 | ------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
-| period.ca    | resell    | —          | —             | high           | low    | 6      | Namespro Solutions Inc.      |
-| travel.ca    | resell    | —          | —             | high           | medium | 6      | CanSpace Solutions Inc.      |
-| cxxv.ca      | available | $9.99      | $9.99         | low            | low    | 4      | namesilo                     |
-| forgiving.ca | resell    | $4,025     | $16.99        | medium         | low    | 9      | Go Daddy Domains Canada, Inc |
+| asat.ca      | available | $9.99      | $9.99         | medium         | low    | 4      | namesilo                     |
+| ain.ca       | resell    | —          | —             | high           | low    | 3      | Namespro Solutions Inc.      |
 | with.ca      | premium   | $10,660.50 | —             | high           | high   | 4      | Namespro Solutions Inc.      |
-| lxxx.ca      | available | $11.98     | $14.98        | low            | low    | 4      | namecheap                    |
+| clxx.ca      | available | $9.99      | $9.99         | medium         | low    | 4      | namesilo                     |
 | ane.ca       | resell    | —          | —             | medium         | low    | 3      | Namespro Solutions Inc.      |
-| fraud.ca     | premium   | $5,922.50  | —             | medium         | low    | 5      | BareMetal.com inc            |
-| xxii.ca      | available | $9.99      | $9.99         | low            | low    | 4      | namesilo                     |
+| fraud.ca     | premium   | $5,922.50  | —             | high           | low    | 5      | BareMetal.com inc            |
+| cxxv.ca      | available | $9.99      | $9.99         | medium         | low    | 4      | namesilo                     |
 | ben.ca       | resell    | —          | —             | high           | medium | 3      | Grape Inc.                   |
-| layer.ca     | premium   | $8,883.75  | —             | medium         | low    | 5      | Namespro Solutions Inc.      |
-| abaft.ca     | available | $9.99      | $9.99         | low            | low    | 5      | namesilo                     |
-| gun.ca       | resell    | —          | —             | medium         | low    | 3      | Go Daddy Domains Canada, Inc |
-| alittle.ca   | premium   | $9.99      | $9.99         | medium         | low    | 8      | namesilo                     |
-| agaze.ca     | available | $9.99      | $9.99         | low            | low    | 5      | namesilo                     |
-| had.ca       | resell    | —          | —             | high           | low    | 3      | easyDNS Technologies Inc.    |
+| layer.ca     | premium   | $8,883.75  | —             | high           | low    | 5      | Namespro Solutions Inc.      |
+| lxxx.ca      | available | $11.98     | $14.98        | medium         | low    | 4      | namecheap                    |
+| clv.ca       | resell    | —          | —             | high           | low    | 3      | Namespro Solutions Inc.      |
+| actively.ca  | premium   | $1,035     | $1,035        | high           | low    | 8      | name.com                     |
+| thus.ca      | available | $14.98     | —             | high           | low    | 4      | namecheap                    |
+| dad.ca       | resell    | —          | —             | high           | low    | 3      | CENTRALNIC CANADA INC        |
 | probable.ca  | premium   | $33,166    | —             | high           | low    | 8      | Grape Inc.                   |
-| azoic.ca     | available | $9.99      | $9.99         | low            | low    | 5      | namesilo                     |
-| ink.ca       | resell    | —          | —             | high           | low    | 3      | BareMetal.com inc            |
-| voicemail.ca | premium   | $9,476     | —             | low            | low    | 10     | Namespro Solutions Inc.      |
+| xcii.ca      | available | $11.98     | $14.98        | medium         | low    | 4      | namecheap                    |
+| god.ca       | resell    | —          | —             | high           | medium | 3      | Go Daddy Domains Canada, Inc |
+| travelled.ca | premium   | $5,736.20  | $16.99        | high           | low    | 9      | MyID.ca INC.                 |
+| xlvi.ca      | available | $9.99      | $9.99         | medium         | low    | 4      | namesilo                     |
+| gun.ca       | resell    | —          | —             | high           | low    | 3      | Go Daddy Domains Canada, Inc |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CA One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CA One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
