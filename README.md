@@ -1,10 +1,10 @@
-# Available .CA One-Word Domains (9,512)
+# Available .CA One-Word Domains (9,624)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C512%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C624%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ca one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,512 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,624 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,512 domains · **Median ask:** $22.41 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 9,624 domains · **Median ask:** $22.33 · **High-demand under $2,500:** 6
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/ca`
 **Best for:** founders, investors, studios
 
@@ -73,17 +73,17 @@ print(df.head())
 | winy.ca     | available | $9.99     | $9.99         | medium         | low    | 4      | namesilo                     |
 | cia.ca      | resell    | —         | —             | high           | medium | 3      | WHC Online Solutions Inc.    |
 | abila.ca    | available | $11.98    | $14.98        | medium         | low    | 5      | namecheap                    |
-| fry.ca      | resell    | —         | —             | high           | low    | 3      | MyID.ca INC.                 |
-| abohm.ca    | available | $9.99     | $9.99         | medium         | low    | 5      | namesilo                     |
 | gum.ca      | resell    | —         | —             | high           | low    | 3      | Go Daddy Domains Canada, Inc |
-| alkyl.ca    | available | $11.98    | $14.98        | medium         | low    | 5      | namecheap                    |
+| abohm.ca    | available | $9.99     | $9.99         | medium         | low    | 5      | namesilo                     |
 | hem.ca      | resell    | —         | —             | medium         | low    | 3      | Namespro Solutions Inc.      |
+| alkyl.ca    | available | $11.98    | $14.98        | medium         | low    | 5      | namecheap                    |
+| les.ca      | resell    | —         | —             | medium         | low    | 3      | Go Daddy Domains Canada, Inc |
 | ankus.ca    | available | $9.99     | $9.99         | medium         | low    | 5      | namesilo                     |
-| les.ca      | resell    | —         | —             | high           | low    | 3      | Go Daddy Domains Canada, Inc |
-| aroid.ca    | available | $9.99     | $9.99         | medium         | low    | 5      | namesilo                     |
 | pet.ca      | resell    | —         | —             | high           | medium | 3      | Go Daddy Domains Canada, Inc |
-| azote.ca    | available | $9.99     | $9.99         | medium         | low    | 5      | namesilo                     |
+| aroid.ca    | available | $9.99     | $9.99         | medium         | low    | 5      | namesilo                     |
 | rig.ca      | resell    | —         | —             | high           | low    | 3      | MyID.ca INC.                 |
+| azote.ca    | available | $9.99     | $9.99         | medium         | low    | 5      | namesilo                     |
+| she.ca      | resell    | —         | —             | high           | low    | 3      | Grape Inc.                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,512 live domains                         |
+| 1,000-row public sample | 9,624 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 6 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CA One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CA One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
